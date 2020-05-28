@@ -1,0 +1,627 @@
+﻿1
+00:00:01,000 --> 00:00:06,000
+<font color="yellow">♥Diterjemahkan oleh Cherry Blossom♥</font>
+
+2
+00:00:32,110 --> 00:00:34,610
+<font color="yellow">Episode 4 [Wajah (Bagian 2)]</font>
+
+3
+00:01:21,110 --> 00:01:23,110
+<font color="yellow"><i>Kurasa aku tidak dapat mempercayainya.</i></font>
+
+4
+00:01:29,940 --> 00:01:30,940
+<font color="yellow">Tinggalkan aku, pergilah</font>
+
+5
+00:01:30,940 --> 00:01:32,640
+<font color="yellow"><u>aku tidak punya sesuatu untuk dibicarakan</u></font>
+
+6
+00:01:32,640 --> 00:01:34,040
+<font color="yellow">kau tidak punya sesuatu yang dibicarakan padaku?</font>
+
+7
+00:01:34,040 --> 00:01:36,940
+<font color="yellow">Kau berciuman dengan orang lain,
+tetapi kau bilang tidak ada yang perlu dibicarakan  denganku?</font>
+
+8
+00:01:36,940 --> 00:01:38,940
+<font color="yellow">Siapa sih bajingan itu?</font>
+
+9
+00:01:38,940 --> 00:01:41,440
+<font color="yellow">Aku bilang, <u>aku tidak punya sesuatu untuk dibicarakan</u></font>
+
+10
+00:01:41,440 --> 00:01:43,440
+<font color="yellow">Kenapa kau begitu berani?</font>
+
+11
+00:01:43,440 --> 00:01:44,940
+<font color="yellow">Siapa sih bajingan itu?</font>
+
+12
+00:01:44,940 --> 00:01:46,440
+<font color="yellow">Katakan!</font>
+
+13
+00:01:46,440 --> 00:01:48,140
+<font color="yellow"><u>aku tidak punya sesuatu untuk dibicarakan padamu</u></font>
+
+14
+00:01:48,140 --> 00:01:51,440
+<font color="yellow">Ji Soo... Mengapa kau tidak berkata apapun?</font>
+
+15
+00:01:52,940 --> 00:01:56,440
+<font color="yellow">Kau... apa alasanmu
+untuk melakukan ini padaku?</font>
+
+16
+00:01:56,440 --> 00:01:59,440
+<font color="yellow">Kau adalah orang yang suka menggoda orang lain</font>
+
+17
+00:01:59,440 --> 00:02:02,160
+<font color="yellow">Apa yang harus aku bilang padamu?
+ketika kau bertanya, apa yang terjadi denganku?</font>
+
+18
+00:02:02,160 --> 00:02:04,340
+<font color="yellow">- Apa yang harus aku bilang?
+- Orang itu adalah kekasihku!</font>
+
+19
+00:02:04,340 --> 00:02:07,940
+<font color="yellow">Dari sebelumnya... dan mulai hari ini,
+dia akan tetap menjadi kekasihkui.</font>
+
+20
+00:02:07,940 --> 00:02:13,440
+<font color="yellow">Siapa dia? Sampai kemarin,
+aku kekasihmu!</font>
+
+21
+00:02:13,440 --> 00:02:15,940
+<font color="yellow">Apa aku pernah mengatakan
+bahwa aku mencintaimu?</font>
+
+22
+00:02:15,940 --> 00:02:19,440
+<font color="yellow">Kau bilang kau mencintaiku dengan caramu sendiri!
+Aku tidak pernah mengatakan aku mencintaimu!</font>
+
+23
+00:02:19,440 --> 00:02:21,940
+<font color="yellow">Ku katakan berkali-kali
+bahwa aku ingin mengakhiri semuanya!</font>
+
+24
+00:02:21,940 --> 00:02:23,440
+<font color="yellow">Mari kita berhenti...</font>
+
+25
+00:02:24,240 --> 00:02:26,440
+<font color="yellow">Mari kita berhenti sekarang.
+Kumohon. Ya?</font>
+
+26
+00:02:26,440 --> 00:02:30,440
+<font color="yellow">Apa artinya aku untukmu? Hah?</font>
+
+27
+00:02:31,440 --> 00:02:33,900
+<font color="yellow">Kau seperti... seperti makanan cepat saji.</font>
+
+28
+00:02:33,930 --> 00:02:37,460
+<font color="yellow">yang hanya bisa sekali dipakai</font>
+
+29
+00:02:40,440 --> 00:02:44,440
+<font color="yellow"><i>Ji Soo pergi dan aku ditinggalkan.</i></font>
+
+30
+00:02:45,940 --> 00:02:50,440
+<font color="yellow"><i>Pada hari itu, hatiku juga berakhir</i></font>
+
+31
+00:02:50,940 --> 00:02:55,940
+<font color="yellow"><i>Meskipun semua itu... telah berakhir,
+aku terus mencintainya.</i></font>
+
+32
+00:02:56,940 --> 00:02:59,470
+<font color="yellow"><i>Seperti orang bodoh.</i></font>
+
+33
+00:03:07,740 --> 00:03:10,440
+<font color="yellow"><i>Aku merasa bahwa aku bisa hidup jika aku menghapusnya dari pikiranku </i></font>
+
+34
+00:03:10,440 --> 00:03:12,940
+<font color="yellow"><i>Jadi aku menghapus nya.</i></font>
+
+35
+00:03:12,940 --> 00:03:15,440
+<font color="yellow">Sehingga aku bahkan tidak ingat wajahnya.</font>
+
+36
+00:03:19,440 --> 00:03:21,440
+<font color="yellow">Lihat dirimu, berkubang dalam kesengsaraan</font>
+
+37
+00:03:21,440 --> 00:03:24,440
+<font color="yellow">- nasib sial...
+- Kau adalah orang dengan nasib sial.</font>
+
+38
+00:03:24,440 --> 00:03:26,440
+<font color="yellow">Mengapa kau menyimpan
+foto yang telah robek?</font>
+
+39
+00:03:26,940 --> 00:03:28,770
+<font color="yellow">Sebuah  foto robek?</font>
+
+40
+00:03:31,440 --> 00:03:35,440
+<font color="yellow">Oh, ini? Aku mengambilnya dari cinta pertamaku</font>
+
+41
+00:03:35,440 --> 00:03:37,440
+<font color="yellow">Dan ini adalah satu-satunya foto
+yang kami ambil bersama-sama.</font>
+
+42
+00:03:37,440 --> 00:03:41,440
+<font color="yellow">Tapi ketika kami putus, dia merobeknya
+dan mengambil setengahnya</font>
+
+43
+00:03:41,440 --> 00:03:43,440
+<font color="yellow">Dia bahkan tidak ingin aku
+memikirkannya</font>
+
+44
+00:03:43,940 --> 00:03:46,440
+<font color="yellow">Dasar wanita gila. Kenapa dia harus peduli?</font>
+
+45
+00:03:46,440 --> 00:03:47,940
+<font color="yellow">Itu bukan urusannya.</font>
+
+46
+00:03:47,940 --> 00:03:52,440
+<font color="yellow">Jadi aku kesal
+dan aku ingin merobek setengahnya juga...</font>
+
+47
+00:03:52,940 --> 00:03:55,440
+<font color="yellow">Tapi berpikir tentang hal itu,
+ini semua bagian dari kehidupan.</font>
+
+48
+00:03:56,440 --> 00:04:00,940
+<font color="yellow">Aku tetap membuatnya utuh sehingga aku bisa melihatnya
+dan mengingat waktu yang indah yang aku punya</font>
+
+49
+00:04:04,440 --> 00:04:05,440
+<font color="yellow">Sung Joon.</font>
+
+50
+00:04:05,440 --> 00:04:09,440
+<font color="yellow">Jangan berpura - pura seolah - olah kau tidak apa - apa.
+itu tidak keren</font>
+
+51
+00:04:09,940 --> 00:04:11,440
+<font color="yellow">Lalu apa yang harus aku lakukan?</font>
+
+52
+00:04:11,440 --> 00:04:15,440
+<font color="yellow">bertingkah seperti, mengatakan, "aku sangat ingin melihat
+wajahnya!" atau sesuatu, seperti yang kau lakukan?</font>
+
+53
+00:04:16,440 --> 00:04:21,070
+<font color="yellow">Bersyukurlah  pada kenangan yang terlupakan
+ketika kau melupakannya</font>
+
+54
+00:04:23,940 --> 00:04:24,940
+<font color="yellow">Hey.</font>
+
+55
+00:04:25,940 --> 00:04:28,440
+<font color="yellow">Jaga rahasia ini dari Mariko, oke?</font>
+
+56
+00:04:31,440 --> 00:04:32,440
+<font color="yellow">Sung Joon.</font>
+
+57
+00:04:32,440 --> 00:04:34,940
+<font color="yellow">menurutmu aku akan dapat menemukan orang
+yang mencuri ponselku?</font>
+
+58
+00:04:34,940 --> 00:04:37,940
+<font color="yellow">Kau memiliki ponsel baru sekarang, jadi apa
+yang akan kau lakukan jika  menemukannya?</font>
+
+59
+00:04:37,940 --> 00:04:42,440
+<font color="yellow">Aku ingin bertanya pada ponselku,
+"Mengapa kau kembali padaku?"</font>
+
+60
+00:04:42,440 --> 00:04:45,040
+<font color="yellow">Jika kau terbiasa dengan  omong kosong,
+menjadi kebiasaan juga, ya?</font>
+
+61
+00:04:45,040 --> 00:04:46,340
+<font color="yellow">Itu karena saya hidup dengan banteng.</font>
+
+62
+00:04:46,340 --> 00:04:48,040
+<font color="yellow">Kau perlu diperiksa
+ke rumah sakit jiwa.</font>
+
+63
+00:04:48,040 --> 00:04:50,230
+<font color="yellow">Kurasa itu karena
+aku tinggal dengan pasien sakit jiwa.</font>
+
+64
+00:04:50,940 --> 00:04:52,940
+<font color="yellow">Haruskah aku  membawa
+Pasien Tuan Mental?</font>
+
+65
+00:04:52,940 --> 00:04:56,010
+<font color="yellow">Oh... pose yang bagus!</font>
+
+66
+00:05:01,440 --> 00:05:02,940
+<font color="yellow">Seperti ini...</font>
+
+67
+00:05:02,940 --> 00:05:04,440
+<font color="yellow">- Seperti ini?
+- Ya. Baik.</font>
+
+68
+00:05:04,940 --> 00:05:05,940
+<font color="yellow">Sangat baik.</font>
+
+69
+00:05:07,440 --> 00:05:08,440
+<font color="yellow">Ya, ya.</font>
+
+70
+00:05:08,440 --> 00:05:11,440
+<font color="yellow">Woo Hyun,
+sketsa komposit selesai!</font>
+
+71
+00:05:12,640 --> 00:05:16,640
+<font color="yellow"><i>Kami menciptakan sketsa komposit dengan
+informasi yang Anda berikan pada kami.</i></font>
+
+72
+00:05:16,640 --> 00:05:18,640
+<font color="yellow"><i>Kami akan mencari kriminal dengan menggunakan ini.</i></font>
+
+73
+00:05:18,640 --> 00:05:20,140
+<font color="yellow">Saya sudah bilang, Bu.</font>
+
+74
+00:05:20,140 --> 00:05:23,140
+<font color="yellow">Saya katakan, tidak ada gunanya datang ke sini.</font>
+
+75
+00:05:23,140 --> 00:05:27,140
+<font color="yellow">Saya mohon padamu,tolong temukan dia</font>
+
+76
+00:05:27,140 --> 00:05:34,640
+<font color="yellow">Jika Anda menemukan suami saya, saya
+tidak akan datang lagi.</font>
+
+77
+00:05:36,140 --> 00:05:38,640
+<font color="yellow">Saya mohon.</font>
+
+78
+00:05:39,140 --> 00:05:40,140
+<font color="yellow">ini</font>
+
+79
+00:05:41,640 --> 00:05:42,640
+<font color="yellow">Ini</font>
+
+80
+00:05:43,140 --> 00:05:46,140
+<font color="yellow">Suami saya cukup ganteng, kan?</font>
+
+81
+00:05:46,140 --> 00:05:51,130
+<font color="yellow">Dia sangat mencintai saya</font>
+
+82
+00:05:54,140 --> 00:05:57,810
+<font color="yellow">Silakan pulang</font>
+
+83
+00:06:11,140 --> 00:06:12,140
+<font color="yellow">Mariko.</font>
+
+84
+00:06:12,140 --> 00:06:15,640
+<font color="yellow">Bisakah kau mencari tahu
+ada apa  dengan nenek itu?</font>
+
+85
+00:06:15,640 --> 00:06:16,640
+<font color="yellow">Oke.</font>
+
+86
+00:06:20,640 --> 00:06:21,640
+<font color="yellow">Permisi.</font>
+
+87
+00:06:21,640 --> 00:06:22,640
+<font color="yellow">Ya?</font>
+
+88
+00:06:22,640 --> 00:06:25,640
+<font color="yellow">Nenek tadi...apa yang terjadi dengan beliau?</font>
+
+89
+00:06:27,140 --> 00:06:31,140
+<font color="yellow">Oh... Anda tahu ada seorang laki - laki  tua,
+disampingnya?</font>
+
+90
+00:06:31,640 --> 00:06:33,730
+<font color="yellow">Dia adalah suaminya</font>
+
+91
+00:06:33,760 --> 00:06:38,140
+<font color="yellow">Tapi wanita tua memiliki demensia,
+jadi dia tidak ingat padanya</font>
+
+92
+00:06:38,140 --> 00:06:40,140
+<font color="yellow">Hey... apa ini?</font>
+
+93
+00:06:40,640 --> 00:06:42,140
+<font color="yellow">Perasaan aneh ini.</font>
+
+94
+00:06:42,140 --> 00:06:44,140
+<font color="yellow">Tepat? Anda merasa juga, kan?</font>
+
+95
+00:06:44,140 --> 00:06:45,140
+<font color="yellow">Sung Joon.</font>
+
+96
+00:06:45,140 --> 00:06:46,140
+<font color="yellow">Huh?</font>
+
+97
+00:06:46,140 --> 00:06:48,140
+<font color="yellow">Mari mewawancarai mereka.</font>
+
+98
+00:06:49,640 --> 00:06:55,130
+<font color="yellow">Tema akan, "Cinta Pertama"
+dan "Sebuah Wajah yang tak terlupakan."</font>
+
+99
+00:07:10,640 --> 00:07:11,640
+<font color="yellow"><i>Haruka, apa kau sibuk?</i></font>
+
+100
+00:07:11,640 --> 00:07:14,640
+<font color="yellow"><i>Aku pergi ke kantor polisi hari ini
+karena  telepon saya dicuri.</i></font>
+
+101
+00:07:14,640 --> 00:07:17,640
+<font color="yellow"><i>Dan aku mendengar cerita yang benar-benar tulus.</i></font>
+
+102
+00:07:20,140 --> 00:07:23,640
+<font color="yellow"><i>Tapi... kau mungkin terkena serangan jantung.</i></font>
+
+103
+00:07:23,640 --> 00:07:25,140
+<font color="yellow"><i>Berbaliklah</i></font>
+
+104
+00:07:25,640 --> 00:07:26,640
+<font color="yellow"><i>Sekarang.</i></font>
+
+105
+00:07:29,640 --> 00:07:31,640
+<font color="yellow">Kau mau mengagetkanku lagi!</font>
+
+106
+00:07:32,640 --> 00:07:33,640
+<font color="yellow">Apa kau terkejut?</font>
+
+107
+00:07:50,640 --> 00:07:51,640
+<font color="yellow">Haruka.</font>
+
+108
+00:07:54,140 --> 00:07:56,640
+<font color="yellow">- Ayo kita pergi.
+- Ayo.</font>
+
+109
+00:08:20,140 --> 00:08:23,140
+<font color="yellow"><i>Oh? Ini  pertama kalinya aku melihat fotomu.</i></font>
+
+110
+00:08:27,410 --> 00:08:33,110
+<font color="yellow"><i>Temanku bilang  bahwa profil tanpa foto
+tidak menyenangkan, jadi dia menguploadnya.</i></font>
+
+111
+00:08:33,640 --> 00:08:34,640
+<font color="yellow"><i>Oh.</i></font>
+
+112
+00:08:36,640 --> 00:08:37,640
+<font color="yellow"><i>Tunggu.</i></font>
+
+113
+00:08:39,140 --> 00:08:40,640
+<font color="yellow"><i>Apa aku harus menguploadnya satu juga?</i></font>
+
+114
+00:08:43,640 --> 00:08:44,640
+<font color="yellow"><i>Oke.</i></font>
+
+115
+00:08:45,640 --> 00:08:47,640
+<font color="yellow"><i>Aku  mengupload satu barusan juga</i></font>
+
+116
+00:08:49,140 --> 00:08:50,140
+<font color="yellow"><i>Apa kau mau lihat?</i></font>
+
+117
+00:08:50,140 --> 00:08:51,640
+<font color="yellow"><i>[Aku menguploadnya barusan.]</i></font>
+
+118
+00:08:51,640 --> 00:08:58,100
+<font color="yellow"><i>[Apa  kau mau lihat?]</i></font>
+
+119
+00:08:58,140 --> 00:09:02,140
+<font color="yellow"><i>[gambar suteki yang bagus.]</i></font>
+
+120
+00:09:03,640 --> 00:09:08,140
+<font color="yellow"><i>Steak? Ini bukan foto dari steak,...</i></font>
+
+121
+00:09:09,140 --> 00:09:13,140
+<font color="yellow"><i>Melihat foto ini, kurasa kau punya senyum yang manis.</i></font>
+
+122
+00:09:13,640 --> 00:09:16,140
+<font color="yellow"><i> aku penasaran seperti apa wajahmu</i></font>
+
+123
+00:09:20,140 --> 00:09:23,140
+<font color="yellow"><i>Aku  akan mengirimkan foto wajah tersenyum kapan - kapan.</i></font>
+
+124
+00:09:23,640 --> 00:09:25,640
+<font color="yellow">Aku  penasaran seperti apa wajahnya</font>
+
+125
+00:09:54,140 --> 00:09:55,140
+<font color="yellow">Ya.</font>
+
+126
+00:09:57,640 --> 00:09:59,140
+<font color="yellow">Sudah 40 tahun.</font>
+
+127
+00:10:02,140 --> 00:10:07,020
+<font color="yellow">Saya telah tinggal dengan istri saya</font>
+
+128
+00:10:07,020 --> 00:10:11,660
+<font color="yellow">Selama 40 tahun yang panjang...</font>
+
+129
+00:10:12,640 --> 00:10:19,450
+<font color="yellow">Tapi istri saya tidak mampu mengenali saya
+lebih dan lebih setiap harinya.</font>
+
+130
+00:10:22,040 --> 00:10:23,980
+<font color="yellow">Kalian tahu...</font>
+
+131
+00:10:23,980 --> 00:10:31,980
+<font color="yellow">Saya juga mencari suami tercinta saya</font>
+
+132
+00:10:32,640 --> 00:10:35,640
+<font color="yellow">Tapi aku tidak bisa menemukannya.</font>
+
+133
+00:10:35,640 --> 00:10:39,640
+<font color="yellow">Ini benar-benar tragis.</font>
+
+134
+00:10:40,640 --> 00:10:42,640
+<font color="yellow">Ya.</font>
+
+135
+00:10:46,140 --> 00:10:48,140
+<font color="yellow">Aku minta maaf...</font>
+
+136
+00:10:49,640 --> 00:10:51,640
+<font color="yellow">40 tahun, ya?</font>
+
+137
+00:10:51,640 --> 00:10:56,140
+<font color="yellow">Untuk membuat Anda berliku-liku begitu banyak seperti ini.</font>
+
+138
+00:10:59,640 --> 00:11:02,640
+<font color="yellow">Dia tidak bisa mengenali saya lagi.</font>
+
+139
+00:11:04,140 --> 00:11:08,640
+<font color="yellow">Saya  benar - benar mencarinya</font>
+
+140
+00:11:08,640 --> 00:11:11,140
+<font color="yellow">Ini benar-benar
+penyakit yang sulit diatasi</font>
+
+141
+00:11:18,140 --> 00:11:23,140
+<font color="yellow">Meski begitu... Saya masih akan
+hidup dengan orang ini.</font>
+
+142
+00:11:23,640 --> 00:11:26,640
+<font color="yellow">Aku tidak bisa tidak bersamanya.</font>
+
+143
+00:11:30,640 --> 00:11:35,140
+<font color="yellow">Aku benar-benar mencintai suami saya.</font>
+
+144
+00:11:35,640 --> 00:11:38,140
+<font color="yellow">Kemana dia pergi?</font>
+
+145
+00:11:41,640 --> 00:11:45,640
+<font color="yellow">Saya mencoba begitu keras untuk menemukannya.</font>
+
+146
+00:11:46,700 --> 00:11:51,700
+<font color="yellow">♥Diterjemahkan oleh Cherry Blossom♥</font>
+

@@ -1,0 +1,3750 @@
+﻿1
+00:00:01,000 --> 00:00:01,100
+<font color="#7CBDFD">E </font>
+
+2
+00:00:01,100 --> 00:00:01,200
+<font color="#7CBDFD">En </font>
+
+3
+00:00:01,200 --> 00:00:01,300
+<font color="#7CBDFD">Eng </font>
+
+4
+00:00:01,300 --> 00:00:01,400
+<font color="#7CBDFD">Eng</font><font color="#FC513D">l</font>
+
+5
+00:00:01,400 --> 00:00:01,500
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>
+
+6
+00:00:01,500 --> 00:00:01,600
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>s
+
+7
+00:00:01,600 --> 00:00:01,700
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh
+
+8
+00:00:01,700 --> 00:00:01,800
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#F37308">S</font>
+
+9
+00:00:01,800 --> 00:00:01,900
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#F37308">Su</font>
+
+10
+00:00:01,900 --> 00:00:02,000
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Sub</font>
+
+11
+00:00:02,000 --> 00:00:02,100
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subt</font>
+
+12
+00:00:02,100 --> 00:00:02,200
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subti</font>
+
+13
+00:00:02,200 --> 00:00:02,300
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtit</font>
+
+14
+00:00:02,300 --> 00:00:02,400
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitl</font>
+
+15
+00:00:02,400 --> 00:00:02,500
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle</font>
+
+16
+00:00:02,500 --> 00:00:02,600
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">b</font>
+
+17
+00:00:02,600 --> 00:00:02,700
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font>
+
+18
+00:00:02,700 --> 00:00:02,800
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">V</font>
+
+19
+00:00:02,800 --> 00:00:02,900
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VI</font>
+
+20
+00:00:02,900 --> 00:00:06,000
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+
+21
+00:00:06,000 --> 00:00:06,100
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">D</font>
+
+22
+00:00:06,100 --> 00:00:06,200
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">Di</font>
+
+23
+00:00:06,200 --> 00:00:06,300
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">Dit</font>
+
+24
+00:00:06,300 --> 00:00:06,400
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">Dite</font>
+
+25
+00:00:06,400 --> 00:00:06,500
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">Diter</font>
+
+26
+00:00:06,500 --> 00:00:06,600
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">Diterj</font>
+
+27
+00:00:06,600 --> 00:00:06,700
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">Diterje</font>
+
+28
+00:00:06,700 --> 00:00:06,800
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">Diterjem</font>
+
+29
+00:00:06,800 --> 00:00:06,900
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">Diterjema</font>
+
+30
+00:00:06,900 --> 00:00:07,000
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">Diterjemah</font>
+
+31
+00:00:07,000 --> 00:00:07,100
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">Diterjemahkan</font>
+
+32
+00:00:07,100 --> 00:00:07,200
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">Diterjemahkan </font>O
+
+33
+00:00:07,200 --> 00:00:07,300
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">Diterjemahkan </font>Ol
+
+34
+00:00:07,300 --> 00:00:07,400
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">Diterjemahkan </font>Ole
+
+35
+00:00:07,400 --> 00:00:07,500
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">Diterjemahkan </font>Oleh
+
+36
+00:00:07,500 --> 00:00:07,600
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">Diterjemahkan </font>Oleh <font color="#DAF7A6">@</font>
+
+37
+00:00:07,600 --> 00:00:07,700
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">Diterjemahkan </font>Oleh <font color="#DAF7A6">@L</font>
+
+38
+00:00:07,700 --> 00:00:07,800
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">Diterjemahkan </font>Oleh <font color="#DAF7A6">@Lo</font>
+
+39
+00:00:07,800 --> 00:00:07,900
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">Diterjemahkan </font>Oleh <font color="#DAF7A6">@Lor</font>
+
+40
+00:00:07,900 --> 00:00:08,000
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">Diterjemahkan </font>Oleh <font color="#DAF7A6">@Lord</font>
+
+41
+00:00:08,000 --> 00:00:08,100
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">Diterjemahkan </font>Oleh <font color="#DAF7A6">@Lord_</font>
+
+42
+00:00:08,100 --> 00:00:08,200
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">Diterjemahkan </font>Oleh <font color="#DAF7A6">@Lord_M</font>
+
+43
+00:00:08,200 --> 00:00:08,300
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">Diterjemahkan </font>Oleh <font color="#DAF7A6">@Lord_Mi</font>
+
+44
+00:00:08,300 --> 00:00:08,400
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">Diterjemahkan </font>Oleh <font color="#DAF7A6">@Lord_Min</font>
+
+45
+00:00:08,400 --> 00:00:08,500
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">Diterjemahkan </font>Oleh <font color="#DAF7A6">@Lord_Minh</font>
+
+46
+00:00:08,500 --> 00:00:13,000
+<font color="#7CBDFD">Eng</font><font color="#FC513D">li</font>sh <font color="#CFC1A1">Subtitle </font><font color="#C9C7C4">by </font><font color="#FFD700">VIU</font>
+<font color="#FC513D">Diterjemahkan </font>Oleh <font color="#DAF7A6">@Lord_Minho</font>
+
+47
+00:00:06,433 --> 00:00:07,433
+Fang.
+
+48
+00:00:10,563 --> 00:00:12,333
+Fang. Apakah kau di sini?
+
+49
+00:00:13,372 --> 00:00:14,372
+Fang.
+
+50
+00:00:19,813 --> 00:00:20,813
+Fang.
+
+51
+00:00:32,622 --> 00:00:34,322
+Hei, Fang.
+
+52
+00:00:35,462 --> 00:00:36,862
+Lihatlah kakimu.
+
+53
+00:00:37,962 --> 00:00:40,663
+Lihatlah jejak kakimu.
+
+54
+00:00:45,233 --> 00:00:46,633
+Fang.
+
+55
+00:00:47,173 --> 00:00:48,303
+Itu tidak akan lepas.
+
+56
+00:00:53,012 --> 00:00:54,542
+Apa yang kau lakukan, Seo Ri?
+
+57
+00:00:55,413 --> 00:00:57,682
+Fang masuk ke sini dengan kaki berlumpur.
+
+58
+00:00:58,483 --> 00:00:59,483
+Berhenti.
+
+59
+00:01:00,652 --> 00:01:05,122
+Mr. Gong tidak ingin ada yang masuk ke sini.
+
+60
+00:01:05,353 --> 00:01:06,622
+Silakan keluar.
+
+61
+00:01:09,493 --> 00:01:12,893
+Astaga, apa ini baik-baik saja?
+
+62
+00:01:27,812 --> 00:01:30,883
+Saat dia ingin kembali?
+
+63
+00:01:31,283 --> 00:01:35,583
+(Episode 15, Variations on a Mystery)
+
+64
+00:01:45,732 --> 00:01:47,033
+Kau terlambat.
+
+65
+00:01:47,762 --> 00:01:48,833
+Astaga.
+
+66
+00:01:49,962 --> 00:01:51,803
+- Belum tidur?
+- Iya.
+
+67
+00:01:51,973 --> 00:01:53,932
+Aku berpikir tentang...
+
+68
+00:01:53,932 --> 00:01:55,803
+...memberitahumu suatu hal...
+
+69
+00:01:55,803 --> 00:01:57,473
+...dan aku rasa ini penting.
+
+70
+00:01:57,473 --> 00:02:00,072
+Aku sudah menunggu untuk memberitahumu ini...
+
+71
+00:02:00,072 --> 00:02:01,113
+Bahkan jika kau...
+
+72
+00:02:01,113 --> 00:02:02,482
+Bahkan jika aku terlambat.
+
+73
+00:02:02,482 --> 00:02:04,312
+Apa itu?
+
+74
+00:02:04,312 --> 00:02:07,452
+Aku melihat di pagi hari, pintu penyimpanan terbuka.
+
+75
+00:02:08,223 --> 00:02:11,492
+Anjingmu masuk ke sana, jadi aku harus masuk...
+
+76
+00:02:11,552 --> 00:02:13,322
+...meskipun...
+
+77
+00:02:13,422 --> 00:02:15,593
+...kau tidak menginginkanku di sana.
+
+78
+00:02:15,663 --> 00:02:16,723
+Aku minta maaf.
+
+79
+00:02:16,792 --> 00:02:19,792
+Tidak, itu tidak masalah.
+
+80
+00:02:20,732 --> 00:02:23,663
+Apakah tidak masalah?
+
+81
+00:02:23,732 --> 00:02:24,933
+Kau tidak perlu memikirkannya.
+
+82
+00:02:25,103 --> 00:02:26,302
+Aku akan menguncinya.
+
+83
+00:02:26,732 --> 00:02:28,373
+Sudah malam. Selamat tidur.
+
+84
+00:02:29,503 --> 00:02:30,572
+Mr. Gong?
+
+85
+00:02:31,012 --> 00:02:32,072
+Selamat malam.
+
+86
+00:02:33,142 --> 00:02:35,313
+Selamat malam.
+
+87
+00:02:53,563 --> 00:02:55,903
+Ya, ayah. Ada apa malam-malam menelpon?
+
+88
+00:03:01,003 --> 00:03:02,702
+Tidak, aku baik-baik saja.
+
+89
+00:03:02,943 --> 00:03:07,112
+Kenapa masalah itu harus menunggu sebulan?
+
+90
+00:03:07,112 --> 00:03:09,313
+Iya. Tidak ada yang perlu dikhawatirkan.
+
+91
+00:03:09,313 --> 00:03:12,482
+Bukan begitu, tapi jika tidak ada masalah,
+
+92
+00:03:12,482 --> 00:03:15,153
+Aku akan menyelesaikan urusan rumah lebih awal.
+
+93
+00:03:16,922 --> 00:03:18,522
+Rumah?
+
+94
+00:03:21,922 --> 00:03:24,392
+- Ayah...
+- Aku sudah tua.
+
+95
+00:03:24,593 --> 00:03:27,732
+Kau selalu di luar negeri selama setengah tahun.
+
+96
+00:03:27,732 --> 00:03:31,302
+Aku semakin tua, jadi bolak-balik untuk mempertahankannya...
+
+97
+00:03:32,302 --> 00:03:33,473
+...semakin sulit.
+
+98
+00:03:34,242 --> 00:03:35,702
+Maafkan aku, Ayah.
+
+99
+00:03:36,103 --> 00:03:37,943
+Aku selalu membuatmu khawatir.
+
+100
+00:03:42,943 --> 00:03:44,313
+(Untuk Jendela)
+
+101
+00:03:44,313 --> 00:03:45,313
+(Disewakan)
+
+102
+00:03:47,183 --> 00:03:49,283
+(300 dolar per bulan)
+
+103
+00:03:51,892 --> 00:03:53,392
+(300 dolar per bulan)
+
+104
+00:03:56,693 --> 00:03:58,492
+Aku tidak dapat menemukan apa pun.
+
+105
+00:04:03,403 --> 00:04:05,633
+Sekarang pohon ini juga akan hilang.
+
+106
+00:04:09,272 --> 00:04:10,913
+Kenapa kau tidak tidur?
+
+107
+00:04:11,813 --> 00:04:12,813
+Tidak kenapa-kenapa.
+
+108
+00:04:13,473 --> 00:04:15,012
+Kenapa kau diluar?
+
+109
+00:04:16,383 --> 00:04:17,812
+Aku juga tidak kenapa-kenapa.
+
+110
+00:04:20,213 --> 00:04:23,382
+Lalu aku akan datang ke Seoul minggu depan.
+
+111
+00:04:24,723 --> 00:04:27,663
+Fang masuk ke ruang penyimpanan dengan kaki berlumpur,
+
+112
+00:04:27,663 --> 00:04:29,723
+Jadi jejak kakinya mungkin ada di mana-mana.
+
+113
+00:04:29,723 --> 00:04:30,893
+Aku akan membersihkannya...
+
+114
+00:04:31,292 --> 00:04:32,732
+Kau tidak perlu khawatir.
+
+115
+00:04:32,792 --> 00:04:35,502
+Disana hanyalah barang-barang yang aku gunakan...
+...sebelum pergi ke Jerman.
+
+116
+00:04:35,502 --> 00:04:36,562
+Tidak masalah.
+
+117
+00:04:39,033 --> 00:04:42,942
+Benar. Aku mengumpulkan batu-batu dari bawah crepe-myrtle.
+
+118
+00:04:43,242 --> 00:04:45,013
+Aku bisa mengambilnya?
+
+119
+00:04:47,542 --> 00:04:49,812
+Aku akan masuk lebih dulu. Selamat malam.
+
+120
+00:04:53,482 --> 00:04:55,523
+Apakah tidak masalah?
+
+121
+00:05:25,482 --> 00:05:27,783
+Benar. Aku minta maaf.
+
+122
+00:05:28,353 --> 00:05:29,523
+Aku akan segera transfer.
+
+123
+00:05:30,893 --> 00:05:33,922
+Apakah aku mendapatkan serangan heartstoke?
+Aku lupa membayar sewa.
+
+124
+00:05:34,422 --> 00:05:36,023
+Apakah kau menyewa tempat?
+
+125
+00:05:36,663 --> 00:05:40,093
+Aku harus pindah sekarang, aku sudah mencari.
+
+126
+00:05:40,263 --> 00:05:41,763
+Aku tidak bisa menemukan sesuatu yang bagus.
+
+127
+00:05:42,533 --> 00:05:44,732
+Aku akan memeriksa beberapa tempat setelah kita kembali dari bengkel.
+
+128
+00:05:45,302 --> 00:05:48,643
+Kau haru bekerja untuk mencari sebuah kamar.
+
+129
+00:05:48,773 --> 00:05:50,542
+Berhenti. Sebuah kamar?
+
+130
+00:05:51,312 --> 00:05:54,242
+Apa ini? Sepertinya aku teringat sesuatu.
+
+131
+00:05:54,513 --> 00:05:56,812
+Apa? kenapa aku tiba-tiba teringat ikan?
+
+132
+00:05:56,812 --> 00:05:57,882
+Ikan?
+
+133
+00:05:58,052 --> 00:06:00,513
+Ikan? Haruskah kita makan ikan bakar untuk makan siang?
+
+134
+00:06:01,153 --> 00:06:03,953
+Aku suka. Aku tahu tempat yang bagus.
+
+135
+00:06:03,953 --> 00:06:05,523
+Mereka memiliki toothfish panggang yang sangat lezat dan mackerel Spanyol.
+
+136
+00:06:05,523 --> 00:06:06,552
+(Ruang tambahan Hee Su?)
+
+137
+00:06:06,552 --> 00:06:07,622
+(Haruskah aku mencari tempat untuknya?)
+
+138
+00:06:11,362 --> 00:06:12,833
+Kau disini?
+
+139
+00:06:13,163 --> 00:06:14,703
+Kami kembali.
+
+140
+00:06:17,163 --> 00:06:19,132
+Haruskah aku memintanya untuk pindah bersama?
+
+141
+00:06:19,132 --> 00:06:20,203
+Aku disini.
+
+142
+00:06:20,473 --> 00:06:22,843
+- Tidak panas?
+- Kau disini?
+
+143
+00:06:23,103 --> 00:06:25,343
+- Ruang tambahan Hee Su?
+- Pilih sendiri.
+
+144
+00:06:25,343 --> 00:06:28,783
+Mereka membuat tas jinjing untuk festival, jadi ambillah satu.
+
+145
+00:06:29,583 --> 00:06:31,783
+Manis. Es krim.
+
+146
+00:06:31,913 --> 00:06:33,453
+Cantik sekali.
+
+147
+00:06:33,453 --> 00:06:36,882
+Benar. Jadwal untuk lokakarya ada di mejamu.
+
+148
+00:06:36,882 --> 00:06:38,023
+Baik. Terima kasih.
+
+149
+00:06:40,422 --> 00:06:42,492
+Aku akan berangkat besok pagi.
+
+150
+00:06:42,492 --> 00:06:44,932
+Direktur utama ingin bertemu dan berbicara sebelumnya.
+
+151
+00:06:44,932 --> 00:06:46,593
+Lalu haruskah kita semua carpool?
+
+152
+00:06:46,862 --> 00:06:48,362
+Aku akan menjemputmu besok pagi, Woo Jin.
+
+153
+00:06:49,232 --> 00:06:50,463
+Aku sangat bersemangat.
+
+154
+00:06:50,463 --> 00:06:52,973
+Aku merasa seperti festival akhirnya dimulai.
+
+155
+00:06:53,333 --> 00:06:55,542
+Kau merasa senang tentang segala hal, Seo Ri.
+
+156
+00:06:56,273 --> 00:06:59,442
+Aneh. Melihat es krim ikan ini mengingatkanku pada Seo Ri.
+
+157
+00:07:02,143 --> 00:07:03,213
+Ambil ini.
+
+158
+00:07:04,583 --> 00:07:05,612
+Permisi.
+
+159
+00:07:05,713 --> 00:07:09,153
+Ya, makanan ikan! Kau bisa memberi makan ikan.
+
+160
+00:07:09,153 --> 00:07:10,723
+Makanan ikan?
+
+161
+00:07:10,723 --> 00:07:12,393
+kenapa aku memberi makan ikan?
+
+162
+00:07:12,393 --> 00:07:14,593
+Sepupuku pergi ke luar negeri untuk belajar bahasa.
+
+163
+00:07:14,593 --> 00:07:16,362
+Dia mencari seseorang untuk tinggal di tempatnya.
+
+164
+00:07:16,362 --> 00:07:18,033
+Kau tidak perlu membayar uang sewa.
+
+165
+00:07:18,033 --> 00:07:20,533
+Yang harus kau lakukan adalah memberi makan ikannya.
+
+166
+00:07:20,533 --> 00:07:23,903
+Mau! Aku akan pindah! Aku bisa melakukannya.
+
+167
+00:07:23,903 --> 00:07:25,573
+Ini sangat mendadak.
+
+168
+00:07:25,773 --> 00:07:28,973
+- Bagaimana dengan biaya pemeliharaan?
+- Dia sudah membayar satu tahun.
+
+169
+00:07:28,973 --> 00:07:30,242
+Sungguh?
+
+170
+00:07:30,242 --> 00:07:32,013
+Tapi seharusnya tidak terlalu jauh dari kantor.
+
+171
+00:07:32,013 --> 00:07:34,382
+Ini sangat dekat. Lima menit dari sini jika berjalan kaki.
+
+172
+00:07:34,382 --> 00:07:36,182
+Itu sempurna.
+
+173
+00:07:36,182 --> 00:07:39,682
+Astaga. Apakah mungkin ada tempatnya bagus?
+
+174
+00:07:39,783 --> 00:07:41,823
+kenapa kau terus bertanya?
+
+175
+00:07:41,823 --> 00:07:45,622
+Ketika mendengarnya, aku ingin tinggal disana juga.
+
+176
+00:07:45,922 --> 00:07:46,922
+Aku sedikit cemburu.
+
+177
+00:07:46,922 --> 00:07:50,093
+Kau tidak terlihat seperti itu, tapi kau serakah.
+
+178
+00:07:50,093 --> 00:07:52,333
+Ini adalah bangunan khusus wanita.
+
+179
+00:07:52,333 --> 00:07:53,632
+Benarkah?
+
+180
+00:07:54,062 --> 00:07:55,432
+Itu terlalu buruk.
+
+181
+00:07:55,432 --> 00:07:57,732
+Seo Ri harus segera meninggalkan rumah Woo Jin.
+
+182
+00:07:57,732 --> 00:07:59,232
+Hyun, kau melakukan sesuatu yang sangat bagus.
+
+183
+00:08:03,903 --> 00:08:05,013
+Begitukah?
+
+184
+00:08:06,372 --> 00:08:08,583
+Kerja bagus, Hyun.
+
+185
+00:08:11,853 --> 00:08:13,382
+Ini sedikit sakit.
+
+186
+00:08:14,622 --> 00:08:15,723
+Apakah aku membayangkan sesuatu?
+
+187
+00:08:22,792 --> 00:08:24,692
+Kenapa mendadak sekali?
+
+188
+00:08:27,192 --> 00:08:28,362
+(Haruskah aku memintanya ikut pindah?)
+
+189
+00:08:31,773 --> 00:08:33,073
+(Haruskah aku...)
+
+190
+00:08:33,073 --> 00:08:34,073
+Chan.
+
+191
+00:08:34,943 --> 00:08:37,103
+Kau membuat rekor hari ini untuk single scull.
+
+192
+00:08:38,772 --> 00:08:41,742
+- Kerja bagus. Kau akan menang!
+- Kalahkan mereka semua!
+
+193
+00:08:42,043 --> 00:08:43,412
+Kaliat tahu bahwa pelatihan minggu depan...
+
+194
+00:08:43,412 --> 00:08:45,752
+akan di laksanakan di negara kita, kan?
+
+195
+00:08:45,752 --> 00:08:46,813
+- Mengerti!
+- Mengerti!
+
+196
+00:08:46,813 --> 00:08:51,252
+Anggap saja sebagai itu pertandingan, dan mari kita berikan yang terbaik.
+
+197
+00:08:51,492 --> 00:08:52,553
+Apakah kau mengerti?
+
+198
+00:08:52,553 --> 00:08:53,622
+- Mengerti!
+- Mengerti!
+
+199
+00:08:53,752 --> 00:08:54,762
+Hanya itu saja.
+
+200
+00:08:54,762 --> 00:08:56,362
+- Terima kasih.
+- Terima kasih.
+
+201
+00:08:56,362 --> 00:08:57,532
+Iya nih!
+
+202
+00:08:59,162 --> 00:09:00,333
+Jika aku menang,
+
+203
+00:09:01,402 --> 00:09:02,502
+Bolehkah aku mengaku?
+
+204
+00:09:05,103 --> 00:09:07,002
+Itu membuatku sangat geli!
+
+205
+00:09:10,142 --> 00:09:13,943
+Aku akan menang tidak peduli apa pun! Don't think, feel!
+
+206
+00:09:13,943 --> 00:09:16,282
+Apa yang salah dengannya? Apakah dia terkena heatstroke?
+
+207
+00:09:18,782 --> 00:09:20,012
+Aku pulang.
+
+208
+00:09:20,012 --> 00:09:22,122
+Yang harus aku lakukan adalah memberi makan ikan.
+
+209
+00:09:22,122 --> 00:09:23,453
+Itu berita bagus.
+
+210
+00:09:24,492 --> 00:09:26,622
+- Apakah kau di rumah, Chan?
+- Uya.
+
+211
+00:09:26,752 --> 00:09:28,392
+Ikan apa yang kau bicarakan?
+
+212
+00:09:28,563 --> 00:09:30,622
+Aku menemukan tempat yang sangat bagus.
+
+213
+00:09:30,622 --> 00:09:34,093
+Aku tidak harus membayar sewa selama setahun selama aku memberi makan ikan.
+
+214
+00:09:34,093 --> 00:09:36,463
+Apa yang kau bicarakan barusan?
+
+215
+00:09:36,662 --> 00:09:38,103
+Kenapa kau mencari tempat?
+
+216
+00:09:38,203 --> 00:09:41,272
+Sudah satu bulan sudah. Aku harus bersiap-siap untuk pergi.
+
+217
+00:09:41,272 --> 00:09:42,772
+Aku akan pindah akhir pekan ini.
+
+218
+00:09:43,703 --> 00:09:46,573
+- Apa? Sudah sebulan?
+- Iya.
+
+219
+00:09:47,213 --> 00:09:48,343
+Benarkah?
+
+220
+00:09:48,713 --> 00:09:50,112
+Ada tiga kamar.
+
+221
+00:09:50,112 --> 00:09:52,583
+Aku diizinkan untuk menggunakan tempat tidur, piring, dan peralatannya juga.
+
+222
+00:09:52,583 --> 00:09:55,482
+Yang harus aku lakukan adalah merawat ikan.
+
+223
+00:09:55,482 --> 00:09:56,923
+Ikan?
+
+224
+00:09:58,752 --> 00:10:02,693
+Bukankah pemilik harus memelihara ikannya sendiri?
+
+225
+00:10:19,142 --> 00:10:21,242
+Paman, kau pulang lebih awal.
+
+226
+00:10:21,242 --> 00:10:22,713
+Kau bekerja keras akhir-akhir ini.
+
+227
+00:10:23,183 --> 00:10:24,713
+Benar. Mr. Gong.
+
+228
+00:10:25,583 --> 00:10:27,853
+Kau memiliki keberuntungan.
+
+229
+00:10:27,853 --> 00:10:31,193
+Ta-da. Bungeoppang musim panas lebih langka dari pada memenangkan lotere.
+
+230
+00:10:31,293 --> 00:10:32,323
+Ambil ikan ini.
+
+231
+00:10:34,892 --> 00:10:35,923
+Ikan?
+
+232
+00:10:36,093 --> 00:10:38,132
+Apakah kau tidak suka ini?
+
+233
+00:10:39,632 --> 00:10:41,203
+Ini gerah. Cepatlah masuk.
+
+234
+00:10:46,002 --> 00:10:47,173
+Kau mau ikan?
+
+235
+00:10:47,473 --> 00:10:48,902
+Singkirkan itu dari wajahku.
+
+236
+00:10:51,673 --> 00:10:54,612
+- Keluarga ini tidak suka ikan.
+- Kau benar.
+
+237
+00:10:54,813 --> 00:10:56,382
+- Ayo masuk.
+- Mr. Gong.
+
+238
+00:10:56,543 --> 00:10:58,813
+Bagaimana kau bisa benar-benar menjual tempat itu hanya karena bulan sudah habis?
+
+239
+00:10:58,813 --> 00:11:00,953
+Jika kita pindah ke apartemenku, mari kita bawa Ahjumma bersama kita.
+
+240
+00:11:01,152 --> 00:11:03,923
+- Dia menemukan tempat.
+- Aku tahu. Aku tahu tapi...
+
+241
+00:11:07,662 --> 00:11:11,132
+Kita tidak boleh membiarkannya tinggal sendirian. Karena...
+
+242
+00:11:12,662 --> 00:11:16,433
+Astaga. Bagaimanapun, kita harus membawanya bersama kita.
+
+243
+00:11:16,433 --> 00:11:18,032
+Dia ikut dengan kita, oke?
+
+244
+00:11:18,333 --> 00:11:19,902
+Baik?
+
+245
+00:11:20,272 --> 00:11:23,902
+Baik? Baik? Baik?
+
+246
+00:11:23,902 --> 00:11:27,412
+Ayolah. Dia mungkin ingin ikut. Dia mungkin tidak bisa mengatakannya.
+
+247
+00:11:27,412 --> 00:11:28,482
+Makanya...
+
+248
+00:11:28,713 --> 00:11:31,313
+Ahjumma, lupakan ikannya.
+
+249
+00:11:31,512 --> 00:11:33,152
+Pindah ke apartemen kami bersama.
+
+250
+00:11:37,353 --> 00:11:40,892
+Terima kasih sudah mengatakan itu, Chan.
+
+251
+00:11:42,262 --> 00:11:45,262
+Aku dulu tinggal di rumah ini,
+
+252
+00:11:45,262 --> 00:11:48,262
+Jadi aku memaksakan diri untuk tinggal di sini.
+
+253
+00:11:48,862 --> 00:11:51,333
+Tapi itu tidak benar untuk pindah kesana bersamamu.
+
+254
+00:11:52,032 --> 00:11:55,073
+Aku sudah sangat bersyukur, karena kalian membiarkanku tinggal selama satu bulan.
+
+255
+00:11:55,073 --> 00:11:57,272
+Aku tidak tahu cara membalasnya.
+
+256
+00:11:57,402 --> 00:11:58,772
+Tapi...
+
+257
+00:12:00,242 --> 00:12:04,012
+Haruskah kita mengadakan pesta perpisahan jika kau pindah?
+
+258
+00:12:04,012 --> 00:12:06,813
+Apa? Apakah kau tidak mau melihatku lagi?
+
+259
+00:12:06,813 --> 00:12:09,022
+Itu hanya ketika kau benar-benar berpisah.
+
+260
+00:12:09,122 --> 00:12:12,492
+Aku akan sering mengunjungi Fang dan bertemu kalian juga.
+
+261
+00:12:12,752 --> 00:12:15,022
+- Benarkan?
+- Tentu saja.
+
+262
+00:12:15,022 --> 00:12:18,563
+- Iau benar-benar harus datang.
+- Kenapa dia tidak ikut?
+
+263
+00:12:18,793 --> 00:12:19,992
+- Janji jari kelingking.
+- Janji jari kelingking.
+
+264
+00:12:20,492 --> 00:12:22,862
+- Kau berjanji.
+- Kau benar-benar harus.
+
+265
+00:12:23,632 --> 00:12:24,872
+Aku akan menikmati ini sekarang.
+
+266
+00:12:26,473 --> 00:12:28,703
+- Silahkan dinikmati.
+- Aku mau yang lain.
+
+267
+00:12:30,973 --> 00:12:33,912
+Aku lebih baik berkemas setelah workshop.
+
+268
+00:12:40,183 --> 00:12:42,282
+Aku akan baik-baik saja sendiri, kan?
+
+269
+00:12:43,583 --> 00:12:47,053
+Apakah aku tidak seperti umur 20 sekarang?
+
+270
+00:13:00,333 --> 00:13:02,372
+Kenapa belum tidur?
+
+271
+00:13:03,343 --> 00:13:04,612
+Aku tidak bisa tidur.
+
+272
+00:13:05,313 --> 00:13:06,742
+Bagaimana denganmu?
+
+273
+00:13:06,742 --> 00:13:09,683
+Aku mengalami kesulitan tidur juga.
+
+274
+00:13:14,353 --> 00:13:15,482
+Waktu...
+
+275
+00:13:16,583 --> 00:13:17,892
+Benar-benar terbang.
+
+276
+00:13:20,992 --> 00:13:24,492
+Aku mulai berharap, itu akan berlalu sedikit perlahan.
+
+277
+00:13:26,433 --> 00:13:28,232
+Waktu...
+
+278
+00:13:29,762 --> 00:13:31,772
+Benar-benar terbang...
+
+279
+00:13:34,443 --> 00:13:36,673
+Tidak peduli apakah kau ingin memegangnya...
+
+280
+00:13:38,142 --> 00:13:39,313
+...atau melewatinya dengan sangat cepat.
+
+281
+00:13:43,343 --> 00:13:45,152
+Tidak hanya terbang,
+
+282
+00:13:46,183 --> 00:13:47,412
+Tapi diwaktu yang sama,
+
+283
+00:13:48,353 --> 00:13:52,093
+Itu adalah sesuatu yang tidak pernah bisa kau putar kembali.
+
+284
+00:13:53,323 --> 00:13:55,762
+Siapapun akan merasa bersedih...
+
+285
+00:13:56,063 --> 00:13:57,762
+...tentang sebuah kehilangan.
+
+286
+00:13:58,433 --> 00:14:01,963
+Tapi apakah kau akan membuat kesedihan itu...
+
+287
+00:14:02,703 --> 00:14:05,333
+Menjadi sesuatu penyesalan...
+
+288
+00:14:06,632 --> 00:14:07,673
+Atau...
+
+289
+00:14:08,703 --> 00:14:11,313
+Membuatnya menjadi kenangan indah...
+
+290
+00:14:11,642 --> 00:14:15,343
+Sepenuhnya itu pilihanmu.
+
+291
+00:14:16,183 --> 00:14:19,853
+Aku memberitahumu ini karena aku iri pada fakta bahwa...
+
+292
+00:14:20,882 --> 00:14:22,752
+Kau masih mampu melakukan sesuatu.
+
+293
+00:14:28,622 --> 00:14:29,762
+Kaget, ada apa?
+
+294
+00:14:30,823 --> 00:14:32,262
+Aku digigit nyamuk.
+
+295
+00:14:32,463 --> 00:14:33,532
+Aku akan pergi...
+
+296
+00:14:34,632 --> 00:14:37,933
+Untuk mempersiapkan hari esok, permisi.
+
+297
+00:14:54,012 --> 00:14:56,183
+Apakah aku bisa bertemu Rim Kim...
+
+298
+00:14:56,183 --> 00:14:59,252
+Dan mendengar jenis lagu apa yang akan dilakukan di festival?
+
+299
+00:14:59,252 --> 00:15:00,392
+Tentu saja.
+
+300
+00:15:00,923 --> 00:15:03,122
+Orang-orang mungkin berpikir kita akan piknik atau sesuatu.
+
+301
+00:15:03,122 --> 00:15:05,333
+Rasanya seolah-olah kita benar-benar pergi piknik.
+
+302
+00:15:09,632 --> 00:15:12,402
+Mari kita pergi.
+
+303
+00:15:16,272 --> 00:15:18,173
+Harus ada seorang kultivator di luar.
+
+304
+00:15:18,173 --> 00:15:20,843
+Astaga, itu berasal dari mobilku.
+
+305
+00:15:23,043 --> 00:15:25,853
+Kau membiarkan lampu dalam menyala, sehingga kehabisan baterai.
+
+306
+00:15:26,713 --> 00:15:28,022
+Ini akan memakan waktu.
+
+307
+00:15:28,622 --> 00:15:30,353
+Lalu bagaimana kita akan pergi ke workshop?
+
+308
+00:15:30,353 --> 00:15:31,892
+Kita harus sampai di sana tepat waktu.
+
+309
+00:15:31,892 --> 00:15:33,752
+Jika kau sedang terburu-buru, kau bisa naik kereta.
+
+310
+00:15:33,752 --> 00:15:36,793
+Ada stasiun terdekat. Aku akan mengantarmu kesana.
+
+311
+00:15:37,293 --> 00:15:39,593
+Woo Jin, kau harus pergi. Kau tidak boleh absen.
+
+312
+00:15:39,593 --> 00:15:41,103
+Kami akan menunggu di sini dan berangkat malam hari.
+
+313
+00:15:41,103 --> 00:15:42,862
+Dia benar. Kau tidak boleh terlambat.
+
+314
+00:15:44,303 --> 00:15:46,703
+Hyun, apa kau bisa disini sendiri?
+
+315
+00:15:46,872 --> 00:15:49,443
+Astaga, apa kau akan meninggalkanku disini sendirian?
+
+316
+00:15:52,343 --> 00:15:54,612
+Apakah tidak apa-apa meninggalkan Hyun sendirian?
+
+317
+00:15:54,612 --> 00:15:55,642
+Dia akan baik-baik saja.
+
+318
+00:15:56,043 --> 00:15:58,882
+Kita punya 30 menit sebelum kereta berangkat. Ayo minum sesuatu.
+
+319
+00:15:58,882 --> 00:16:00,683
+Mereka juga menjual mie instan.
+
+320
+00:16:00,882 --> 00:16:02,083
+Kau bisa memakannya jika mau.
+
+321
+00:16:02,083 --> 00:16:04,083
+Tidak apa-apa. Aku hanya melihatnya.
+
+322
+00:16:04,083 --> 00:16:06,953
+Ayolah. Kapan kau akan makan mie instan di stasiun?
+
+323
+00:16:16,833 --> 00:16:17,902
+Pedas sangat.
+
+324
+00:16:20,232 --> 00:16:21,502
+Kau tidak bisa makan pedas?
+
+325
+00:16:21,902 --> 00:16:23,573
+Apakah ini sangat pedas?
+
+326
+00:16:25,073 --> 00:16:27,583
+Ini benar-benar pedas.
+
+327
+00:16:31,982 --> 00:16:34,083
+Sepertinya pedas juga untukmu.
+
+328
+00:16:34,152 --> 00:16:36,083
+Kau harus batuk bukannya menahannya.
+
+329
+00:16:36,882 --> 00:16:38,122
+Itu tidak pedas.
+
+330
+00:16:40,963 --> 00:16:42,992
+Kau menghirup udara karena pedas.
+
+331
+00:16:43,193 --> 00:16:44,963
+Tidak, aku tidak. Aku hanya melakukannya...
+
+332
+00:16:44,963 --> 00:16:46,262
+Karena udara sangat menyegarkan.
+
+333
+00:16:46,262 --> 00:16:47,963
+Aku pikir kau melakukannya karena pedas.
+
+334
+00:16:49,162 --> 00:16:50,232
+Astaga, pedas.
+
+335
+00:17:01,112 --> 00:17:03,482
+Padahal mengaku saja itu pedas. Duh gusti...
+
+336
+00:17:04,083 --> 00:17:05,483
+Aku tidak meminumnya karena pedas.
+
+337
+00:17:05,483 --> 00:17:06,753
+Aku hanya minum karena aku banyak berkeringat.
+
+338
+00:17:06,753 --> 00:17:08,523
+Oke, baiklah.
+
+339
+00:17:09,583 --> 00:17:13,392
+Apa maksudmu dengan "baiklah"? Itu membuatku kesal.
+
+340
+00:17:14,152 --> 00:17:16,362
+Yah, kau sepertinya...
+
+341
+00:17:16,362 --> 00:17:17,733
+...agak bodoh.
+
+342
+00:17:17,733 --> 00:17:18,793
+Apa?
+
+343
+00:17:19,432 --> 00:17:21,303
+Bagaimana kau bisa menyebutku bodoh?
+
+344
+00:17:21,303 --> 00:17:22,362
+Kereta datang.
+
+345
+00:17:22,362 --> 00:17:25,172
+Mau kemana kau? Aku sedang berbicara.
+
+346
+00:17:26,172 --> 00:17:27,303
+Tunggu.
+
+347
+00:17:27,672 --> 00:17:28,872
+Tunggu aku
+
+348
+00:17:36,112 --> 00:17:39,513
+- Laut Yeosu di malah hari
+- Laut Yeosu di malah hari
+
+349
+00:17:39,513 --> 00:17:43,283
+- Ada cerita yang indah
+- Ada kisah yang indah
+
+350
+00:17:43,283 --> 00:17:46,553
+- Di balik lampu-lampu ini
+- Di belakang lampu-lampu ini
+
+351
+00:17:46,553 --> 00:17:48,563
+Kau menatap sangat lama. Apa yang kau lihat?
+
+352
+00:17:49,422 --> 00:17:50,932
+Mereka terlihat sangat bahagia.
+
+353
+00:17:51,892 --> 00:17:53,233
+Aku iri pada mereka.
+
+354
+00:17:53,533 --> 00:17:54,603
+kenapa?
+
+355
+00:17:55,103 --> 00:17:59,533
+Aku iri dengan usia mereka dan waktu yang mereka habiskan...
+
+356
+00:18:00,233 --> 00:18:01,503
+Pada usia itu.
+
+357
+00:18:01,972 --> 00:18:04,442
+Aku selalu ingin melakukan hal-hal seperti itu.
+
+358
+00:18:05,313 --> 00:18:06,712
+Jika semuanya berjalan sesuai rencana,
+
+359
+00:18:06,712 --> 00:18:09,882
+Aku akan berada di Jerman, jadi itu tidak akan mungkin.
+
+360
+00:18:13,952 --> 00:18:15,382
+Kudengar dia diterima di Hanns Eisler...
+
+361
+00:18:15,382 --> 00:18:16,823
+tapi tidak bisa pergi karena sesuatu.
+
+362
+00:18:19,993 --> 00:18:22,323
+- Festival sedang berlangsung
+- Festival sedang berlangsung
+
+363
+00:18:22,422 --> 00:18:25,162
+- Mari kita menuju ke padang gurun
+- Mari kita menuju ke padang gurun
+
+364
+00:18:25,162 --> 00:18:27,263
+Aku sebenarnya punya pertanyaan.
+
+365
+00:18:27,862 --> 00:18:29,563
+Bolehkah aku bertanya?
+
+366
+00:18:30,702 --> 00:18:32,003
+Menyanyi bersama!
+
+367
+00:18:32,033 --> 00:18:34,303
+- Tidak, tidak apa-apa.
+- Lalu bagaimana denganmu?
+
+368
+00:18:35,142 --> 00:18:37,303
+Seiring dengan matahari yang cerah
+
+369
+00:18:39,343 --> 00:18:42,182
+Festival berlangsung
+
+370
+00:18:43,513 --> 00:18:45,682
+Mari menuju ke padang gurun
+
+371
+00:18:47,283 --> 00:18:48,422
+Kau harus bernyanyi juga.
+
+372
+00:18:48,523 --> 00:18:49,823
+Astaga, tidak.
+
+373
+00:18:50,122 --> 00:18:51,793
+Saat hari istirahat
+
+374
+00:18:53,353 --> 00:18:55,422
+Dan pagi menyambut kami
+
+375
+00:18:56,222 --> 00:18:58,293
+Aku bisa mendengar suara yang datang dari kota
+
+376
+00:18:58,493 --> 00:18:59,793
+- Hebat!
+- Bagus!
+
+377
+00:19:00,093 --> 00:19:02,132
+Dan ada banyak orang
+
+378
+00:19:03,063 --> 00:19:05,202
+Ayo kabur
+
+379
+00:19:05,733 --> 00:19:07,872
+Dari semua bangunan ini
+
+380
+00:19:09,043 --> 00:19:12,273
+- Mari menuju ke lembah
+- Mari menuju ke lembah
+
+381
+00:19:12,273 --> 00:19:15,612
+- Di mana kita dapat mendengar gema
+- Di mana kita dapat mendengar gema
+
+382
+00:19:15,612 --> 00:19:19,882
+- Mari kita bepergian
+- Mari kita pergi jalan-jalan
+
+383
+00:19:20,983 --> 00:19:22,182
+Sampai jumpa
+
+384
+00:19:22,583 --> 00:19:25,353
+Mhanx, ini hadiah untuk kalian.
+
+385
+00:19:26,793 --> 00:19:28,722
+(Semoga Langgeng Mhanx.)
+
+386
+00:19:34,803 --> 00:19:35,862
+Apakah dia memberimu sesuatu?
+
+387
+00:19:35,862 --> 00:19:38,103
+Tidak, Ini bukan apa-apa. Sudah terlambat.
+
+388
+00:19:38,103 --> 00:19:39,833
+- Ayo pergi.
+- Baik.
+
+389
+00:19:45,442 --> 00:19:47,073
+Hee Su ada di Kamar 507.
+
+390
+00:19:47,073 --> 00:19:49,283
+Kau harus naik lebih dulu. Aku akan pergi setelah aku check in.
+
+391
+00:19:49,513 --> 00:19:50,583
+Baik.
+
+392
+00:19:56,382 --> 00:19:57,753
+Rin Kim.
+
+393
+00:19:58,253 --> 00:19:59,692
+Apakah kau baik-baik saja?
+
+394
+00:19:59,692 --> 00:20:02,523
+Aku menjadi penggemar berat setelah aku melihat penampilanmu.
+
+395
+00:20:03,763 --> 00:20:04,833
+Terima kasih.
+
+396
+00:20:07,833 --> 00:20:09,202
+Tuan.
+
+397
+00:20:09,803 --> 00:20:10,872
+Hei.
+
+398
+00:20:11,003 --> 00:20:13,803
+- Selamat tinggal, kalau begitu.
+- Sampai jumpa lagi.
+
+399
+00:20:15,573 --> 00:20:18,073
+Inilah produser bintang kami.
+
+400
+00:20:18,343 --> 00:20:20,743
+Apakah semuanya berjalan dengan baik?
+
+401
+00:20:22,743 --> 00:20:23,783
+Iya.
+
+402
+00:20:24,882 --> 00:20:26,882
+Karena ini adalah festival, kami menyiapkan lagu-lagu yang akrab...
+
+403
+00:20:26,882 --> 00:20:29,483
+Yang muncul dalam iklan dan berbagai media massa lainnya.
+
+404
+00:20:29,483 --> 00:20:32,293
+Festival ini terdiri dari lagu-lagu yang menyenangkan dan menarik...
+
+405
+00:20:32,293 --> 00:20:34,892
+Pastinya penonton dapat menikmati saat mereka bertepuk tangan.
+
+406
+00:20:34,892 --> 00:20:35,962
+Sebagai contoh...
+
+407
+00:20:37,833 --> 00:20:40,132
+("The Typewriter" oleh Leroy Anderson, "Toy Symphony" oleh Haydn)
+
+408
+00:20:43,503 --> 00:20:47,132
+Sebentar. Apakah kau punya sesuatu untuk dikatakan?
+
+409
+00:20:47,132 --> 00:20:49,343
+Maaf? Tidak, itu bukan apa-apa.
+
+410
+00:20:49,343 --> 00:20:50,543
+Kau dapat memberi tahu kami.
+
+411
+00:20:50,942 --> 00:20:52,273
+Baik...
+
+412
+00:20:53,013 --> 00:20:54,612
+Itu tidak penting.
+
+413
+00:20:57,142 --> 00:20:59,452
+Banyak orang berpikir "Toy Symphony"...
+
+414
+00:20:59,452 --> 00:21:02,222
+Disusun oleh Haydn untuk waktu yang sangat lama.
+
+415
+00:21:02,222 --> 00:21:07,122
+Tapi itu sebenarnya ditulis oleh ayah Mozart...
+
+416
+00:21:07,122 --> 00:21:10,162
+Dan diatur oleh adik laki-laki Haydn.
+
+417
+00:21:10,593 --> 00:21:14,362
+Jadi aku pikir itu akan benar untuk memperbaiki komposer...
+
+418
+00:21:14,362 --> 00:21:16,263
+Ke Leopold Mozart.
+
+419
+00:21:18,533 --> 00:21:21,343
+Karyawan yang membuat file pasti membuat kesalahan.
+
+420
+00:21:21,343 --> 00:21:22,603
+Aku harus mengatakan padanya untuk mengeditnya.
+
+421
+00:21:23,073 --> 00:21:24,142
+Terima kasih.
+
+422
+00:21:25,112 --> 00:21:27,712
+Aku juga berpikir itu disusun oleh Haydn.
+
+423
+00:21:27,912 --> 00:21:31,382
+Kami tidak akan tahu tentang itu jika bukan karena wanita yang pintar itu.
+
+424
+00:21:31,813 --> 00:21:36,122
+Wanita pintar itu adalah anggota Tim Desain Panggung kami.
+
+425
+00:21:45,093 --> 00:21:47,462
+Seseorang yang tidak dikenal terus mengirim biaya rumah sakitnya.
+
+426
+00:21:47,702 --> 00:21:51,773
+Aku tidak berpikir orang itu tahu bahwa Seo Ri baik-baik saja sekarang.
+
+427
+00:21:53,402 --> 00:21:55,543
+Hei, itu pria yang mencari wanita itu.
+
+428
+00:21:55,543 --> 00:21:58,073
+Jika seseorang dari rumah sakit kembali,
+
+429
+00:21:58,073 --> 00:22:00,243
+Tolong beri tahu mereka bahwa aku tidak tinggal di sini.
+
+430
+00:22:00,442 --> 00:22:02,543
+- Ayo pergi!
+- Tidak, berhenti.
+
+431
+00:22:02,783 --> 00:22:04,182
+Tetap di sini.
+
+432
+00:22:08,152 --> 00:22:09,253
+Kau siapa?
+
+433
+00:22:09,983 --> 00:22:11,253
+Ini rumahku.
+
+434
+00:22:12,493 --> 00:22:14,392
+Aku meninggalkan kartu namaku terakhir kali aku datang ke sini.
+
+435
+00:22:14,392 --> 00:22:17,222
+Aku bertanya-tanya apakah wanita yang dulu tinggal di sini pernah kembali.
+
+436
+00:22:17,422 --> 00:22:18,692
+Siapa yang kau bicarakan?
+
+437
+00:22:20,263 --> 00:22:22,233
+Oh, wanita itu?
+
+438
+00:22:22,733 --> 00:22:24,402
+Dia tidak pernah kembali setelah itu.
+
+439
+00:22:25,872 --> 00:22:26,902
+Benarkah?
+
+440
+00:22:28,573 --> 00:22:30,972
+Tolong hubungi aku jika dia kembali lagi.
+
+441
+00:22:30,972 --> 00:22:32,212
+Kami akan menjual rumah ini.
+
+442
+00:22:33,612 --> 00:22:35,182
+Mereka akan membangun gedung di sini.
+
+443
+00:22:38,182 --> 00:22:40,253
+- Apa?
+- Kami akan segera pindah,
+
+444
+00:22:40,483 --> 00:22:41,682
+Jadi jangan repot-repot datang ke sini.
+
+445
+00:22:41,682 --> 00:22:43,283
+Kau tidak akan dapat menemukan siapa pun.
+
+446
+00:23:07,912 --> 00:23:09,783
+Itu luar biasa.
+
+447
+00:23:09,783 --> 00:23:12,112
+Itu adalah lagu favoritku di antara semua lagu Kreisler.
+
+448
+00:23:12,112 --> 00:23:14,622
+Tidak banyak orang yang memperhatikan bahkan selama jam kerja aku.
+
+449
+00:23:14,753 --> 00:23:17,253
+Terima kasih sudah mendengarkan latihanku.
+
+450
+00:23:17,253 --> 00:23:19,222
+Kau memiliki biola yang bagus.
+
+451
+00:23:19,222 --> 00:23:20,593
+Resonansi itu indah,
+
+452
+00:23:20,593 --> 00:23:24,023
+Dan tali Evah Pirazzi sangat cocok dengan instrumenmu.
+
+453
+00:23:25,333 --> 00:23:27,533
+Apakah kau memainkan biola juga?
+
+454
+00:23:27,932 --> 00:23:29,632
+Hanya sedikit.
+
+455
+00:23:29,763 --> 00:23:32,233
+Bagaimanapun, terima kasih untuk musiknya.
+
+456
+00:23:33,172 --> 00:23:34,243
+Tunggu.
+
+457
+00:23:35,043 --> 00:23:37,442
+- Apakah kau ingin bermain?
+- Apa?
+
+458
+00:23:41,942 --> 00:23:44,853
+- Tuan.
+- Sudah lama sekali.
+
+459
+00:23:45,053 --> 00:23:46,452
+Bagaimana kabarmu, Tae Rin?
+
+460
+00:23:46,452 --> 00:23:49,122
+Oh, maksudku, Ms. Rin Kim.
+
+461
+00:23:49,122 --> 00:23:50,952
+Jangan lakukan itu.
+
+462
+00:23:51,053 --> 00:23:52,793
+- Apakah seminarmu berjalan dengan baik?
+- Iya.
+
+463
+00:23:53,122 --> 00:23:55,722
+Semua orang pergi untuk mengambil minum, tapi aku menyelinap keluar.
+
+464
+00:24:00,162 --> 00:24:02,303
+Aku tahu dia diperbolehkan memainkan lagu apa pun yang dia inginkan,
+
+465
+00:24:02,833 --> 00:24:05,202
+Tapi apakah dia memainkan lagu itu untuk audisi?
+
+466
+00:24:05,402 --> 00:24:06,702
+Kenapa? Ini menarik.
+
+467
+00:24:06,702 --> 00:24:08,472
+(Juri)
+
+468
+00:24:13,743 --> 00:24:16,942
+Bisakah kau bermain denganku? Sebagai pemain biola kedua.
+
+469
+00:24:16,942 --> 00:24:18,553
+Sungguh?
+
+470
+00:24:18,783 --> 00:24:20,853
+Ya, aku mau. Aku ingin melakukannya.
+
+471
+00:24:21,122 --> 00:24:22,682
+Aku akan melakukan pekerjaan dengan baik.
+
+472
+00:24:54,353 --> 00:24:56,682
+Sejujurnya aku merasa cemburu...
+
+473
+00:24:57,083 --> 00:24:58,253
+Dan sedih.
+
+474
+00:24:58,892 --> 00:25:00,753
+"Aku bisa bermain..."
+
+475
+00:25:01,093 --> 00:25:04,392
+"Di atas panggung seperti itu dengan gaun yang cantik."
+
+476
+00:25:05,063 --> 00:25:07,533
+"Jika tidak ada yang terjadi, aku akan melakukan itu."
+
+477
+00:25:08,362 --> 00:25:10,103
+Aku mulai berpikir tentang itu.
+
+478
+00:25:17,402 --> 00:25:18,672
+Ini tidak baik.
+
+479
+00:25:20,543 --> 00:25:22,882
+Terima kasih sudah mengizinkanku bermain.
+
+480
+00:25:23,783 --> 00:25:24,912
+Aku minta maaf.
+
+481
+00:25:40,833 --> 00:25:43,263
+Apakah kau baru saja bermain...
+
+482
+00:25:43,763 --> 00:25:45,073
+"Romance" Schumann?
+
+483
+00:25:45,073 --> 00:25:48,573
+Tidak, seorang wanita datang dan memainkannya.
+
+484
+00:26:03,253 --> 00:26:04,493
+Hei, Rin.
+
+485
+00:26:05,722 --> 00:26:08,993
+Apakah kau ingat pada tahun 2005 saat audisi?
+
+486
+00:26:08,993 --> 00:26:12,563
+Apakah kau tahu apa yang terjadi pada orang yang seharusnya bermain denganku?
+
+487
+00:26:12,692 --> 00:26:14,833
+- Maaf?
+- Apakah namanya Woo Seo Ri?
+
+488
+00:26:14,932 --> 00:26:18,733
+Bukankah dia jauh lebih baik dari pada Tae Rin?
+
+489
+00:26:18,733 --> 00:26:21,073
+Tapi dia harus bermain secara akurat ketika dia dalam kompetisi.
+
+490
+00:26:21,073 --> 00:26:23,773
+Dan Tae Rin sudah memiliki koneksi yang cukup.
+
+491
+00:26:24,843 --> 00:26:28,412
+Ibunya adalah seorang pianis, dan pamannya adalah seorang profesor di sebuah perguruan tinggimusik.
+
+492
+00:26:34,682 --> 00:26:38,222
+Aku pikir ada seseorang seperti dia, tapi aku tidak begitu ingat.
+
+493
+00:26:38,422 --> 00:26:40,253
+Apakah dia tidak lagi bermain musik?
+
+494
+00:27:00,073 --> 00:27:02,783
+Permisi, kalau Nn. Kang akhirnya mencariku,
+
+495
+00:27:02,783 --> 00:27:04,212
+Bisakah kau memberitahunya...
+
+496
+00:27:04,212 --> 00:27:07,212
+Aku akan pergi ke pantai terdekat untuk penyegaran?
+
+497
+00:27:07,353 --> 00:27:09,483
+Baik. Sampai jumpa.
+
+498
+00:27:10,753 --> 00:27:11,793
+Selamat tinggal.
+
+499
+00:27:25,103 --> 00:27:28,202
+Hei, jika Hyun mencariku,
+
+500
+00:27:28,202 --> 00:27:31,642
+Katakan padanya bahwa aku akan pergi ke pantai terdekat...
+
+501
+00:27:31,642 --> 00:27:35,543
+untuk melihat laut agar merasa segar?
+
+502
+00:27:36,182 --> 00:27:38,882
+Ya. Selamat tinggal.
+
+503
+00:27:39,652 --> 00:27:41,222
+Astaga, dia tetap tidak akan ikut.
+
+504
+00:27:43,182 --> 00:27:45,353
+- Apakah kau ingin...
+- Bolehkah aku ikut denganmu?
+
+505
+00:27:58,372 --> 00:27:59,733
+Apakah kau ingin aku menurunkan jendela?
+
+506
+00:28:00,003 --> 00:28:02,273
+- Tidak, tidak apa-apa.
+- Baik.
+
+507
+00:28:12,197 --> 00:28:14,197
+(Episode 16 akan segera tayang.)
+
+508
+00:28:16,728 --> 00:28:18,365
+Itu laut!
+
+509
+00:28:18,365 --> 00:28:19,365
+(Episode 16)
+
+510
+00:28:20,448 --> 00:28:23,378
+Ouwo!
+
+511
+00:28:24,087 --> 00:28:25,927
+Kenapa dia tiba-tiba menyapa laut?
+
+512
+00:28:25,927 --> 00:28:28,568
+Ouwo!
+
+513
+00:28:30,068 --> 00:28:31,768
+Aku sangat senang membawanya.
+
+514
+00:28:33,237 --> 00:28:35,308
+Ouwo!
+
+515
+00:28:37,768 --> 00:28:39,937
+Ouwo!
+
+516
+00:28:44,578 --> 00:28:47,518
+Lagu apa itu? Aku sangat menyukainya.
+
+517
+00:28:47,747 --> 00:28:48,917
+Lagu apa?
+
+518
+00:28:51,857 --> 00:28:53,688
+Apakah kau melihatku?
+
+519
+00:28:55,027 --> 00:28:56,688
+Apakah itu sebabnya kau membawaku ke sini?
+
+520
+00:28:58,947 --> 00:29:01,517
+Itu adalah lagu dari "Romance" Schumann.
+
+521
+00:29:01,517 --> 00:29:03,387
+Ini disebut "Einfach, Innig", yang berarti "Sederhana, Hormat".
+
+522
+00:29:04,387 --> 00:29:06,288
+"Sederhana, Hormat".
+
+523
+00:29:09,087 --> 00:29:10,887
+Bolehkah aku bertanya kenapa...
+
+524
+00:29:11,957 --> 00:29:13,898
+Kau tidak bisa terus bermain biola?
+
+525
+00:29:14,828 --> 00:29:18,197
+Aku tidak sadar di rumah sakit selama 10 tahun.
+
+526
+00:29:21,467 --> 00:29:24,437
+Aku ingin waktuku kembali.
+
+527
+00:29:25,437 --> 00:29:26,908
+Ada perbedaan usia yang sangat besar.
+
+528
+00:29:26,908 --> 00:29:29,247
+Aku yakin kau seusia dengan guruku...
+
+529
+00:29:29,777 --> 00:29:32,648
+Tunggu, aku 30 sekarang.
+
+530
+00:29:32,648 --> 00:29:36,118
+Kami menanam ini 10 tahun yang lalu, jadi itu berarti...
+
+531
+00:29:36,447 --> 00:29:39,758
+Tidak. Itu 23 tahun yang lalu.
+
+532
+00:29:39,758 --> 00:29:41,857
+Kau menjadi sangat besar saat aku pergi.
+
+533
+00:29:41,857 --> 00:29:43,758
+Aku tidak tumbuh sama sekali.
+
+534
+00:29:43,958 --> 00:29:46,357
+Jika tidak ada yang terjadi, aku akan melakukan itu.
+
+535
+00:29:46,357 --> 00:29:47,398
+Apakah kau anak kecil?
+
+536
+00:29:47,398 --> 00:29:48,667
+Orang-orang seusiamu seharusnya bisa memberi tahu.
+
+537
+00:29:48,667 --> 00:29:50,398
+Tidak bisakah kau mengerti? Kau sudah dewasa.
+
+538
+00:29:54,937 --> 00:29:57,137
+Itu sebabnya aku tidak bisa belajar di luar negeri.
+
+539
+00:29:57,337 --> 00:30:01,008
+Bermain biola adalah satu-satunya hal yang aku kuasai.
+
+540
+00:30:02,777 --> 00:30:05,148
+Tapi aku kehilangan keterampilanku saat aku koma,
+
+541
+00:30:05,247 --> 00:30:07,318
+Dan ketika aku bangun, aku berumur 30 tahun.
+
+542
+00:30:08,818 --> 00:30:10,018
+Itulah kenapa...
+
+543
+00:30:10,988 --> 00:30:13,458
+Aku bingung tentang umurku...
+
+544
+00:30:14,018 --> 00:30:16,958
+Dan cukup sulit.
+
+545
+00:30:17,658 --> 00:30:19,827
+Aku tahu aku orang dewasa,
+
+546
+00:30:20,158 --> 00:30:22,827
+Tapi rasanya seperti belum waktunya.
+
+547
+00:30:27,498 --> 00:30:29,808
+Astaga, aku yakin kau tidak ingin tahu tentang itu.
+
+548
+00:30:29,808 --> 00:30:31,737
+Seharusnya aku tidak mengatakan itu.
+
+549
+00:30:31,878 --> 00:30:34,177
+Tidak, aku sangat penasaran.
+
+550
+00:30:36,047 --> 00:30:39,947
+Aku hanya mengira bahwa sesuatu mungkin terjadi padamu.
+
+551
+00:30:40,748 --> 00:30:43,318
+Tapi itu lebih buruk dari yang aku pikirkan.
+
+552
+00:30:44,688 --> 00:30:45,887
+Aku minta maaf.
+
+553
+00:30:46,758 --> 00:30:50,857
+Dan aku mungkin mengatakan hal-hal yang tidak akan aku katakan jika aku tahu.
+
+554
+00:30:51,498 --> 00:30:53,197
+Tidak apa-apa.
+
+555
+00:30:58,637 --> 00:31:00,737
+Ahjussi, apakah kau tahu apa itu istirahat ?
+
+556
+00:31:01,367 --> 00:31:04,207
+Istirahat musik atau pertunjukan?
+
+557
+00:31:04,207 --> 00:31:05,577
+Istirahat itu?
+
+558
+00:31:05,577 --> 00:31:06,607
+Iya.
+
+559
+00:31:08,107 --> 00:31:10,947
+Setiap kali aku pergi ke konser sebagai anak-anak,
+
+560
+00:31:11,318 --> 00:31:13,348
+Aku sangat menyukai waktu itu.
+
+561
+00:31:14,117 --> 00:31:15,688
+Aku senang itu belum berakhir.
+
+562
+00:31:15,947 --> 00:31:18,487
+Bahwa masih ada lagi yang tersisa.
+
+563
+00:31:19,088 --> 00:31:22,088
+Aku menantikan penampilan luar biasa lainnya.
+
+564
+00:31:25,058 --> 00:31:27,228
+Dan aku pikir ini adalah istirahatku.
+
+565
+00:31:29,197 --> 00:31:31,498
+Aku sudah berhenti sejenak saat aku menunggu...
+
+566
+00:31:31,897 --> 00:31:33,637
+Penampilan luar biasa lainnya.
+
+567
+00:31:35,107 --> 00:31:36,468
+Istirahat...
+
+568
+00:31:37,408 --> 00:31:38,607
+Dalam hidupku.
+
+569
+00:31:42,177 --> 00:31:43,607
+Itu sebabnya tidak apa-apa.
+
+570
+00:31:44,447 --> 00:31:48,047
+Ini belum berakhir. Aku hanya beristirahat.
+
+571
+00:31:51,688 --> 00:31:53,818
+Aku hanya mengambil istirahat sebentar...
+
+572
+00:31:54,218 --> 00:31:56,288
+Untuk sesuatu yang lebih menakjubkan.
+
+573
+00:31:59,498 --> 00:32:02,568
+Itu sebabnya aku ingin mencoba melaluinya sendiri.
+
+574
+00:32:03,267 --> 00:32:05,867
+Aku tidak akan bergantung padamu dan Chan,
+
+575
+00:32:06,038 --> 00:32:08,267
+Minta bantuan Ny. Kang,
+
+576
+00:32:08,637 --> 00:32:11,068
+Jika kau bertanya-tanya tempat untukku.
+
+577
+00:32:11,978 --> 00:32:13,707
+Aku akan mengurus semuanya sendiri.
+
+578
+00:32:18,017 --> 00:32:20,577
+Aku minta maaf.
+
+579
+00:32:21,147 --> 00:32:22,688
+Aku melihat catatanmu.
+
+580
+00:32:25,088 --> 00:32:27,718
+Apa? Kenapa nama Chan ada di sini?
+
+581
+00:32:32,228 --> 00:32:34,098
+(Haruskah aku memintanya untuk pindah bersama kita?)
+
+582
+00:32:34,098 --> 00:32:36,927
+Terima kasih sudah mengkhawatirkanku.
+
+583
+00:32:39,768 --> 00:32:40,968
+Sebenarnya,
+
+584
+00:32:41,468 --> 00:32:45,807
+Aku mempertimbangkan pindah bersamamu karena aku takut.
+
+585
+00:32:46,978 --> 00:32:50,078
+Tapi aku akan bergantung padamu jika aku melakukan itu.
+
+586
+00:32:50,747 --> 00:32:53,718
+Aku akan mengandalkanmu, nanti nya kebiasaan.
+
+587
+00:32:55,187 --> 00:32:57,047
+Jika itu terjadi, aku mungkin tidak bisa apa-apa.
+
+588
+00:32:57,588 --> 00:32:58,658
+Namun,
+
+589
+00:33:00,117 --> 00:33:01,187
+Aku tidak ingin itu terjadi.
+
+590
+00:33:01,357 --> 00:33:03,588
+Itu sebabnya aku akan mencoba melakukannya sendiri.
+
+591
+00:33:10,567 --> 00:33:11,698
+Dirimu sudah...
+
+592
+00:33:12,538 --> 00:33:13,737
+Cukup dewasa.
+
+593
+00:33:15,867 --> 00:33:18,908
+Jika aku adalah kau, aku tidak bisa melakukan hal yang sama. Tidak.
+
+594
+00:33:21,948 --> 00:33:24,078
+Aku tidak bisa melakukannya.
+
+595
+00:33:26,617 --> 00:33:28,848
+Kau mengatakan ini kepadaku sekali.
+
+596
+00:33:30,117 --> 00:33:33,187
+Kau mengatakan kepadaku bahwa sepertinya hatiku tertutup.
+
+597
+00:33:34,487 --> 00:33:38,057
+Aku akan bersembunyi, berlari, dan melangkah pergi.
+
+598
+00:33:41,028 --> 00:33:42,828
+Itu benar. Begitulah caraku hidup.
+
+599
+00:33:46,737 --> 00:33:48,737
+Aku tidak bisa sedih dengan sepenuh hati...
+
+600
+00:33:51,338 --> 00:33:53,578
+Atau merasa cukup menyesal.
+
+601
+00:33:55,807 --> 00:33:57,848
+Aku takut orang akan melihat rasa sakitku,
+
+602
+00:33:59,948 --> 00:34:02,018
+Jadi aku lari dan mengabaikannya.
+
+603
+00:34:06,417 --> 00:34:08,427
+Aku terlalu sibuk menutupi diri.
+
+604
+00:34:09,687 --> 00:34:11,627
+Apa maksudmu?
+
+605
+00:34:12,158 --> 00:34:13,158
+Dulu,
+
+606
+00:34:15,328 --> 00:34:19,167
+Ada sebuah penyesalan yang aku lakukan.
+
+607
+00:34:21,367 --> 00:34:23,867
+Aku sangat bodoh.
+
+608
+00:34:26,538 --> 00:34:28,208
+Aku seperti anak kecil.
+
+609
+00:34:33,047 --> 00:34:35,018
+Aku masih tidak memiliki keberanian...
+
+610
+00:34:36,247 --> 00:34:38,788
+Untuk berbagi cerita ini dengan siapa pun.
+
+611
+00:34:40,958 --> 00:34:42,088
+Itulah kenapa...
+
+612
+00:34:48,867 --> 00:34:51,797
+Jika itu terlalu menyakitkan, kau tidak harus melanjutkan.
+
+613
+00:34:53,838 --> 00:34:57,338
+Terima kasih sudah berbagi cerita denganku.
+
+614
+00:35:16,943 --> 00:35:17,974
+Tentang umurmu,
+
+615
+00:35:18,643 --> 00:35:20,843
+Kau tidak perlu merasa tidak nyaman tentang hal itu.
+
+616
+00:35:22,713 --> 00:35:25,784
+Kau tidak lari atau diam sepertiku.
+
+617
+00:35:26,724 --> 00:35:29,023
+Kau menanganinya dengan sangat baik.
+
+618
+00:35:29,354 --> 00:35:32,924
+Kau sudah seperti orang dewasa. Kau sudah pantas berusia 30 tahun.
+
+619
+00:35:33,924 --> 00:35:35,564
+Aku tahu betul...
+
+620
+00:35:36,434 --> 00:35:39,763
+Tidak ada kata yang bisa menghibur apa yang terjadi padamu.
+
+621
+00:35:40,034 --> 00:35:43,174
+Namun, aku dapat menjamin satu hal ini.
+
+622
+00:35:44,273 --> 00:35:46,003
+Kau akan dapat melakukannya sendiri.
+
+623
+00:35:47,273 --> 00:35:49,114
+Kau lebih dewasa dariku.
+
+624
+00:35:51,713 --> 00:35:53,984
+Baik. Aku akan melakukan yang terbaik.
+
+625
+00:35:58,583 --> 00:36:00,554
+- Hey. Keluar dari sini!
+
+626
+00:36:01,054 --> 00:36:02,393
+Punk.
+
+627
+00:36:02,624 --> 00:36:04,253
+Jika kau tidak memiliki siapapun untuk dilihat,
+
+628
+00:36:04,253 --> 00:36:06,564
+Kenapa kau berkeliaran di tempat tinggal khusus wanita?
+
+629
+00:36:06,564 --> 00:36:08,864
+- Jika kau selesai, pergilah.
+- Tidak mungkin.
+
+630
+00:36:09,333 --> 00:36:11,833
+Kenapa tidak ada yang menangkap orang cabul seperti itu?
+
+631
+00:36:14,164 --> 00:36:16,104
+Aku ingin tahu apa yang dilakukan Chan.
+
+632
+00:36:16,573 --> 00:36:17,604
+Haruskah aku memanggil...
+
+633
+00:36:18,703 --> 00:36:19,903
+Tidak, aku lebih baik tidak.
+
+634
+00:36:20,573 --> 00:36:22,174
+Dia mungkin sedang berlatih.
+
+635
+00:36:27,484 --> 00:36:30,013
+Kenapa keamanannya begitu ketat?
+
+636
+00:36:31,924 --> 00:36:34,253
+Kenapa tempat ini sangat bagus?
+
+637
+00:37:15,294 --> 00:37:17,264
+Itu dia.
+
+638
+00:37:18,463 --> 00:37:20,463
+Kenapa dia minum kopi pada jam s egini?
+
+639
+00:37:20,804 --> 00:37:22,733
+Dia tidak akan bisa tidur.
+
+640
+00:37:24,534 --> 00:37:25,973
+Anak itu akan menabraknya.
+
+641
+00:37:30,174 --> 00:37:31,684
+Untunglah.
+
+642
+00:37:37,613 --> 00:37:38,823
+Dia berhenti.
+
+643
+00:38:16,123 --> 00:38:18,394
+Tidak, aku sangat penasaran.
+
+644
+00:38:20,064 --> 00:38:23,733
+Aku hanya mengira bahwa sesuatu mungkin terjadi padamu.
+
+645
+00:38:24,164 --> 00:38:25,404
+Aku minta maaf.
+
+646
+00:38:26,233 --> 00:38:30,103
+Dan aku mungkin mengatakan hal-hal yang tidak akan aku katakan jika aku tahu.
+
+647
+00:38:31,703 --> 00:38:34,343
+Kau sudah cukup dewasa.
+
+648
+00:39:17,414 --> 00:39:18,924
+- Hei.
+- Iya
+
+649
+00:39:18,924 --> 00:39:20,284
+Apa yang baru saja kau gambar?
+
+650
+00:39:23,654 --> 00:39:26,093
+- Crescendo.
+- "Crescendo"?
+
+651
+00:39:27,463 --> 00:39:29,493
+Ya, sebuah crescendo.
+
+652
+00:39:32,733 --> 00:39:33,963
+Hidupku...
+
+653
+00:39:35,034 --> 00:39:36,134
+Istirahat.
+
+654
+00:39:37,203 --> 00:39:39,304
+Aku telah berhenti sejenak saat aku menunggu...
+
+655
+00:39:40,144 --> 00:39:41,743
+Penampilan luar biasa lainnya.
+
+656
+00:39:43,644 --> 00:39:45,044
+Itu sebabnya tidak apa-apa.
+
+657
+00:39:45,843 --> 00:39:47,184
+Ini belum berakhir.
+
+658
+00:39:47,743 --> 00:39:49,514
+Aku hanya beristirahat.
+
+659
+00:40:01,593 --> 00:40:03,764
+Aku tidak bisa membiarkan ini. Mari kita bawa Ahjumma bersama kita.
+
+660
+00:40:03,764 --> 00:40:05,034
+Kau mengejutkanku.
+
+661
+00:40:08,833 --> 00:40:11,373
+- Kita sudah menyelesaikan ini.
+- Tidak, Kita tidak.
+
+662
+00:40:12,004 --> 00:40:15,014
+Aku mengerti bahwa tempat barunya sangat bagus,
+
+663
+00:40:15,174 --> 00:40:17,743
+Tapi dia tidak seharusnya sendirian.
+
+664
+00:40:18,414 --> 00:40:20,113
+- Itu karena...
+- Aku tahu.
+
+665
+00:40:21,483 --> 00:40:23,014
+Apa yang kau...
+
+666
+00:40:24,784 --> 00:40:26,884
+- Tahu?
+- Tidak, tempe.
+
+667
+00:40:27,424 --> 00:40:29,754
+- Aku mendengarnya secara langsung.
+- Begitu?
+
+668
+00:40:33,664 --> 00:40:35,963
+Ini mungkin lebih baik.
+
+669
+00:40:36,134 --> 00:40:37,693
+Kau pikir kita harus membawanya juga, bukan?
+
+670
+00:40:37,693 --> 00:40:39,534
+Dia seharusnya tidak sendirian, kan? Kau tidak bisa membiarkannya hidup sendiri, kan?
+
+671
+00:40:39,534 --> 00:40:41,733
+- Aku bisa.
+- Kenapa?
+
+672
+00:40:42,934 --> 00:40:46,843
+Chan, yang terbaik adalah membiarkannya pergi. Itu yang harus kita lakukan.
+
+673
+00:40:46,843 --> 00:40:49,113
+- Tapi...
+- Dia akan mengurusnya sendiri.
+
+674
+00:40:49,314 --> 00:40:52,414
+Aku ingin membiarkan dia melakukan apa yang diinginkannya. Aku menghormati keputusannya.
+
+675
+00:40:53,414 --> 00:40:54,514
+Apakah dia...
+
+676
+00:40:55,213 --> 00:40:56,554
+Mengatakan itu?
+
+677
+00:40:56,554 --> 00:41:00,254
+Dia tidak selemah yang kau pikirkan. Dia juga dewasa.
+
+678
+00:41:00,953 --> 00:41:03,193
+Dia cukup dewasa untuk mengurusnya sendiri.
+
+679
+00:41:06,424 --> 00:41:08,463
+Mari hormati keputusannya.
+
+680
+00:41:29,853 --> 00:41:31,184
+Chan.
+
+681
+00:41:32,384 --> 00:41:34,223
+Bisakah aku masuk sebentar?
+
+682
+00:41:34,353 --> 00:41:35,754
+Aku ingin berbicara denganmu.
+
+683
+00:41:37,154 --> 00:41:39,963
+Aku sedang tidak mengenakan pakaian, ini gerah.
+
+684
+00:41:40,564 --> 00:41:42,064
+Kau bisa bicara dari sana.
+
+685
+00:41:42,493 --> 00:41:46,034
+Aku datang untuk mengucapkan terima kasih.
+
+686
+00:41:47,564 --> 00:41:49,174
+Apakah kau ingat memberitahuku ini?
+
+687
+00:41:49,174 --> 00:41:50,174
+Hei, nona.
+
+688
+00:41:50,473 --> 00:41:53,404
+Kau mengatakan kepadaku bahwa rasanya seperti semua orang yang kau kenal telah menghilang.
+
+689
+00:41:53,804 --> 00:41:56,473
+Tapi sekarang, kau kenal seseorang.
+
+690
+00:41:56,843 --> 00:41:59,514
+Aku. Aku kenalanmu sekarang.
+
+691
+00:42:00,983 --> 00:42:03,213
+Aku bisa menahan semuanya berkat apa yang kau katakan.
+
+692
+00:42:04,213 --> 00:42:07,223
+Kau adalah teman pertama setelah aku bangun.
+
+693
+00:42:07,424 --> 00:42:08,693
+Dan aku bersyukur untuk itu.
+
+694
+00:42:09,924 --> 00:42:11,123
+Terima kasih...
+
+695
+00:42:11,424 --> 00:42:13,593
+Karena mau menjadi temanku.
+
+696
+00:42:16,294 --> 00:42:17,564
+Apakah kau mendengarkan?
+
+697
+00:42:18,164 --> 00:42:19,203
+Iya.
+
+698
+00:42:20,164 --> 00:42:22,203
+Aku mengucapkan terima kasih...
+
+699
+00:42:22,534 --> 00:42:24,004
+Karena bersikap baik padaku.
+
+700
+00:42:25,243 --> 00:42:28,674
+Kau berbicara seolah-olah kita tidak akan pernah bertemu lagi.
+
+701
+00:42:29,274 --> 00:42:30,514
+Apakah itu terdengar seperti itu?
+
+702
+00:42:31,274 --> 00:42:33,184
+Aku akan menemuimu besok pagi.
+
+703
+00:42:33,483 --> 00:42:34,713
+Selamat malam.
+
+704
+00:42:55,973 --> 00:42:57,634
+Kenapa aku memiliki begitu banyak barang?
+
+705
+00:42:58,743 --> 00:43:00,504
+Jennifer mengemas bantal itu untukmu...
+
+706
+00:43:00,504 --> 00:43:02,073
+...karena dia ingin kau tidur dengan nyaman.
+
+707
+00:43:02,073 --> 00:43:04,014
+Dan kami memberimu kipas angin.
+
+708
+00:43:04,174 --> 00:43:06,443
+Aku mendengarmu masih perlu membayar air dan listrik.
+
+709
+00:43:06,613 --> 00:43:08,754
+Kami khawatir, kau mungkin tidak menyalakan AC untuk menghemat uang.
+
+710
+00:43:09,014 --> 00:43:12,684
+- Jadi kami beli kipas angin.
+- Wah, terima kasih banyak.
+
+711
+00:43:12,684 --> 00:43:14,794
+Ayolah. Setidaknya ini yang bisa kita lakukan.
+
+712
+00:43:15,424 --> 00:43:17,093
+Aku mulai menangis...
+
+713
+00:43:17,794 --> 00:43:19,424
+Sekarang kau harus pergi.
+
+714
+00:43:20,524 --> 00:43:22,863
+Kenapa kau menangis?
+
+715
+00:43:23,034 --> 00:43:25,764
+Astaga, berhenti menjadi bayi.
+
+716
+00:43:26,564 --> 00:43:28,703
+Kenapa kau menangis? Kita akan melihatnya lagi.
+
+717
+00:43:29,073 --> 00:43:31,904
+Aku harap kau pindah dengan aman. Aku akan segera bertemu denganmu.
+
+718
+00:43:31,904 --> 00:43:33,343
+Kami harus pergi untuk pelatihan.
+
+719
+00:43:33,603 --> 00:43:34,743
+Sampai ketemu lagi.
+
+720
+00:43:36,473 --> 00:43:39,144
+- Selamat tinggal.
+- Sampai jumpa.
+
+721
+00:43:47,353 --> 00:43:48,453
+Aku tidak bisa melakukan ini.
+
+722
+00:43:49,323 --> 00:43:50,453
+Aku tidak bisa bertindak seperti semuanya baik-baik saja.
+
+723
+00:43:51,424 --> 00:43:52,794
+Aku membelikanmu obat.
+
+724
+00:43:53,593 --> 00:43:55,233
+Ini untuk migrain.
+
+725
+00:43:55,233 --> 00:43:57,233
+Ini untuk pilek, dan ini untuk sakit tenggorokan.
+
+726
+00:43:57,733 --> 00:44:00,564
+Ini salep untuk bekas luka. Ini adalah pistol setrum.
+
+727
+00:44:00,564 --> 00:44:03,274
+Ini semprotan merica. Dan ini peluit.
+
+728
+00:44:04,703 --> 00:44:06,044
+Aku punya sesuatu yang ingin kukatakan padamu.
+
+729
+00:44:06,973 --> 00:44:08,943
+Ayo pergi. Kita akan mendapat masalah jika terlambat.
+
+730
+00:44:08,973 --> 00:44:12,044
+Ubah passcodemu segera. Selalu kunci jendelamu.
+
+731
+00:44:12,083 --> 00:44:13,613
+Dan jangan lewatkan makananmu.
+
+732
+00:44:13,613 --> 00:44:15,814
+Datanglah ke tempat kami jika kau kehabisan makanan!
+
+733
+00:44:16,184 --> 00:44:17,353
+Baik.
+
+734
+00:44:23,093 --> 00:44:25,193
+Letakkan ini di lemari es segera setelah kau sampai di sana.
+
+735
+00:44:25,363 --> 00:44:27,024
+Aku membuatkanmu beberapa jangjorim, favoritmu.
+
+736
+00:44:27,363 --> 00:44:29,894
+Aku memasukkan banyak telur puyuh.
+
+737
+00:44:31,363 --> 00:44:33,203
+Terima kasih, Jennifer.
+
+738
+00:44:33,634 --> 00:44:35,004
+Aku akan menikmati ini.
+
+739
+00:44:38,443 --> 00:44:40,174
+Ayo pergi. Aku akan mengantarmu kesana.
+
+740
+00:44:41,243 --> 00:44:42,243
+Ayo keluar.
+
+741
+00:44:42,514 --> 00:44:45,184
+Tidak, itu tidak apa-apa.
+
+742
+00:44:50,514 --> 00:44:52,223
+Aku akan pergi sekarang, Jennifer.
+
+743
+00:44:52,554 --> 00:44:53,784
+Aku akan datang berkunjung.
+
+744
+00:44:59,363 --> 00:45:01,733
+Aku tahu ini mungkin sedikit norak, tapi aku harus melakukan ini.
+
+745
+00:45:03,863 --> 00:45:06,004
+Terima kasih sudah bersikap baik padaku.
+
+746
+00:45:06,264 --> 00:45:07,703
+Aku akan membalasmu.
+
+747
+00:45:08,034 --> 00:45:10,904
+Aku berjanji akan membalas kebaikanmu.
+
+748
+00:45:33,064 --> 00:45:35,994
+Ini yang terbaik yang bisa aku berikan untukmu saat ini,
+
+749
+00:45:35,994 --> 00:45:39,103
+Tapi aku akan membelikanmu sepatu yang bagus nantinya di masa depan.
+
+750
+00:45:48,774 --> 00:45:50,214
+Hei, Hae Bum. Bayar untuk ini.
+
+751
+00:45:50,214 --> 00:45:51,214
+Baik.
+
+752
+00:45:52,883 --> 00:45:53,913
+Apa ini?
+
+753
+00:45:55,183 --> 00:45:58,554
+Deok Su dan Hae Bum. Kalian selalu membuatku merasa tenang.
+
+754
+00:45:58,554 --> 00:46:00,923
+Aku harap kau makan dengan ini.
+
+755
+00:46:01,183 --> 00:46:02,694
+Ahjumma...
+
+756
+00:46:30,954 --> 00:46:33,954
+Aku berharap tanganmu tidak sakit.
+
+757
+00:46:34,954 --> 00:46:38,663
+Asal kau tahu, aku selalu menyukai tanganmu.
+
+758
+00:46:39,363 --> 00:46:42,534
+Aku akan selalu bersorak untukmu. "Don't think, feel!"
+
+759
+00:46:50,403 --> 00:46:51,444
+Hatiku...
+
+760
+00:46:54,444 --> 00:46:55,444
+Sakit.
+
+761
+00:46:57,343 --> 00:46:58,343
+Ini.
+
+762
+00:47:07,754 --> 00:47:09,724
+Aku merasa kau setidaknya harus memiliki foto-foto itu...
+
+763
+00:47:10,494 --> 00:47:12,123
+Untuk mengurangi sedihmu.
+
+764
+00:47:21,433 --> 00:47:22,774
+Aku merasa sangat bersyukur.
+
+765
+00:47:23,774 --> 00:47:25,274
+Aku merasa sangat bersyukur atas semua ini,
+
+766
+00:47:25,274 --> 00:47:28,613
+Tapi aku tidak tahu bagaimana mengungkapkan perasaan ini.
+
+767
+00:47:31,984 --> 00:47:33,883
+Bulan lalu di rumah itu...
+
+768
+00:47:34,484 --> 00:47:36,514
+Seperti hadiah untukku.
+
+769
+00:47:37,413 --> 00:47:40,883
+Aku tinggal di sana sebelum rumah dirobohkan.
+
+770
+00:47:40,883 --> 00:47:42,853
+Aku bertemu Fang lagi.
+
+771
+00:47:43,054 --> 00:47:46,093
+Aku bisa berteriak berkat Chan dan Jennifer.
+
+772
+00:47:47,224 --> 00:47:48,294
+Dan...
+
+773
+00:47:49,564 --> 00:47:50,663
+Yang paling penting,
+
+774
+00:47:51,064 --> 00:47:53,564
+Aku berteman denganmu.
+
+775
+00:47:54,504 --> 00:47:55,933
+Itu semua terasa seperti hadiah untukku.
+
+776
+00:47:57,974 --> 00:48:00,873
+Jika bukan karenamu, aku tidak akan mampu...
+
+777
+00:48:01,413 --> 00:48:05,183
+Mengalami semua hal indah yang aku alami selama sebulan terakhir.
+
+778
+00:48:08,913 --> 00:48:11,083
+Terima kasih. Aku benar-benar tulus.
+
+779
+00:48:13,284 --> 00:48:14,923
+Aku juga ingin berterima kasih...
+
+780
+00:48:15,794 --> 00:48:17,393
+...sudah tinggal di tempat kami.
+
+781
+00:48:21,694 --> 00:48:23,564
+Kau dapat menurunkanku di sini.
+
+782
+00:48:24,133 --> 00:48:26,504
+Kenapa? Kami hampir sampai. Aku akan mengantarmu ke tempatmu.
+
+783
+00:48:27,064 --> 00:48:28,774
+Aku merasa akan menangis.
+
+784
+00:48:29,073 --> 00:48:31,544
+Ini memalukan. Aku akan menemuimu di tempat kerja pada hari Senin.
+
+785
+00:48:31,544 --> 00:48:32,774
+Jadi aku tidak ingin menangis di depanmu.
+
+786
+00:48:55,034 --> 00:48:56,633
+Ini untuk Unit 1101.
+
+787
+00:48:57,194 --> 00:48:58,564
+Unit 1101.
+
+788
+00:48:58,564 --> 00:49:01,264
+Tolong hubungi aku segera jika terjadi sesuatu.
+
+789
+00:49:01,264 --> 00:49:03,073
+- Baik.
+- Ini untuk Unit 1101.
+
+790
+00:49:06,204 --> 00:49:08,714
+(Tolong laporkan ke polisi jika kau melihat pria ini berkeliaran.)
+
+791
+00:49:25,964 --> 00:49:27,694
+(Ahjussi)
+
+792
+00:49:32,833 --> 00:49:34,433
+Dia memberiku hadiah yang bagus.
+
+793
+00:49:35,903 --> 00:49:37,873
+Ini terasa terlalu kecil dibandingkan dengan apa yang dia berikan padaku.
+
+794
+00:49:53,024 --> 00:49:54,754
+- Kau siapa?
+- Maaf?
+
+795
+00:49:55,593 --> 00:49:57,994
+Aku di sini untuk memberi makan ikan.
+
+796
+00:49:58,524 --> 00:50:01,494
+Oh, bukankah Hyun memberitahumu?
+
+797
+00:50:08,833 --> 00:50:11,673
+Pelajaran bahasaku tertunda selama satu semester...
+
+798
+00:50:11,673 --> 00:50:13,504
+Karena ada masalah dengan beberapa dokumen.
+
+799
+00:50:13,774 --> 00:50:15,244
+Apa yang akan aku lakukan?
+
+800
+00:50:22,683 --> 00:50:24,784
+Aku tahu ini mungkin sedikit norak, tapi aku harus melakukan ini.
+
+801
+00:50:24,923 --> 00:50:26,683
+- Ubah passcodemu segera.
+- Baik.
+
+802
+00:50:26,683 --> 00:50:28,054
+Aku merasa akan menangis.
+
+803
+00:50:28,054 --> 00:50:30,994
+Aku akan berakhir tergantung padamu. Aku akan mencoba melakukannya sendiri.
+
+804
+00:50:32,093 --> 00:50:34,423
+Bagaimana aku akan kembali setelah mengatakan semua itu?
+
+805
+00:50:43,603 --> 00:50:44,804
+Hei, itu kipas anginku.
+
+806
+00:51:03,153 --> 00:51:06,224
+Ini adalah bagaimana pertunjukan klasik biasanya dilakukan.
+
+807
+00:51:08,564 --> 00:51:09,893
+Tapi sepertinya itu terlalu biasa.
+
+808
+00:51:09,893 --> 00:51:11,264
+Kelihatannya terlalu biasa, bukan?
+
+809
+00:51:11,504 --> 00:51:12,663
+Mari kita pikirkan sedikit lagi.
+
+810
+00:51:18,004 --> 00:51:19,544
+Kenapa ini disini?
+
+811
+00:51:20,044 --> 00:51:23,143
+Ini adalah pistol setrum. Ini semprotan merica.
+
+812
+00:51:24,913 --> 00:51:26,944
+Hei, Woo Jin. Mau kemana kau? Hei!
+
+813
+00:51:29,913 --> 00:51:31,583
+Hei, itu kipas anginnya!
+
+814
+00:51:58,044 --> 00:51:59,544
+Panas sekali.
+
+815
+00:52:10,653 --> 00:52:11,694
+Dragooon...
+
+816
+00:52:12,093 --> 00:52:13,264
+Apa itu tadi?
+
+817
+00:52:20,034 --> 00:52:22,903
+Panas sekali.
+
+818
+00:52:44,093 --> 00:52:46,893
+Wah, bolehkah mhamhanx ikut.
+
+819
+00:52:50,893 --> 00:52:52,363
+Bolehkah aku berbagi denganmu?
+
+820
+00:52:54,264 --> 00:52:56,403
+Wah, bolehkah mhamhanx ikut.
+
+821
+00:52:56,403 --> 00:52:57,774
+Ahjussi.
+
+822
+00:52:57,903 --> 00:53:00,403
+Apa yang kau lakukan di depan tokoku?
+
+823
+00:53:01,143 --> 00:53:03,214
+Aku akan memesan lima ayam goreng dibungkus.
+
+824
+00:53:03,214 --> 00:53:04,274
+Lima?
+
+825
+00:53:04,784 --> 00:53:06,444
+Lima ayam goreng dibungkus.
+
+826
+00:53:08,984 --> 00:53:10,754
+Astaga, Hyun. Serius
+
+827
+00:53:11,623 --> 00:53:14,284
+Jika itu terjadi, kau seharusnya pulang ke rumah.
+
+828
+00:53:14,583 --> 00:53:17,353
+Berapa lama kau akan membawa ini?
+
+829
+00:53:17,494 --> 00:53:20,623
+Bagaimana aku bisa kembali ke sana?
+
+830
+00:53:21,163 --> 00:53:24,333
+Dan kau akan segera pindah.
+
+831
+00:53:24,633 --> 00:53:27,064
+Butuh beberapa minggu lagi untuk pindah.
+
+832
+00:53:28,504 --> 00:53:30,704
+Kau bahkan tidak menemukan kamar. Apa yang akan kau lakukan?
+
+833
+00:53:31,504 --> 00:53:35,173
+- Aku merasa tidak enak untuk menanyakanmu lagi...
+- Bahkan jika kau merasa buruk, datang saja.
+
+834
+00:53:35,413 --> 00:53:37,314
+Aku khawatir tanamanku akan layu lagi...
+
+835
+00:53:37,314 --> 00:53:39,343
+Karena aku tidak tahu di mana tempat terbaik.
+
+836
+00:53:39,343 --> 00:53:40,883
+Dan aku juga khawatir...
+
+837
+00:53:40,883 --> 00:53:43,814
+Deok Gu akan merasa tertekan tanpa dirimu.
+
+838
+00:53:43,814 --> 00:53:47,653
+Kau dapat mengambil tiga langkah dari pintu untuk menemukan tempat terbaik.
+
+839
+00:53:47,754 --> 00:53:49,994
+Dan aku akan sering pergi melihat Fang.
+
+840
+00:53:49,994 --> 00:53:52,194
+Yang aku maksud...
+
+841
+00:53:53,123 --> 00:53:56,064
+Aku ingin kau tetap di tempatku bersamaku.
+
+842
+00:54:00,464 --> 00:54:01,474
+(Kencang)
+
+843
+00:54:02,373 --> 00:54:04,373
+Kenapa tiba-tiba kau mengencangkannya?
+
+844
+00:54:04,373 --> 00:54:06,704
+Wajahku tiba-tiba menjadi sangat panas.
+
+845
+00:54:08,143 --> 00:54:11,913
+Aku kira Deok Su dan Hae Bum memilih kipas yang bagus.
+
+846
+00:54:11,913 --> 00:54:14,643
+Ini benar-benar bagus. Ini luar biasa.
+
+847
+00:54:14,954 --> 00:54:16,954
+Apakah kau akan terus berbicara tentang kipas?
+
+848
+00:54:19,583 --> 00:54:20,823
+Lihat aku.
+
+849
+00:54:22,323 --> 00:54:23,423
+Hei, lihat aku.
+
+850
+00:54:30,633 --> 00:54:32,234
+Ikut aku ke rumahku.
+
+851
+00:54:34,304 --> 00:54:35,504
+Bolehkah aku...
+
+852
+00:54:37,173 --> 00:54:39,744
+Benar-benar kembali?
+
+853
+00:54:55,093 --> 00:54:56,254
+Ikut denganku.
+
+854
+00:55:04,704 --> 00:55:06,234
+Kau dapat tinggal sampai menemukan tempat tinggal.
+
+855
+00:55:07,204 --> 00:55:09,274
+Jika kau tidak dapat menemukan tempat sampai aku pindah,
+
+856
+00:55:09,274 --> 00:55:11,004
+Kau bisa ikut ke tempat Chan.
+
+857
+00:55:11,944 --> 00:55:13,304
+Terima kasih.
+
+858
+00:55:15,413 --> 00:55:18,814
+Pokoknya, apa catatan itu "Ahj..."? Bukankah itu untuk ku?
+
+859
+00:55:19,214 --> 00:55:20,244
+Apa?
+
+860
+00:55:20,643 --> 00:55:21,683
+(Ahjussi)
+
+861
+00:55:22,153 --> 00:55:24,683
+Oh ini? Ini bukan apa-apa.
+
+862
+00:55:24,683 --> 00:55:27,623
+Bukankah itu "Ahj.." untuk "Ahjussi"? Bukankah itu untuk ku?
+
+863
+00:55:27,623 --> 00:55:30,794
+- Tidak.
+- Kurasa itu "Ahjussi" untukku.
+
+864
+00:55:30,794 --> 00:55:33,464
+- Itu untukku.
+- Bukan.
+
+865
+00:55:33,464 --> 00:55:35,494
+Itu untukku. Berikan padaku.
+
+866
+00:55:35,494 --> 00:55:37,663
+Tidak, itu bukan untukku.
+
+867
+00:55:37,663 --> 00:55:40,103
+- Berikan padaku. Itu adalah untukku.
+- Itu bukan untukku.
+
+868
+00:55:40,103 --> 00:55:42,633
+- Ini. Itu sepertinya "Ahjussi".
+- Bukan itu.
+
+869
+00:55:43,504 --> 00:55:44,704
+- Berikan padaku.
+- Tidak.
+
+870
+00:55:49,014 --> 00:55:50,544
+Aku pulang.
+
+871
+00:55:56,454 --> 00:55:59,083
+Astaga, aku pasti sudah gila.
+
+872
+00:56:00,923 --> 00:56:02,224
+Aku mulai melihat banyak hal.
+
+873
+00:56:05,893 --> 00:56:08,833
+Chan, aku kembali.
+
+874
+00:56:08,833 --> 00:56:11,363
+Dia tidak membutuhkan siapa pun untuk memberi makan ikannya sekarang.
+
+875
+00:56:13,464 --> 00:56:15,034
+Tunggu, benarkah kau Ahjumma?
+
+876
+00:56:16,333 --> 00:56:17,734
+Apakah kau benar-benar kembali?
+
+877
+00:56:18,643 --> 00:56:21,613
+Hei, apa kau kembali?
+
+878
+00:56:21,974 --> 00:56:25,014
+Dia akan tinggal bersama kita sampai dia menemukan tempat tinggal.
+
+879
+00:56:28,083 --> 00:56:29,353
+Selamat datang kembali.
+
+880
+00:56:29,954 --> 00:56:32,284
+- Bukankah kita harus berpelukan juga?
+- Tentu saja.
+
+881
+00:56:42,393 --> 00:56:43,593
+Baiklah!
+
+882
+00:56:52,373 --> 00:56:54,204
+Oh begitu.
+
+883
+00:56:54,843 --> 00:56:56,714
+Tolong cari kamar lain...
+
+884
+00:56:56,944 --> 00:56:59,583
+Dengan kondisi yang sama. Ya...
+
+885
+00:56:59,984 --> 00:57:01,143
+Nyonya Hwang Mi Jung?
+
+886
+00:57:18,004 --> 00:57:19,403
+Apakah kau mengenaliku?
+
+887
+00:57:31,383 --> 00:57:32,413
+Halo, ibu.
+
+888
+00:57:32,883 --> 00:57:35,113
+Apakah kau baik-baik saja? Bagaimana Afrika?
+
+889
+00:57:35,284 --> 00:57:38,083
+Aku akan memberitahumu dalam satu jam.
+
+890
+00:57:38,623 --> 00:57:40,284
+Aku di Bandara Incheon.
+
+891
+00:57:40,423 --> 00:57:42,853
+Apa? Astaga. Kau kembali?
+
+892
+00:57:43,893 --> 00:57:46,024
+Iya. Aku akan melihatmu di rumah.
+
+893
+00:57:46,393 --> 00:57:47,863
+Selamat tinggal, Mommy.
+
+894
+00:57:52,504 --> 00:57:53,564
+Rumah?
+
+895
+00:57:54,133 --> 00:57:55,403
+Lalu bagaimana dengan Ahjumma?
+
+896
+00:57:56,903 --> 00:57:58,204
+Sial!
+
+897
+00:57:59,704 --> 00:58:01,343
+Kenapa kau tidak memberitahu sebelumnya?
+
+898
+00:58:02,014 --> 00:58:04,944
+- Ibuku sedang menuju rumah.
+- Oh, apakah kakak datang?
+
+899
+00:58:06,143 --> 00:58:07,744
+Apa? Rumah?
+
+900
+00:58:08,484 --> 00:58:09,853
+Kau dapat memiliki ini.
+
+901
+00:58:10,153 --> 00:58:11,653
+Wanita itu mungkin sendirian.
+
+902
+00:58:12,183 --> 00:58:14,024
+Bagaimana jika dia tahu orang asing tinggal bersama kita?
+
+903
+00:58:17,954 --> 00:58:19,393
+Siapa itu?
+
+904
+00:58:19,724 --> 00:58:22,194
+Kau benar. Dia adalah pembantu kita.
+
+905
+00:58:22,194 --> 00:58:23,593
+Itu sudah jelas.
+
+906
+00:58:23,593 --> 00:58:26,034
+Kau tidak bisa mengatakan padanya karena kau tahu...
+
+907
+00:58:26,034 --> 00:58:27,663
+Ibumu akan khawatir.
+
+908
+00:58:27,663 --> 00:58:30,173
+Kau benar. Kau menyembunyikannya secara naluriah.
+
+909
+00:58:30,173 --> 00:58:32,103
+Kau pikir sesuatu akan terjadi jika ibumu tahu.
+
+910
+00:58:41,484 --> 00:58:42,683
+Siapa ini?
+
+911
+00:58:42,814 --> 00:58:45,383
+Fang, ikut aku.
+
+912
+00:58:47,484 --> 00:58:48,794
+Halo.
+
+913
+00:58:49,454 --> 00:58:50,724
+Kau siapa?
+
+914
+00:59:02,704 --> 00:59:06,373
+Yah, siapa kau?
+
+915
+00:59:19,704 --> 00:59:44,000
+Terimakasih sudah menggunakan subtitle <font color="#DAF7A6">@Lord_Minho</font>
+Sampai jumpa di episode selanjutnya...
+

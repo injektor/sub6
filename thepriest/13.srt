@@ -1,0 +1,3162 @@
+﻿1
+00:00:01,000 --> 00:00:06,000
+<font color="#00ffff">-The Priest-</font>
+
+2
+00:00:17,075 --> 00:00:20,276
+(Nama, karakter, tempat, dan peristiwa ...)
+
+3
+00:00:20,276 --> 00:00:23,545
+(di dalam drama ini fiktif.)
+
+4
+00:00:23,545 --> 00:00:26,716
+(Bila terjadi kesamaan, itu hanya kebetulan semata.)
+
+5
+00:00:27,391 --> 00:00:28,421
+<i>Apa yang terjadi?</i>
+
+6
+00:00:28,421 --> 00:00:30,660
+<i>Para pengikut setan pasti menyerangnya.</i>
+
+7
+00:00:30,660 --> 00:00:32,020
+<i>- Bagaimana dengan kotak itu?
+- Mereka mengambilnya.</i>
+
+8
+00:00:32,020 --> 00:00:34,230
+<i>Hemothorax</i> karena tulang rusuk kiri patah.
+
+9
+00:00:34,491 --> 00:00:35,690
+<i>Tolong chest tube-nya.</i>
+
+10
+00:00:36,360 --> 00:00:39,300
+<i>Kuatkan dia dengan kuasa-Mu.</i>
+
+11
+00:00:39,561 --> 00:00:42,870
+<i>Bantu dia hidup lebih kuat.</i>
+
+12
+00:00:42,870 --> 00:00:45,071
+<i>Kupikir sudah selesai, tapi ternyata belum.</i>
+
+13
+00:00:45,071 --> 00:00:48,171
+<i>Tidak peduli apa keputusan yang kau buat, aku akan menghormatinya.</i>
+
+14
+00:00:48,171 --> 00:00:49,911
+<i>Ini bukan sosok biasa.</i>
+
+15
+00:00:49,911 --> 00:00:52,781
+<i>Tapi, benar ada yang mengambil kotak itu.</i>
+
+16
+00:00:53,040 --> 00:00:54,680
+<i>Kita targetnya.</i>
+
+17
+00:00:54,680 --> 00:00:55,711
+<i>Suster Lee.</i>
+
+18
+00:00:55,781 --> 00:00:57,781
+<i>Acara amalnya hari ini.</i>
+
+19
+00:01:01,790 --> 00:01:02,951
+<i>Suster Lee.</i>
+
+20
+00:01:03,290 --> 00:01:05,221
+<i>Dia ditikam. Bawa ke UGD.</i>
+
+21
+00:01:05,221 --> 00:01:07,090
+<i>- Di mana pelakunya?
+- Dia lari ke sana.</i>
+
+22
+00:01:07,260 --> 00:01:08,491
+<i>Tunjukan dirimu.</i>
+
+23
+00:01:08,631 --> 00:01:09,631
+<i>Ibu.</i>
+
+24
+00:01:09,760 --> 00:01:11,230
+<i>Hubungi Departemen Bedah.</i>
+
+25
+00:01:11,430 --> 00:01:12,430
+<i>Kain kasa.</i>
+
+26
+00:01:13,200 --> 00:01:14,230
+<i>Kau bisa.</i>
+
+27
+00:01:14,230 --> 00:01:15,971
+<i>Sekarang, saya akan menjahit pembuluh darah yang rusak.</i>
+
+28
+00:01:16,471 --> 00:01:19,370
+<i>Maukah kau menjadi bagian dari kami 634 Regia?</i>
+
+29
+00:01:19,494 --> 00:01:27,251
+[Sebelumnya di Priest]
+
+30
+00:01:27,351 --> 00:01:29,150
+<i>Kita menangkap setan untuk-Nya.</i>
+
+31
+00:01:29,150 --> 00:01:30,280
+<i>Bagaimana mereka bisa melakukan ini kepada kita?</i>
+
+32
+00:01:30,280 --> 00:01:33,381
+<i>Ini bukti dari kamar Yong Pil.</i>
+
+33
+00:01:33,381 --> 00:01:37,290
+<i>Anda semua skeptis tentang eksorsisme, kan?</i>
+
+34
+00:01:37,290 --> 00:01:38,861
+<i>Anda akan melihatnya di sini hari ini.</i>
+
+35
+00:01:38,861 --> 00:01:41,560
+<i>Kalau kau meminta maaf sekarang juga, saya akan melupakan masalah ini.</i>
+
+36
+00:01:41,560 --> 00:01:43,861
+<i>Kita akan membahas ekskomunikasimu di sini.</i>
+
+37
+00:01:43,861 --> 00:01:45,060
+<i>Pastikan kau berada di sini untuk itu.</i>
+
+38
+00:01:45,060 --> 00:01:47,930
+<i>Jika itu bukan energi, kita perlu menundukkan mereka dengan paksa.</i>
+
+39
+00:01:47,971 --> 00:01:50,001
+<i>Mengamankan Kotak Ibu Mutiara.</i>
+
+40
+00:01:50,001 --> 00:01:51,200
+<i>Waspadai sekitar kalian.</i>
+
+41
+00:01:51,200 --> 00:01:53,101
+<i>Ia lari ke arah barat dan memakai pakaian biarawati.</i>
+
+42
+00:01:53,101 --> 00:01:55,170
+<i>Pastor Oh, kami juga sedang mengajar satu.</i>
+
+43
+00:01:55,170 --> 00:01:57,310
+<i>Apakah aku melakukannya dengan benar, Pendeta Moon?</i>
+
+44
+00:01:58,780 --> 00:02:00,711
+<i>- Ibu Shin!
+- Ini adalah anti-salib.</i>
+
+45
+00:02:06,881 --> 00:02:09,151
+<i>Kau bukan Ibu.
+Ibuku sudah meninggal.</i>
+
+46
+00:02:09,221 --> 00:02:11,960
+<i>Setan menjebakmu ke dalam mimpi.
+Kau mengerti?</i>
+
+47
+00:02:11,960 --> 00:02:13,621
+<i>Ini bukan pertama kalinya setan mendekatimu ...</i>
+
+48
+00:02:13,621 --> 00:02:15,260
+<i>menyamar sebagai ibumu.</i>
+
+49
+00:02:15,260 --> 00:02:16,431
+<i>Sadarlah.</i>
+
+50
+00:02:16,431 --> 00:02:19,300
+<i>Apakah Anda percaya pada Tuhan Yang Maha Esa?</i>
+
+51
+00:02:19,401 --> 00:02:21,170
+<i>Kau, pendeta, seorang pendeta yang memuja iblis.</i>
+
+52
+00:02:21,170 --> 00:02:24,300
+<i>Mengapa kau melakukan ini dengan kebahagiaan tepat di depanmu?</i>
+
+53
+00:02:24,300 --> 00:02:26,170
+<i>Anda masih tidak mau menjawab.</i>
+
+54
+00:02:26,640 --> 00:02:29,010
+<i>Anda telah merancang tempat ini dengan sangat baik.</i>
+
+55
+00:02:29,010 --> 00:02:31,441
+<i>Namun, setelah ibu saya meninggal,</i>
+
+56
+00:02:31,441 --> 00:02:33,281
+<i>saya membuang semua foto ayah saya.</i>
+
+57
+00:02:33,540 --> 00:02:34,781
+<i>Saya melihat anti-salib.</i>
+
+58
+00:02:35,251 --> 00:02:38,851
+<i>Mengapa kau menolak kebahagiaan yang diberikan kepadamu?</i>
+
+59
+00:02:38,851 --> 00:02:41,050
+<i>Realitas tidak dimaksudkan untuk kedamaian.</i>
+
+60
+00:02:41,390 --> 00:02:42,821
+<i>Kau harus menusukku ...</i>
+
+61
+00:02:43,621 --> 00:02:44,990
+<i>atau dia.</i>
+
+62
+00:02:45,460 --> 00:02:47,460
+<i>Aku tidak akan rugi.</i>
+
+63
+00:02:47,460 --> 00:02:49,031
+<i>Eun Ho. Sampai jumpa.</i>
+
+64
+00:02:50,131 --> 00:02:51,460
+<i>Tidak!</i>
+
+65
+00:03:05,991 --> 00:03:07,231
+Rencananya sederhana.
+
+66
+00:03:07,931 --> 00:03:10,901
+Kita akan pergi ke alam bawah sadarnya dan melakukan pengusiran.
+
+67
+00:03:11,431 --> 00:03:12,801
+Kita hanya perlu menyelamatkannya ...
+
+68
+00:03:12,801 --> 00:03:14,801
+dari dunia yang iblis buat.
+
+69
+00:03:15,940 --> 00:03:17,040
+Pendeta.
+
+70
+00:03:17,040 --> 00:03:18,771
+Kau gagal melakukan eksorsisme.
+
+71
+00:03:19,470 --> 00:03:21,181
+Bagaimana kau bisa melarikan diri?
+
+72
+00:03:21,181 --> 00:03:23,410
+Dan kau bangun bahkan sebelum aku membunyikan bel.
+
+73
+00:03:25,380 --> 00:03:29,850
+Sebentar saja.
+Tetaplah seperti ini sebentar saja.
+
+74
+00:03:35,220 --> 00:03:38,231
+Kau bahkan tidak tahu siapa diriku.
+
+75
+00:03:44,771 --> 00:03:48,171
+Tidak peduli apa yang terjadi, aku pasti akan melindungimu.
+
+76
+00:03:51,070 --> 00:03:53,141
+Kupikir inilah akhir hidupku.
+
+77
+00:03:53,641 --> 00:03:56,340
+Kau harus melanjutkan perjuanganku.
+
+78
+00:03:56,840 --> 00:03:57,910
+Michael.
+
+79
+00:03:58,810 --> 00:03:59,910
+Jantungnya berhenti.
+
+80
+00:04:00,051 --> 00:04:01,681
+Ada <i>defibrillator</i> dalam ambulans.
+
+81
+00:04:01,681 --> 00:04:02,681
+Cepat!
+
+82
+00:04:04,220 --> 00:04:07,220
+Jangan pernah mendengarkan setan.
+Jangan pernah.
+
+83
+00:04:07,220 --> 00:04:08,760
+Lepaskan obsesi dan keinginanmu.
+
+84
+00:04:08,760 --> 00:04:10,421
+Dengan begitu kau dapat bangun.
+
+85
+00:04:11,030 --> 00:04:12,590
+Bangun.
+
+86
+00:04:12,590 --> 00:04:14,530
+1, 2, 3.
+
+87
+00:04:15,331 --> 00:04:16,560
+Apa yang akan kamu lakukan?
+
+88
+00:04:17,060 --> 00:04:20,330
+Kau harus menusukku atau dia.
+
+89
+00:04:20,500 --> 00:04:22,440
+Aku tidak akan rugi.
+
+90
+00:04:22,741 --> 00:04:24,611
+Manusia yang berdarah dalam mimpi mereka ...
+
+91
+00:04:24,710 --> 00:04:27,070
+akan berdarah sekali lagi dalam kenyataan.
+
+92
+00:04:27,481 --> 00:04:30,181
+Kau harus memilih dengan bijak.
+
+93
+00:04:34,551 --> 00:04:35,580
+Eun Ho.
+
+94
+00:04:37,121 --> 00:04:38,190
+Sampai jumpa.
+
+95
+00:04:47,601 --> 00:04:49,060
+Tidak!
+
+96
+00:05:00,341 --> 00:05:01,481
+Jantungnya berhenti.
+
+97
+00:05:11,950 --> 00:05:15,161
+1, 2, 3, 4, 5.
+
+98
+00:05:43,981 --> 00:05:45,150
+Apakah kamu baik-baik saja?
+
+99
+00:05:47,190 --> 00:05:48,260
+Eun Ho.
+
+100
+00:05:50,161 --> 00:05:51,161
+Ya?
+
+101
+00:06:24,361 --> 00:06:27,390
+-The Priest-
+
+102
+00:06:30,630 --> 00:06:32,971
+{Episode 13]
+
+103
+00:06:48,551 --> 00:06:49,981
+Setannya menghilang.
+
+104
+00:06:51,291 --> 00:06:53,450
+Kupikir mungkin Dr. Song dalam bahaya,
+
+105
+00:06:54,491 --> 00:06:56,161
+jadi aku segera ke tempatnya untuk menyelamatkannya.
+
+106
+00:06:57,020 --> 00:06:59,390
+Tapi, aku hanya bisa mendengar jeritan Dr Song,
+
+107
+00:06:59,960 --> 00:07:01,231
+dan pintunya tidak mau terbuka.
+
+108
+00:07:01,760 --> 00:07:04,130
+<i>- Dr. Song!</i>
+- Ketika aku membuka pintu ...
+
+109
+00:07:06,231 --> 00:07:09,200
+Pendeta Moon, bolehkah aku bertanya sesuatu?
+
+110
+00:07:11,411 --> 00:07:13,140
+Dapatkah Anda ingat...
+
+111
+00:07:14,310 --> 00:07:17,181
+apa yang terjadi pada tanggal 10 November 2010?
+
+112
+00:07:18,911 --> 00:07:20,080
+Apa yang setan...
+
+113
+00:07:21,880 --> 00:07:23,551
+tunjukkan padamu di dalam mimpimu?
+
+114
+00:07:25,051 --> 00:07:27,820
+Pendeta Jeong mencoba mencuri Kotak Ibu Mutiara ...
+
+115
+00:07:28,121 --> 00:07:29,621
+untuk menghidupkan kembali 634 Regia.
+
+116
+00:07:30,361 --> 00:07:33,560
+Dan Eun Ho dirasuki oleh setan ...
+
+117
+00:07:34,330 --> 00:07:35,731
+selagi Anda pergi.
+
+118
+00:07:36,900 --> 00:07:40,330
+Dan orang yang mencoba untuk mengembalikan Kotak Ibu Mutiara...
+
+119
+00:07:41,041 --> 00:07:42,070
+adalah Anda.
+
+120
+00:07:43,801 --> 00:07:45,570
+- Soo Min.
+- Pendeta Moon.
+
+121
+00:07:52,950 --> 00:07:54,051
+Ya, kau benar.
+
+122
+00:07:56,520 --> 00:07:58,820
+Kupikir akhirnya kau mendapatkan memorimu kembali.
+
+123
+00:08:02,661 --> 00:08:04,931
+Aku tahu bahwa hari ini akan datang,
+
+124
+00:08:05,830 --> 00:08:08,260
+tapi aku tidak tahu akan memberitahumu kebenaran seperti ini.
+
+125
+00:08:09,000 --> 00:08:11,900
+Sejak Woo Joo dibawa ke rumah sakit tempat kerjanya Dr. Ham,
+
+126
+00:08:13,630 --> 00:08:14,770
+aku merasa gugup.
+
+127
+00:08:17,440 --> 00:08:18,971
+Soo Min.
+
+128
+00:08:19,911 --> 00:08:22,140
+Karena diriku, kehidupan kalian ...
+
+129
+00:08:25,851 --> 00:08:27,010
+Maafkan aku.
+
+130
+00:08:27,351 --> 00:08:31,091
+Mengapa Anda meminta maaf? Itu keputusanku.
+
+131
+00:08:31,950 --> 00:08:35,790
+Aku tahu Anda melalui banyak hal karena aku.
+
+132
+00:08:35,790 --> 00:08:37,321
+Itu kesalahanku.
+
+133
+00:08:37,691 --> 00:08:39,760
+Jika aku tidak pergi ...
+
+134
+00:08:39,760 --> 00:08:41,601
+Itu bukan kesalahan Anda.
+
+135
+00:08:42,601 --> 00:08:44,400
+Bukan salah siapa-siapa.
+
+136
+00:08:45,130 --> 00:08:48,971
+Aku menyadari sesuatu setelah mendapatkan kembali memoriku.
+
+137
+00:08:49,971 --> 00:08:52,611
+Jika aku harus berjuang, aku akan melakukannya.
+
+138
+00:08:55,410 --> 00:08:56,910
+Dan aku tidak bisa menghindarinya.
+
+139
+00:08:58,951 --> 00:09:03,321
+Dalam mimpiku, Anda memilih untuk menjadi pemuja setan ...
+
+140
+00:09:04,520 --> 00:09:06,821
+untuk menyegel setan ke dalam Kotak Ibu Mutiara.
+
+141
+00:09:07,451 --> 00:09:10,920
+Anda juga kehilangan ...
+
+142
+00:09:11,660 --> 00:09:12,831
+nyawa.
+
+143
+00:09:13,760 --> 00:09:17,561
+Setelah itu, aku mencoba melakukan semua yang kubisa,
+
+144
+00:09:18,571 --> 00:09:20,430
+tapi aku tidak bisa menangkapnya pada akhirnya.
+
+145
+00:09:20,831 --> 00:09:22,701
+Aku lebih mencoba untuk meninggalkan pekerjaan ...
+
+146
+00:09:23,741 --> 00:09:25,211
+dan berhenti menjadi seorang pendeta.
+
+147
+00:09:26,611 --> 00:09:29,841
+Dan alasanku terbangun dari mimpi ...
+
+148
+00:09:31,510 --> 00:09:32,910
+karena ibuku.
+
+149
+00:09:33,111 --> 00:09:35,650
+Soo Min, itu ...
+
+150
+00:09:36,851 --> 00:09:39,390
+hanya mimpi alam bawah sadarmu...
+
+151
+00:09:39,790 --> 00:09:41,691
+yang dibuat oleh iblis.
+
+152
+00:09:42,160 --> 00:09:45,130
+Mimpi hanyalah mimpi.
+Itu bukan masa depan yang nyata.
+
+153
+00:09:45,130 --> 00:09:46,630
+Ya, aku tahu itu.
+
+154
+00:09:46,790 --> 00:09:50,561
+Tapi, mimpi itu akan menjadi kenyataan jika aku tidak berubah.
+
+155
+00:09:50,961 --> 00:09:53,731
+Lalu, setan akan mengincar...
+
+156
+00:09:53,731 --> 00:09:55,500
+Anda dan anggota 634 Regia.
+
+157
+00:09:55,601 --> 00:09:57,500
+Aku akan ragu-ragu,
+
+158
+00:09:57,841 --> 00:10:00,540
+dan aku akan kehilangan Eun Ho untuk kedua kalinya dan janjiku sebagai seorang pendeta ...
+
+159
+00:10:02,241 --> 00:10:03,941
+pada akhirnya.
+
+160
+00:10:05,550 --> 00:10:07,050
+Lebih dari delapan tahun terakhir,
+
+161
+00:10:09,520 --> 00:10:11,951
+kukira, momen singkat dalam ketidaksadaranmu itu...
+
+162
+00:10:12,851 --> 00:10:14,660
+lebih menyakitkan bagimu.
+
+163
+00:10:16,561 --> 00:10:19,260
+Eksorsisme dan tinju.
+
+164
+00:10:21,601 --> 00:10:24,130
+Anda begitu ketat saat melatihku,
+
+165
+00:10:28,140 --> 00:10:32,371
+karena Anda merasa bertanggung jawab atas diriku, kan?
+
+166
+00:10:41,721 --> 00:10:44,020
+Aku akan mengakhiri ini.
+
+167
+00:10:58,331 --> 00:10:59,670
+Soo Min.
+
+168
+00:11:00,770 --> 00:11:03,140
+Kau melakukannya lebih baik dari siapa pun, Berandal.
+
+169
+00:11:05,770 --> 00:11:06,811
+Pendeta Moon.
+
+170
+00:11:09,611 --> 00:11:10,981
+Terima kasih...
+
+171
+00:11:13,250 --> 00:11:14,520
+untuk masih hidup.
+
+172
+00:11:30,160 --> 00:11:31,731
+Aku harus memarkir lagi.
+
+173
+00:11:39,611 --> 00:11:40,640
+Ya ampun.
+
+174
+00:11:41,241 --> 00:11:43,241
+Maafkan aku. Apakah kamu baik-baik saja?
+
+175
+00:11:44,140 --> 00:11:46,650
+Kita hampir kecelakaan, padahal kau sedang tidak sehat.
+
+176
+00:11:46,650 --> 00:11:47,880
+Saya baik-baik saja.
+
+177
+00:11:49,550 --> 00:11:50,920
+Bagaimanapun,
+
+178
+00:11:51,221 --> 00:11:55,061
+saya benar-benar sembuh? Maksud saya,...
+
+179
+00:11:55,061 --> 00:11:57,121
+saya benar-benar selamat dari setan?
+
+180
+00:11:59,061 --> 00:12:02,961
+Para pendeta mengatakan begitu sebelumnya.
+
+181
+00:12:06,770 --> 00:12:09,841
+Tapi, melihat kondisimu sekarang, aku melihat kau sudah lebih baik...
+
+182
+00:12:09,941 --> 00:12:11,571
+bahkan tanpa hal-hal medis.
+
+183
+00:12:11,611 --> 00:12:14,241
+Wajah dan matamu juga tampak lebih baik.
+
+184
+00:12:14,680 --> 00:12:15,941
+Kupikir kau sudah sehat kembali.
+
+185
+00:12:16,841 --> 00:12:19,250
+Begitukah? Itu melegakan.
+
+186
+00:12:19,951 --> 00:12:22,481
+Kau melalui banyak hal karena saya, kan, Dok?
+
+187
+00:12:22,750 --> 00:12:25,121
+Bukan apa-apa.
+Kau melalui hal yang lebih berat.
+
+188
+00:12:26,851 --> 00:12:29,361
+Haruskah kita minum minuman hangat?
+
+189
+00:12:30,491 --> 00:12:32,790
+Kau tahu, saya pikir hal-hal seperti setan ...
+
+190
+00:12:32,790 --> 00:12:35,500
+hanya ada dalam Alkitab dan semacamnya.
+
+191
+00:12:36,061 --> 00:12:38,731
+Tapi, sesuatu seperti itu ada di dalam diri saya.
+
+192
+00:12:42,241 --> 00:12:44,811
+Aku juga tidak percaya pada awalnya.
+
+193
+00:12:45,111 --> 00:12:49,211
+Kupikir hal-hal seperti surga dan dewa tidak ada.
+
+194
+00:12:49,981 --> 00:12:53,550
+Itu sebabnya aku juga tidak percaya kalau setan itu ada.
+
+195
+00:12:54,150 --> 00:12:56,250
+Tapi setelah apa yang kita alami,
+
+196
+00:12:56,481 --> 00:13:01,221
+kupikir dunia ini tidak seperti yang kutahu.
+
+197
+00:13:01,221 --> 00:13:02,591
+Saya juga.
+
+198
+00:13:03,561 --> 00:13:06,591
+Kejadian tadi membuat saya berpikir banyak juga.
+
+199
+00:13:07,160 --> 00:13:11,900
+Saya ingin menjaga perasaan hidup di dalam hati ini.
+
+200
+00:13:13,201 --> 00:13:14,270
+Perasaan apa?
+
+201
+00:13:15,571 --> 00:13:17,471
+Perasaan bangkit kembali dari kematian.
+
+202
+00:13:18,040 --> 00:13:21,380
+Saya diberi kesempatan lagi untuk hidup.
+
+203
+00:13:22,040 --> 00:13:26,150
+Itu sebabnya, saya akan lebih menghargai setiap saat dari hidup saya.
+
+204
+00:13:26,150 --> 00:13:28,721
+Saya harus hidup dan mencoba yang terbaik.
+
+205
+00:13:29,650 --> 00:13:33,150
+Tapi, kau harus bilang kalau kau kesulitan.
+Aku akan memberimu libur.
+
+206
+00:13:33,150 --> 00:13:36,260
+Libur? Kan, saya sudah bilang akan melakukan yang terbaik.
+
+207
+00:13:41,260 --> 00:13:43,000
+Wah, cantik sekali.
+
+208
+00:13:48,201 --> 00:13:50,400
+Saya harus datang dengan pacar saya lain kali.
+
+209
+00:13:52,040 --> 00:13:53,341
+Ya ampun.
+
+210
+00:13:56,611 --> 00:14:00,510
+Tidak ada salib terlihat di Seoul ketika saya kembali memperhatikan.
+
+211
+00:14:00,510 --> 00:14:04,321
+Dan ketika saya menegaskan bahwa Suster Lee adalah penyembah setan,
+
+212
+00:14:04,520 --> 00:14:08,290
+saya menikam diri untuk bangun.
+
+213
+00:14:13,160 --> 00:14:17,101
+Maka itu berarti, Pendeta Moon dan aku akan mati, kan?
+
+214
+00:14:19,701 --> 00:14:21,441
+Tapi, mimpi adalah kebalikan dari realitas.
+
+215
+00:14:21,540 --> 00:14:25,371
+Mereka kadang-kadang benar.
+Pendeta Oh tidak tahu itu.
+
+216
+00:14:26,611 --> 00:14:28,780
+Aku tidak yakin harus seberapa banyak percaya ini.
+
+217
+00:14:29,341 --> 00:14:32,481
+Pendeta Oh, maafkan aku,
+
+218
+00:14:33,550 --> 00:14:36,050
+karena tidak bisa jujur ​​padamu sampai hari ini.
+
+219
+00:14:38,491 --> 00:14:39,951
+Jadi semua orang tahu kecuali aku?
+
+220
+00:14:41,121 --> 00:14:43,621
+Itu semua adalah apa yang Pastor Oh lihat di alam bawah sadarnya.
+
+221
+00:14:44,630 --> 00:14:47,331
+Tidak semuanya akan jadi kenyataan.
+
+222
+00:14:47,331 --> 00:14:50,530
+Tapi, setan telah mengungkapkan identitasnya ...
+
+223
+00:14:50,530 --> 00:14:53,170
+dan menunjukkan masa lalu dan masa depan Pastor Oh.
+
+224
+00:14:53,201 --> 00:14:55,101
+Itu berarti sesuatu.
+
+225
+00:14:56,540 --> 00:15:00,040
+Dan Pastor Oh telah melihat cara menyegel setan itu.
+
+226
+00:15:06,951 --> 00:15:08,050
+Kotak Ibu Mutiara.
+
+227
+00:15:10,581 --> 00:15:12,050
+Ketika Perang Korea,
+
+228
+00:15:12,050 --> 00:15:14,790
+setan membantai banyak warga sipil.
+
+229
+00:15:15,121 --> 00:15:16,461
+Dan selama awal 1960-an,
+
+230
+00:15:16,520 --> 00:15:20,461
+dia disegel dalam Kotak Ibu Mutiara.
+
+231
+00:15:20,691 --> 00:15:23,030
+Tapi pada tanggal 10 November 2010,
+
+232
+00:15:23,900 --> 00:15:26,670
+karena keserakahan anggota dari 634 Regia ...
+
+233
+00:15:26,670 --> 00:15:31,300
+setan itu bebas, dan setan itu merasuki Dr. Ham.
+
+234
+00:15:34,111 --> 00:15:37,180
+Suster Lee dan saya melakukan eksorsisme pada Dr. Ham,
+
+235
+00:15:37,241 --> 00:15:40,581
+tapi kami gagal dalam penyegelan setan.
+
+236
+00:15:40,981 --> 00:15:42,650
+Setan itu melarikan diri.
+
+237
+00:15:43,650 --> 00:15:47,091
+Sejak itu, Pastor Oh memilih untuk menjadi seorang pendeta eksorsisme ...
+
+238
+00:15:47,721 --> 00:15:50,061
+untuk menangkap setan itu.
+
+239
+00:15:50,121 --> 00:15:52,231
+Lalu, kenapa kenangan Pastor Oh ...
+
+240
+00:15:52,231 --> 00:15:56,831
+Pastor Oh dan Dr. Ham terlibat pada waktu itu.
+
+241
+00:15:57,300 --> 00:15:59,930
+Dia harus menjadi seorang pendeta untuk melindungi orang yang dicintainya,
+
+242
+00:15:59,930 --> 00:16:02,040
+tapi mencintai...
+
+243
+00:16:02,140 --> 00:16:05,071
+merupakan kelemahan penting bagi seorang pendeta eksorsisme.
+
+244
+00:16:05,640 --> 00:16:07,971
+Jadi, Pendeta Moon melakukan sesuatu.
+
+245
+00:16:07,971 --> 00:16:09,680
+Itu keputusan saya.
+
+246
+00:16:10,341 --> 00:16:12,711
+Ibu saya meninggal sebagai energi.
+
+247
+00:16:13,680 --> 00:16:15,081
+Saya tidak bisa ...
+
+248
+00:16:16,851 --> 00:16:18,451
+kehilangan orang yang saya cintai lagi.
+
+249
+00:16:19,150 --> 00:16:21,890
+Bahkan jika itu berarti bahwa saya tidak bisa bersamanya,
+
+250
+00:16:23,061 --> 00:16:24,961
+saya ingin melindunginya dengan segenap jiwa saya.
+
+251
+00:16:28,530 --> 00:16:32,571
+Sekarang, saatnya bagi kita untuk menyelesaikan hubungan menyakitkan ini.
+
+252
+00:16:34,201 --> 00:16:35,400
+Ini mungkin ...
+
+253
+00:16:36,471 --> 00:16:38,811
+kesempatan terakhir untuk membatalkan perbuatan salah
+
+254
+00:16:39,841 --> 00:16:42,111
+634 Regia yang telah saya lakukan.
+
+255
+00:16:43,540 --> 00:16:45,481
+Setan itu muncul setelah delapan tahun,
+
+256
+00:16:46,650 --> 00:16:50,420
+tapi kita tidak boleh menghindari pertarungan ini.
+
+257
+00:17:11,341 --> 00:17:14,140
+Lepaskan! Biarkan aku mati.
+
+258
+00:17:14,511 --> 00:17:15,640
+- Lepaskan aku!
+- Apa yang salah dengan pasien ini?
+
+259
+00:17:15,640 --> 00:17:16,740
+Ini usaha bunuh diri.
+
+260
+00:17:16,740 --> 00:17:17,811
+Dia memotong pergelangan tangannya dengan pisau.
+
+261
+00:17:17,811 --> 00:17:19,111
+Biarkan aku mati!
+
+262
+00:17:19,111 --> 00:17:21,210
+Dia membutuhkan operasi segera.
+Siapkan Ruang Operasi.
+
+263
+00:17:21,210 --> 00:17:22,950
+- Baik.
+- Lepaskan!
+
+264
+00:17:24,581 --> 00:17:26,251
+- Ambil anestesi.
+- Lepaskan!
+
+265
+00:17:26,551 --> 00:17:28,021
+Lepaskan aku!
+
+266
+00:17:28,361 --> 00:17:30,521
+Lepaskan!
+
+267
+00:17:30,561 --> 00:17:31,960
+Mengapa aku harus hidup seperti ini?
+
+268
+00:17:31,960 --> 00:17:33,190
+Beri dia suntikan.
+
+269
+00:17:33,660 --> 00:17:37,261
+Jangan lakukan itu. Berhenti! Hei!
+
+270
+00:17:46,341 --> 00:17:47,640
+Mari kita cepat pindahkan.
+
+271
+00:17:51,341 --> 00:17:54,480
+Dia pernah sukses. Ini menyedihkan.
+
+272
+00:17:54,650 --> 00:17:57,450
+Dia menjadi terkenal setelah membintangi film,
+
+273
+00:17:57,450 --> 00:18:00,591
+tapi dia harus pensiun dini karena bagian bawah tubuhnya lumpuh.
+
+274
+00:18:00,650 --> 00:18:03,160
+Berhenti berbicara tentang informasi pribadi pasien.
+
+275
+00:18:03,160 --> 00:18:05,230
+Laserasi di tangan kirinya cukup dalam.
+
+276
+00:18:05,230 --> 00:18:07,460
+Saya pikir arterinya, pembuluh darah, dan saraf semua terpotong.
+
+277
+00:18:07,460 --> 00:18:09,061
+- Mari kita mulai menjahitnya.
+- Baik.
+
+278
+00:18:10,761 --> 00:18:12,071
+Beri aku <i>suction.</i>
+
+279
+00:18:15,841 --> 00:18:17,140
+Ligamennya juga rusak.
+
+280
+00:18:17,140 --> 00:18:19,710
+Saya pikir arteri radial dan saraf median rusak juga.
+
+281
+00:18:19,710 --> 00:18:22,041
+- Apakah Anda akan mulai dengan arteri?
+- Ya, mari kita mulai jahitan pertama.
+
+282
+00:18:22,511 --> 00:18:23,710
+Forsep.
+
+283
+00:18:38,261 --> 00:18:39,430
+Ini, Dok.
+
+284
+00:18:41,660 --> 00:18:42,700
+Terima kasih.
+
+285
+00:18:47,101 --> 00:18:49,670
+(Daftar Perawat di Rumah Sakit Katolik Selatan)
+
+286
+00:18:51,740 --> 00:18:53,341
+(Daftar Perawat di Rumah Sakit Katolik Selatan)
+
+287
+00:18:53,541 --> 00:18:56,041
+Tidak peduli sudah kulihat berapa kali pun, aku tidak menemukan Seo Jae Moon.
+
+288
+00:18:59,480 --> 00:19:02,351
+Apa tidak semua di mimpimu itu nyata?
+
+289
+00:19:02,680 --> 00:19:04,781
+Melihat bahwa perawat itu tidak ada di sini,
+
+290
+00:19:04,781 --> 00:19:06,291
+mungkin tidak ada energi berikutnya.
+
+291
+00:19:06,551 --> 00:19:09,420
+Karena kita gagal untuk menyegel setan itu,
+
+292
+00:19:09,591 --> 00:19:11,690
+aku yakin energi lain akan muncul.
+
+293
+00:19:12,361 --> 00:19:13,660
+Tidak ada bukti, tapi kemungkinan besar ...
+
+294
+00:19:13,660 --> 00:19:15,831
+energi itu akan muncul di rumah sakit.
+
+295
+00:19:17,930 --> 00:19:19,271
+Tapi mengapa bisa?
+
+296
+00:19:19,871 --> 00:19:21,571
+Selama eksorsisme Woo Joo,
+
+297
+00:19:21,571 --> 00:19:23,700
+setan itu merasuki Dr. Song yang saat itu ada di Galeri.
+
+298
+00:19:24,541 --> 00:19:26,140
+Dan selama eksorsisme Dr. Song ...
+
+299
+00:19:27,341 --> 00:19:28,940
+Di mana kita melakukan eksorsisme?
+
+300
+00:19:30,311 --> 00:19:31,341
+Ruang Hidroterapi.
+
+301
+00:19:31,341 --> 00:19:33,380
+Mari kita periksa daftar orang yang menggunakan ruangan itu.
+
+302
+00:19:36,650 --> 00:19:38,420
+Halo, Pendeta Bonifacio.
+
+303
+00:19:39,321 --> 00:19:42,291
+Saya menelepon untuk meminta bantuan Ordo Dominika.
+
+304
+00:19:43,621 --> 00:19:45,561
+Kita perlu mengkonfirmasi apakah Suster Lee Hae Min,
+
+305
+00:19:45,561 --> 00:19:50,101
+yang saat ini sedang ada di Keuskupan Manila telah dirasuki atau tidak.
+
+306
+00:19:50,700 --> 00:19:52,371
+Tolong lakukan secara rahasia.
+
+307
+00:19:53,301 --> 00:19:54,400
+Saya mengerti.
+
+308
+00:19:54,400 --> 00:19:57,170
+Biarkan saya meemriksanya dan saya akan mengabari Anda segera.
+
+309
+00:19:57,871 --> 00:19:59,170
+Terima kasih atas dukungan Anda.
+
+310
+00:20:00,111 --> 00:20:01,111
+Terima kasih.
+
+311
+00:20:08,551 --> 00:20:09,821
+Jika mereka tahu,
+
+312
+00:20:10,251 --> 00:20:12,521
+saya akan berpura-pura tidak tahu.
+
+313
+00:20:16,561 --> 00:20:18,430
+Saya akan bertanggung jawab penuh untuk itu.
+
+314
+00:20:19,061 --> 00:20:20,091
+Ya Tuhan.
+
+315
+00:20:20,390 --> 00:20:23,130
+Haruskah aku percaya pada mimpi?
+
+316
+00:20:23,630 --> 00:20:27,831
+Terlebih lagi, dia kembali mendapatkan memorinya yang disegel.
+
+317
+00:20:28,101 --> 00:20:29,740
+Saya tidak bisa mengabaikannya.
+
+318
+00:20:30,071 --> 00:20:32,371
+Iblis dari delapan tahun yang lalu memang kembali.
+
+319
+00:20:34,240 --> 00:20:35,240
+Sebenarnya,
+
+320
+00:20:36,680 --> 00:20:39,851
+selama Sobor hari ini, kami memutuskan ...
+
+321
+00:20:40,111 --> 00:20:43,420
+untuk mengubur Kotak Ibu Mutiara dua hari lagi.
+
+322
+00:20:44,220 --> 00:20:46,720
+Sepertinya semua berjalan seperti yang Pastor Oh katakan.
+
+323
+00:20:49,521 --> 00:20:50,861
+Bagaimana dia tahu?
+
+324
+00:20:51,831 --> 00:20:55,960
+Setan ada di alam yang tidak bisa kita mengerti.
+
+325
+00:20:55,960 --> 00:21:00,001
+Apakah benar kalau kau tewas di dalam mimpinya?
+
+326
+00:21:02,001 --> 00:21:03,001
+Ya.
+
+327
+00:21:03,841 --> 00:21:05,410
+Saya merenungkan tentang ...
+
+328
+00:21:06,611 --> 00:21:09,410
+apa yang iblis peroleh dari mimpinya itu.
+
+329
+00:21:14,081 --> 00:21:15,150
+Ketakutan.
+
+330
+00:21:15,980 --> 00:21:17,351
+Saya kira itu.
+
+331
+00:21:17,781 --> 00:21:20,851
+Saya yakin setan membawanya ke dalam mimpi bukan tanpa maksud apa-apa.
+
+332
+00:21:21,251 --> 00:21:23,660
+Melalui masa lalu yang tak ia ingat...
+
+333
+00:21:24,720 --> 00:21:27,261
+dan masa depan yang belum jelas dalam mimpinya itu,
+
+334
+00:21:27,660 --> 00:21:30,861
+saya percaya bahwa setan menanamkan rasa takut...
+
+335
+00:21:31,261 --> 00:21:33,400
+di dalam diri Pastor Oh dan seluruh anggota 634 Regia.
+
+336
+00:21:34,130 --> 00:21:37,071
+Kutukan darah. Persimpangan.
+
+337
+00:21:41,410 --> 00:21:43,640
+Setelah mengubur kejadian delapan tahun yang lalu,
+
+338
+00:21:43,940 --> 00:21:46,210
+saya tidak pernah tidur dalam damai.
+
+339
+00:21:47,351 --> 00:21:50,351
+Peter, ini harus segera diakhiri.
+
+340
+00:21:50,781 --> 00:21:52,321
+Tangkap setan itu.
+
+341
+00:21:54,150 --> 00:21:55,361
+Ini akan menjadi kemenangan Tuhan.
+
+342
+00:22:04,001 --> 00:22:07,900
+Omong-omong, aku dirasuki dalam mimpinya?
+
+343
+00:22:46,008 --> 00:22:47,149
+Bagaimana perasaan Anda?
+
+344
+00:22:52,719 --> 00:22:55,689
+Anda akan ditransfer ke bangsal ortopedi.
+
+345
+00:22:56,288 --> 00:22:57,758
+Operasi berjalan dengan baik.
+
+346
+00:22:58,159 --> 00:23:01,189
+Jika Anda merasa tidak nyaman, silakan beri tahu saya.
+
+347
+00:23:02,729 --> 00:23:03,798
+Sudah sembilan tahun.
+
+348
+00:23:08,868 --> 00:23:10,768
+Sudah sembilan tahun sejak debut saya.
+
+349
+00:23:12,108 --> 00:23:14,368
+Dan saya jadi tak bernama selama tujuh tahun.
+
+350
+00:23:15,439 --> 00:23:16,808
+"Mari kita tunggu sedikit lebih lama."
+
+351
+00:23:17,639 --> 00:23:18,709
+"Kerja kerasmu ..."
+
+352
+00:23:19,909 --> 00:23:21,749
+"tidak akan mengkhianatimu."
+
+353
+00:23:23,479 --> 00:23:25,318
+Saya terus mengulangnya dan mencoba bertahan.
+
+354
+00:23:26,788 --> 00:23:29,489
+Belum dua tahun sejak saya diakui sebagai aktor.
+
+355
+00:23:30,588 --> 00:23:31,858
+Selama tujuh tahun,
+
+356
+00:23:31,858 --> 00:23:33,588
+saya menggertakkan gigi dan mencoba untuk diakui.
+
+357
+00:23:36,629 --> 00:23:38,899
+Saya pikir saya akhirnya akan melihat pelangi.
+
+358
+00:23:39,429 --> 00:23:41,899
+Tetapi karena ada orang gila yang mengemudi dalam keadaan mabuk,
+
+359
+00:23:43,499 --> 00:23:45,239
+saya menjadi lumpuh begini.
+
+360
+00:23:51,139 --> 00:23:52,179
+Maafkan saya.
+
+361
+00:23:53,048 --> 00:23:56,518
+Saya melakukannya karena saya terlalu sedih dan marah.
+
+362
+00:24:00,689 --> 00:24:03,288
+Saya tidak mengatakan ini untuk menghibur Anda.
+
+363
+00:24:04,058 --> 00:24:07,328
+Tapi ketika saya masih muda, saya kehilangan kedua orang tua saya ...
+
+364
+00:24:08,358 --> 00:24:10,899
+dalam hitungan detik karena seorang sopir yang mabuk.
+
+365
+00:24:13,028 --> 00:24:14,669
+Dan saya harus menyaksikan itu.
+
+366
+00:24:16,499 --> 00:24:18,639
+Setelah itu ... Maksud saya ...
+
+367
+00:24:20,239 --> 00:24:22,038
+Sampai baru-baru ini,
+
+368
+00:24:22,608 --> 00:24:24,909
+saya ingin tahu ...
+
+369
+00:24:26,348 --> 00:24:28,308
+mengapa sesuatu seperti itu terjadi pada saya.
+
+370
+00:24:29,778 --> 00:24:30,778
+Tapi saya menyadari bahwa ...
+
+371
+00:24:31,219 --> 00:24:34,719
+ada hal yang tidak bisa ditemukan jawabannya melalui penalaran.
+
+372
+00:24:35,719 --> 00:24:38,659
+Jadi saya berkata pada diri saya sendiri,
+"Jangan mencoba untuk memahaminya."
+
+373
+00:24:39,389 --> 00:24:42,798
+"Terima saja." Begitu saya katakan.
+
+374
+00:24:43,999 --> 00:24:47,868
+Mungkin suatu hari dalam hidup saya, saya akan dapat menemukan jawabannya.
+
+375
+00:24:49,268 --> 00:24:51,368
+Di antara semua korban kecelakaan mobil,
+
+376
+00:24:51,939 --> 00:24:54,538
+banyak dari mereka bahkan tidak memiliki kesempatan untuk datang ke sini.
+
+377
+00:24:55,308 --> 00:24:57,078
+Mungkin terlalu kasar,
+
+378
+00:24:57,739 --> 00:25:00,149
+tapi setiap awan memiliki lapisan peraknya.
+
+379
+00:25:00,608 --> 00:25:03,149
+Anda tidak benar-benar lumpuh.
+
+380
+00:25:03,749 --> 00:25:05,818
+Jika Anda menerima terapi selama setahun,
+
+381
+00:25:06,118 --> 00:25:08,518
+ada kemungkinan Anda bisa berjalan lagi.
+
+382
+00:25:09,358 --> 00:25:13,159
+Banyak dari pasien kami belajar bagaimana untuk berjalan lagi.
+
+383
+00:25:14,028 --> 00:25:15,798
+Dan kebanyakan dari mereka,
+
+384
+00:25:15,959 --> 00:25:19,669
+Anda salahs satu yang selamat dari kasus yang parah.
+
+385
+00:25:21,568 --> 00:25:23,439
+Saya yakin Anda akan dapat pulih.
+
+386
+00:25:25,338 --> 00:25:26,338
+Maka dari itu,...
+
+387
+00:25:28,338 --> 00:25:29,939
+tolong jangan menyerah.
+
+388
+00:25:31,538 --> 00:25:32,649
+Saya permisi.
+
+389
+00:25:41,689 --> 00:25:43,818
+Tolong dua mangkuk sup daging dan kubis.
+
+390
+00:25:45,288 --> 00:25:47,189
+Lihatlah, kau menempeliku terus sejak pagi.
+
+391
+00:25:47,328 --> 00:25:49,499
+Kenapa kau mengeluh, padahal aku sedang baik padamu?
+
+392
+00:25:50,358 --> 00:25:52,429
+Kalau kau begitu, aku akan lari, tahu?
+
+393
+00:25:52,499 --> 00:25:55,068
+Ke mana? Ke sini?
+
+394
+00:25:55,068 --> 00:25:56,298
+(Raon Hotel, 394-17 Sangwon-dong, Nambu-gu, Seoul)
+
+395
+00:25:57,469 --> 00:25:59,008
+Kau pergi ke sini sama siapa?
+
+396
+00:25:59,239 --> 00:26:01,409
+Ini hotel di seberang jalan Rumah Sakit Katolik Selatan.
+
+397
+00:26:01,608 --> 00:26:04,779
+Ada <i>whirlpool</i>, kasur air, dan karaoke.
+
+398
+00:26:05,808 --> 00:26:08,548
+<i>Ketika mencoba untuk menyelamatkan Dr. Ham,</i>
+
+399
+00:26:10,479 --> 00:26:13,818
+<i>Kopral Jang tertembak dan meninggal.</i>
+
+400
+00:26:19,629 --> 00:26:21,058
+Seseorang meminta tolong,
+
+401
+00:26:21,058 --> 00:26:23,798
+jadi aku melacaknya dan mengabari mereka.
+
+402
+00:26:23,798 --> 00:26:26,199
+Siapa? Kau tidak punya teman.
+
+403
+00:26:26,768 --> 00:26:28,939
+Kau juga tidak akan mau menyelidiki untuk siapa pun.
+
+404
+00:26:29,798 --> 00:26:30,899
+Mantan istri.
+
+405
+00:26:31,598 --> 00:26:32,639
+Apa?
+
+406
+00:26:33,169 --> 00:26:37,479
+Dia mencurigai pacarnya selingkuh.
+
+407
+00:26:39,048 --> 00:26:40,048
+Oh, begitu.
+
+408
+00:26:40,179 --> 00:26:43,219
+Jadi, jangan mengendap-endap di belakangku.
+
+409
+00:26:44,078 --> 00:26:45,078
+Baik.
+
+410
+00:26:52,429 --> 00:26:54,159
+Apa ini?
+
+411
+00:26:54,389 --> 00:26:56,399
+Tanganmu terlalu kasar untuk seorang gadis.
+
+412
+00:27:00,999 --> 00:27:01,999
+Terima kasih.
+
+413
+00:27:05,439 --> 00:27:07,868
+Aku akan memeriksa orang-orang yang menggunakan Ruang Hidroterapi.
+
+414
+00:27:08,169 --> 00:27:09,979
+Keuskupan Manila sudah dihubungi.
+
+415
+00:27:10,979 --> 00:27:14,048
+Suster Lee Hae Min tampaknya baik-baik saja.
+
+416
+00:27:14,479 --> 00:27:15,479
+Benarkah?
+
+417
+00:27:16,479 --> 00:27:17,649
+Itu melegakan.
+
+418
+00:27:17,649 --> 00:27:19,818
+Aku di rumah sakit. Mari kita bertemu.
+
+419
+00:27:20,219 --> 00:27:21,288
+Baik.
+
+420
+00:27:22,189 --> 00:27:25,489
+Lupakan segala sesuatu yang lain. Kau dapat membawakanku daftar pasien, kan?
+
+421
+00:27:25,489 --> 00:27:28,189
+Aduh, Pastor. Itu mah gampang.
+
+422
+00:27:28,558 --> 00:27:29,729
+Aku akan kembali.
+
+423
+00:27:48,508 --> 00:27:50,518
+Halo.
+
+424
+00:27:52,449 --> 00:27:53,749
+Bagaimana saya bisa membantu Anda?
+
+425
+00:27:55,048 --> 00:27:56,489
+Saya di sini untuk melakukan pemeriksaan keamanan.
+
+426
+00:27:57,159 --> 00:28:00,528
+Apakah mereka sudah mengabari sebelumnya? Saya tidak tahu.
+
+427
+00:28:00,528 --> 00:28:01,659
+Saya benar-benar mengerti.
+
+428
+00:28:01,659 --> 00:28:04,798
+Anda bahkan tidak punya waktu untuk memeriksa papan buletin.
+
+429
+00:28:04,798 --> 00:28:07,528
+Ada begitu banyak pasien rawat jalan yang datang setiap hari.
+
+430
+00:28:07,528 --> 00:28:09,199
+Anda pasti sangat sibuk.
+
+431
+00:28:09,899 --> 00:28:13,169
+Jika Anda bisa meluangkan sedikit waktu, saya akan memeriksanya sebentar.
+
+432
+00:28:13,169 --> 00:28:14,868
+Oh, tentu.
+
+433
+00:28:18,879 --> 00:28:21,709
+Apakah Anda membutuhkan sesuatu?
+
+434
+00:28:23,778 --> 00:28:26,189
+Perhatian yang tulus dan dorongan.
+
+435
+00:28:26,949 --> 00:28:29,618
+- Akan saya ambilkan jus.
+- Terima kasih.
+
+436
+00:28:35,258 --> 00:28:36,858
+(Rumah Sakit Katolik Selatan)
+
+437
+00:28:45,639 --> 00:28:47,508
+Bagaimana perasaanmu?
+
+438
+00:28:47,768 --> 00:28:49,078
+Baik.
+
+439
+00:28:51,679 --> 00:28:55,179
+Jadi, ada yang ingin saya tanyakan.
+
+440
+00:28:55,949 --> 00:28:58,449
+Ketika kau tidak sadarkan diri,
+
+441
+00:28:59,449 --> 00:29:02,719
+kau menyebut-nyebut nama saya.
+
+442
+00:29:03,118 --> 00:29:04,959
+Kenapa kau melakukan itu?
+
+443
+00:29:04,959 --> 00:29:06,659
+Oh, bukan apa-apa.
+
+444
+00:29:07,229 --> 00:29:11,058
+Kau dan Dr. Song berada dalam mimpiku.
+
+445
+00:29:11,058 --> 00:29:13,528
+Mungkin karena itu.
+
+446
+00:29:15,768 --> 00:29:16,899
+Begitu rupanya.
+
+447
+00:29:18,068 --> 00:29:19,139
+Bagaimanapun,
+
+448
+00:29:20,008 --> 00:29:21,909
+saya sangat terkesan ...
+
+449
+00:29:21,909 --> 00:29:25,139
+kau rela mengorbankan hidupmu untuk menyelamatkan Mi So ...
+
+450
+00:29:25,139 --> 00:29:26,979
+selama eksorsisme.
+
+451
+00:29:27,108 --> 00:29:29,249
+Kau bahkan mengalami serangan jantung.
+
+452
+00:29:29,249 --> 00:29:31,618
+Aku hanya melakukan apa yang harus kulakukan.
+
+453
+00:29:31,649 --> 00:29:33,118
+Itulah sebabnya ...
+
+454
+00:29:34,318 --> 00:29:36,219
+aku menjadi pendeta pengusir setan.
+
+455
+00:29:37,659 --> 00:29:39,929
+Saya sebenarnya seorang ateis.
+
+456
+00:29:41,258 --> 00:29:44,598
+Saya hanya percaya pada apa yang saya bisa lihat dan sentuh.
+
+457
+00:29:44,758 --> 00:29:46,368
+Jadi tentu saja,
+
+458
+00:29:46,368 --> 00:29:49,568
+saya tidak percaya setan itu ada.
+
+459
+00:29:50,169 --> 00:29:51,568
+Beberapa hari yang lalu,...
+
+460
+00:29:52,338 --> 00:29:55,268
+ketika kita bertemu untuk pertama kalinya karena Woo Joo,
+
+461
+00:29:56,179 --> 00:29:59,649
+saya pikir kau melakukan penipuan.
+
+462
+00:30:01,209 --> 00:30:04,949
+Saya masih agak bingung, tapi saya menerima kenyataan ...
+
+463
+00:30:05,149 --> 00:30:07,889
+bahwa ada lebih banyak hal di dunia ini yang tidak saya tahu.
+
+464
+00:30:08,389 --> 00:30:11,758
+Tapi jujur, saya agak takut ...
+
+465
+00:30:11,758 --> 00:30:14,129
+karena tidak bisa melihatnya dengan jelas.
+
+466
+00:30:14,528 --> 00:30:16,159
+Itu wajar saja.
+
+467
+00:30:17,258 --> 00:30:18,558
+Aku bisa mengerti.
+
+468
+00:30:21,768 --> 00:30:24,669
+Pokoknya, saya ingin memberitahumu...
+
+469
+00:30:25,268 --> 00:30:29,239
+terima kasih karena telah menyelamatkan Woo Joo dan juga Mi So.
+
+470
+00:30:29,639 --> 00:30:30,808
+Dan...
+
+471
+00:30:32,038 --> 00:30:34,008
+Maafkan saya...
+
+472
+00:30:34,209 --> 00:30:37,379
+karena bersikap kasar padahal saya tidak tahu apa pun saat itu.
+
+473
+00:30:39,949 --> 00:30:41,048
+Karena itu,
+
+474
+00:30:41,889 --> 00:30:44,489
+sebagai tanda syukur saya,
+
+475
+00:30:44,659 --> 00:30:48,389
+saya berpikir untuk datang ke gereja minggu depan.
+
+476
+00:30:48,389 --> 00:30:49,528
+Oh, benarkah?
+
+477
+00:30:50,558 --> 00:30:52,368
+Itu keren.
+
+478
+00:30:59,268 --> 00:31:02,909
+Dari UGD. Sampai jumpa lain waktu.
+
+479
+00:31:04,278 --> 00:31:07,209
+Oh, benar. Ketika kau berdoa,
+
+480
+00:31:08,249 --> 00:31:10,249
+apa begini cara melakukannya?
+
+481
+00:31:17,858 --> 00:31:19,028
+Lakukan...
+
+482
+00:31:20,229 --> 00:31:21,288
+seperti ini.
+
+483
+00:31:23,558 --> 00:31:24,659
+Seperti ini?
+
+484
+00:31:27,068 --> 00:31:29,639
+Sampai jumpa. Saya permisi.
+
+485
+00:31:35,663 --> 00:31:40,663
+<font color="#80ff00">Subtitle versi bahasa Inggris oleh Ruo Xi - VIU</font>
+<font color="#ffff00">Alih Bahasa: Fidah~</font>
+
+486
+00:31:45,689 --> 00:31:49,288
+Anda tidak benar-benar lumpuh.
+
+487
+00:31:49,419 --> 00:31:51,758
+Jika Anda menerima terapi selama setahun,
+
+488
+00:31:52,219 --> 00:31:55,489
+ada kemungkinan Anda bisa berjalan lagi.
+
+489
+00:31:55,959 --> 00:31:59,969
+Dan kebanyakan dari mereka, Anda seorang yang selamat ...
+
+490
+00:32:00,629 --> 00:32:01,868
+dari kasus yang parah.
+
+491
+00:32:02,268 --> 00:32:04,268
+Saya yakin Anda akan dapat pulih.
+
+492
+00:32:08,868 --> 00:32:10,838
+(Ruang Hidroterapi)
+
+493
+00:32:27,389 --> 00:32:29,199
+Kalau saja aku bisa berjalan lagi ...
+
+494
+00:32:31,528 --> 00:32:33,068
+Kalau bisa ...
+
+495
+00:32:39,169 --> 00:32:42,108
+Haruskah aku bunuh diri?
+
+496
+00:32:50,149 --> 00:32:51,179
+Siapa itu?
+
+497
+00:32:54,249 --> 00:32:55,449
+Apa ada orang di sini?
+
+498
+00:35:16,899 --> 00:35:17,928
+Pastor Oh.
+
+499
+00:35:27,038 --> 00:35:28,209
+Apakah itu terlalu sulit?
+
+500
+00:35:32,238 --> 00:35:33,249
+Yah ...
+
+501
+00:35:35,749 --> 00:35:38,149
+Bohong namanya kalau tidak.
+
+502
+00:35:39,319 --> 00:35:42,189
+Tapi aku harus mencoba. Aku tahu aku bisa melakukannya dengan baik.
+
+503
+00:35:44,388 --> 00:35:46,328
+Memorimu tentang Dr. Ham...
+
+504
+00:35:46,959 --> 00:35:48,788
+seperti racun untukmu yang seorang pendeta.
+
+505
+00:35:49,259 --> 00:35:51,328
+Ini masih belum terlambat.
+
+506
+00:35:52,029 --> 00:35:54,968
+BIarkan kami yang menangani ini.
+
+507
+00:35:56,569 --> 00:36:00,368
+Pak, ketika Anda meninggal dalam mimpiku,
+
+508
+00:36:01,768 --> 00:36:03,879
+aku sangat membenci diriku sendiri,
+
+509
+00:36:04,939 --> 00:36:07,879
+karena tidak mampu melakukan apa-apa.
+
+510
+00:36:08,649 --> 00:36:10,319
+Aku tahu itu mimpi,
+
+511
+00:36:12,149 --> 00:36:15,749
+tapi itu benar-benar memilukan, menyakitkan,
+
+512
+00:36:16,319 --> 00:36:17,388
+dan berat.
+
+513
+00:36:18,518 --> 00:36:22,158
+Jadi aku akan melakukan segala yang kubisa...
+
+514
+00:36:23,058 --> 00:36:24,558
+untuk mencegah hal itu terjadi.
+
+515
+00:36:26,328 --> 00:36:28,069
+Itulah yang kupikirkan.
+
+516
+00:36:29,569 --> 00:36:33,138
+Memang benar bahwa ketika aku melihatnya perasaanku jadi campur aduk.
+
+517
+00:36:34,669 --> 00:36:37,178
+Tapi aku akan segera bisa menguatkan diri, jadi jangan khawatir.
+
+518
+00:36:38,109 --> 00:36:40,149
+Apa kau senang melihatku lagi?
+
+519
+00:36:43,649 --> 00:36:44,678
+Memang, sih,
+
+520
+00:36:45,549 --> 00:36:47,448
+aku ini bisa bikin salah fokus.
+
+521
+00:36:52,158 --> 00:36:54,859
+Rasanya kita memang ada di alam nyata.
+
+522
+00:36:54,859 --> 00:36:56,759
+Benar-benar jadi salah fokus saking nyatanya.
+
+523
+00:37:03,598 --> 00:37:05,169
+Ta-da.
+
+524
+00:37:06,268 --> 00:37:07,669
+Ini daftarnya.
+
+525
+00:37:08,408 --> 00:37:09,408
+(Daftar Pasien Ruang Hidroterapi)
+
+526
+00:37:12,538 --> 00:37:14,549
+Lebih dari 50 orang menggunakan ruangan itu setiap hari.
+
+527
+00:37:14,549 --> 00:37:16,049
+Dan banyak dari mereka yang putus asa.
+
+528
+00:37:17,218 --> 00:37:18,518
+Ini tidak akan mudah.
+
+529
+00:37:19,848 --> 00:37:23,189
+Tetapi jika kita hanya mencari orang yang datang setelah eksorsisme Dr. Song,
+
+530
+00:37:23,259 --> 00:37:24,288
+tidak akan lebih mudah bukannya?
+
+531
+00:37:26,089 --> 00:37:28,259
+Yong Pil, kau otak 634 akhir-akhir ini.
+
+532
+00:37:29,189 --> 00:37:30,928
+Baik. Mari kita periksa secara terpisah.
+
+533
+00:37:31,328 --> 00:37:33,828
+Yong Pil dan aku akan mengecek pasien yang sudah dipulangkan.
+
+534
+00:37:33,828 --> 00:37:35,669
+Anda memeriksa orang-orang yang ada di sini.
+
+535
+00:37:36,669 --> 00:37:38,399
+Oke, mari kita melakukan itu.
+
+536
+00:37:39,408 --> 00:37:41,839
+Kalau menemukan sesuatu, segera kabari.
+
+537
+00:37:41,839 --> 00:37:42,839
+Baik.
+
+538
+00:37:43,808 --> 00:37:44,908
+- Mari kita bergerak.
+- Baik.
+
+539
+00:37:52,379 --> 00:37:54,819
+Bisakah kita membawa semua ini?
+
+540
+00:37:55,749 --> 00:37:56,959
+Kenapa tidak?
+
+541
+00:37:57,118 --> 00:37:59,058
+Kau dapat mengambil ini dan ini.
+
+542
+00:37:59,959 --> 00:38:01,589
+Semua yang berat-berat.
+
+543
+00:38:01,928 --> 00:38:02,999
+Apa?
+
+544
+00:38:05,299 --> 00:38:06,328
+Itu dia.
+
+545
+00:38:10,069 --> 00:38:11,669
+Dia tukang angkut barang kita.
+
+546
+00:38:12,669 --> 00:38:13,669
+Apa?
+
+547
+00:38:17,979 --> 00:38:19,209
+Bagaimana Dr. Song?
+
+548
+00:38:20,209 --> 00:38:22,308
+Dia baik-baik saja sekarang.
+Dia jauh lebih baik.
+
+549
+00:38:22,979 --> 00:38:24,018
+Syukurlah.
+
+550
+00:38:25,149 --> 00:38:26,749
+Tapi, apa yang kau lakukan di sini?
+
+551
+00:38:28,419 --> 00:38:30,189
+Jika tidak di saat seperti ini,
+
+552
+00:38:30,488 --> 00:38:32,419
+bagaimana lagi aku akan melihatmu di luar rumah sakit?
+
+553
+00:38:33,089 --> 00:38:36,158
+Aku minta Suster Cha meneleponku kalau kau pergi berbelanja.
+
+554
+00:38:40,069 --> 00:38:41,768
+Wah, setengah harga.
+
+555
+00:38:45,968 --> 00:38:47,238
+Bilang saja padaku.
+
+556
+00:38:47,238 --> 00:38:49,709
+Jangan datang ke sini hanya untuk membawakan belanjaan kami.
+
+557
+00:38:50,209 --> 00:38:51,908
+- Bener, nih?
+- Tentu.
+
+558
+00:38:55,578 --> 00:38:57,319
+Oh, benar juga.
+
+559
+00:38:57,718 --> 00:39:00,218
+- Ya?
+- Boleh aku minta tolong?
+
+560
+00:39:00,788 --> 00:39:01,819
+Apa?
+
+561
+00:39:02,819 --> 00:39:04,018
+Aku ingin...
+
+562
+00:39:05,189 --> 00:39:07,629
+mencoba hipnoterapi.
+
+563
+00:39:08,488 --> 00:39:10,198
+Mengapa? Apakah ada yang salah?
+
+564
+00:39:10,259 --> 00:39:11,359
+Tidak.
+
+565
+00:39:12,399 --> 00:39:17,169
+Aku percaya tidak ada kesenjangan sekecil pun...
+
+566
+00:39:17,299 --> 00:39:19,238
+antara Tuhan dan diriku.
+
+567
+00:39:19,238 --> 00:39:20,738
+Ya, itu betul.
+
+568
+00:39:21,468 --> 00:39:22,638
+Namun belakangan ini,
+
+569
+00:39:23,839 --> 00:39:25,638
+aku mulai bertanya-tanya ...
+
+570
+00:39:26,808 --> 00:39:28,348
+siapa diriku yang sesungguhnya.
+
+571
+00:39:29,419 --> 00:39:30,448
+Tapi?
+
+572
+00:39:30,448 --> 00:39:33,718
+Aku ingin mendapatkan kembali memoriku yang hilang karena kecelakaan...
+
+573
+00:39:34,848 --> 00:39:36,259
+delapan tahun yang lalu.
+
+574
+00:39:39,218 --> 00:39:42,759
+Kau bilang kau akan menghormati keputusan otakmu untuk tidak mau mengingatnya.
+
+575
+00:39:44,698 --> 00:39:47,328
+Aku tahu, tapi aku penasaran sekarang.
+
+576
+00:39:48,328 --> 00:39:51,968
+Aku merasa seperti aku akan merasa lega setelah ingat semuanya.
+
+577
+00:39:54,609 --> 00:39:55,638
+Ya.
+
+578
+00:39:56,339 --> 00:39:58,279
+Datang ke kantorku saat kau senggang.
+
+579
+00:39:59,238 --> 00:40:00,348
+Terima kasih, Senior.
+
+580
+00:40:07,249 --> 00:40:09,459
+(Rumah Sakit Katolik Selatan)
+
+581
+00:40:10,459 --> 00:40:13,959
+Pak Kim, kita akan berlatih dengan alat hari ini.
+
+582
+00:40:14,589 --> 00:40:17,328
+Ini mungkin tidak mudah, tetapi Anda harus melakukan yang terbaik, oke?
+
+583
+00:40:20,368 --> 00:40:21,368
+Baik.
+
+584
+00:40:27,069 --> 00:40:29,738
+Baik. Cobalah menekuk lutut Anda sekarang.
+
+585
+00:40:30,138 --> 00:40:31,178
+Sedikit.
+
+586
+00:40:34,879 --> 00:40:36,149
+Oke, sekali lagi.
+
+587
+00:40:39,788 --> 00:40:40,888
+Baik. Tidak apa-apa.
+
+588
+00:40:48,689 --> 00:40:49,928
+Apa barusan kaki Anda menapak?
+
+589
+00:40:50,658 --> 00:40:51,698
+Ya.
+
+590
+00:40:51,729 --> 00:40:54,198
+Anda dapat menarik kaki satunya ke depan?
+
+591
+00:41:05,238 --> 00:41:06,308
+Baik.
+
+592
+00:41:15,788 --> 00:41:17,189
+Ini tidak masuk akal.
+
+593
+00:41:22,388 --> 00:41:23,459
+Hati-hati.
+
+594
+00:41:26,299 --> 00:41:28,268
+Apakah saya melakukannya dengan baik?
+
+595
+00:41:28,629 --> 00:41:30,768
+Ya, Anda melakukannya dengan sangat baik.
+
+596
+00:41:30,868 --> 00:41:32,638
+Saya akan mencoba sekali lagi.
+
+597
+00:41:32,939 --> 00:41:34,839
+Baik. Hati-hati.
+
+598
+00:41:37,209 --> 00:41:39,038
+Anda bahkan tidak ingin mencoba sebelumnya.
+
+599
+00:41:40,078 --> 00:41:41,348
+Tapi sekarang...
+
+600
+00:41:49,218 --> 00:41:51,689
+- Pendeta, aku bertanya-tanya ...
+- Ya?
+
+601
+00:41:51,959 --> 00:41:54,828
+Menurutmu, kenapa setan menunjukkanmu masa depan?
+
+602
+00:41:55,058 --> 00:41:56,229
+Itu bukan masa depan.
+
+603
+00:41:56,229 --> 00:41:57,828
+Katanya beberapa jadi kenayataan.
+
+604
+00:41:58,328 --> 00:41:59,569
+Satu hal yang pasti,
+
+605
+00:42:00,368 --> 00:42:02,598
+itu tak akan membantu kita dnegan cara apa pun.
+
+606
+00:42:03,038 --> 00:42:05,499
+Apa yang akan kamu lakukan sekarang?
+
+607
+00:42:06,268 --> 00:42:08,109
+Aku akan khawatir jika aku jadi kau.
+
+608
+00:42:09,408 --> 00:42:11,138
+Kudengar kau terlibat.
+
+609
+00:42:12,339 --> 00:42:13,678
+Yong Pil.
+
+610
+00:42:13,948 --> 00:42:15,249
+Menjadi seorang pendeta ...
+
+611
+00:42:16,379 --> 00:42:18,319
+seperti menikahi Tuhan.
+
+612
+00:42:18,979 --> 00:42:20,649
+Hanya karena cinta lamaku kembali,
+
+613
+00:42:20,649 --> 00:42:22,189
+aku tidak dapat memutuskan pernikahanku saat ini.
+
+614
+00:42:23,288 --> 00:42:27,229
+Ya, dia hanya cinta lamaku yang polos dan sederhana. Cinta lama.
+
+615
+00:42:27,488 --> 00:42:29,259
+Maaf aku mengungkitnya.
+
+616
+00:42:30,529 --> 00:42:33,229
+Mari kita fokus pada pekerjaan. Berapa lama lagi?
+
+617
+00:42:33,799 --> 00:42:35,799
+Kurang lebih sepuluh menit lagi.
+
+618
+00:42:48,879 --> 00:42:50,718
+- Maafkan aku.
+- Tidak masalah.
+
+619
+00:42:55,118 --> 00:42:57,518
+Kenapa Anda ganti pakaian?
+
+620
+00:43:04,259 --> 00:43:06,729
+Bolehkahkah saya minta tolong?
+
+621
+00:43:09,529 --> 00:43:10,538
+Ya.
+
+622
+00:43:22,709 --> 00:43:24,348
+Anda tahu ini bertentangan dengan aturan.
+
+623
+00:43:24,749 --> 00:43:26,249
+Anda harus segera kembali, oke?
+
+624
+00:43:26,249 --> 00:43:28,749
+Saya hanya akan minum teh dengan teman dan kembali lagi.
+
+625
+00:43:29,718 --> 00:43:31,589
+Jangan berlebihan.
+
+626
+00:43:31,589 --> 00:43:35,288
+Saya tahu hasilnya baik, tetapi Anda harus berhati-hati.
+
+627
+00:43:40,799 --> 00:43:43,069
+Ada apa?
+
+628
+00:43:44,468 --> 00:43:45,939
+Anda begitu baik.
+
+629
+00:43:46,709 --> 00:43:48,939
+- Terima kasih.
+- Tidak masalah.
+
+630
+00:43:51,979 --> 00:43:53,649
+Cepat kembali, oke?
+
+631
+00:43:54,109 --> 00:43:55,570
+Baik. Saya akan cepat.
+
+632
+00:44:03,819 --> 00:44:04,919
+Bukankah itu Kim Joon Ho?
+
+633
+00:44:05,959 --> 00:44:07,089
+Kamu benar.
+
+634
+00:44:07,729 --> 00:44:08,729
+Aku merasa sangat kasihan padanya.
+
+635
+00:44:41,766 --> 00:44:42,996
+Silakan lewat sini.
+
+636
+00:44:55,076 --> 00:44:57,016
+- <i>Oppa.</i>
+- Lama tidak bertemu.
+
+637
+00:45:01,686 --> 00:45:02,916
+Wah, <i>Oppa</i>, kau datang?
+
+638
+00:45:03,286 --> 00:45:05,286
+Sudah lama!
+
+639
+00:45:05,286 --> 00:45:07,425
+- Aku tahu.
+- Bagaimana kakimu?
+
+640
+00:45:07,826 --> 00:45:09,856
+- Tidak apa-apa.
+- Aku sangat lega.
+
+641
+00:45:10,626 --> 00:45:12,425
+- Terima kasih.
+- Minumannya habis.
+
+642
+00:45:14,126 --> 00:45:15,326
+- Tahan.
+- Apa?
+
+643
+00:45:18,396 --> 00:45:20,306
+- Itu beneran minuman?
+- Apa yang terjadi?
+
+644
+00:45:20,706 --> 00:45:22,635
+<i>Oppa</i>, kau bisa sihir?
+
+645
+00:45:22,965 --> 00:45:25,436
+- Bukan.
+- Itu sangat keren. Ajari aku.
+
+646
+00:45:26,135 --> 00:45:28,106
+Pernahkah kalian mendengar dari lima roti dan dua ikan?
+
+647
+00:45:28,206 --> 00:45:30,246
+- Apa itu?
+- Lima roti ...
+
+648
+00:45:31,815 --> 00:45:35,186
+Sudahlah. Minum saja dan isi gelas kalian.
+
+649
+00:45:35,715 --> 00:45:37,016
+Ayo minum.
+
+650
+00:45:37,155 --> 00:45:39,255
+- Tos.
+- Tos.
+
+651
+00:45:45,496 --> 00:45:46,525
+Ga Hee.
+
+652
+00:45:49,896 --> 00:45:50,965
+<i>Oppa</i>?
+
+653
+00:45:52,496 --> 00:45:53,706
+Kau bisa berjalan lagi.
+
+654
+00:45:54,965 --> 00:45:57,706
+Ya. Dewa membantuku.
+
+655
+00:46:00,775 --> 00:46:01,945
+Kau ingin minum?
+
+656
+00:46:01,945 --> 00:46:03,976
+Tidak, aku datang dengan seseorang.
+
+657
+00:46:04,146 --> 00:46:05,715
+- Seseorang?
+- Ga Hee.
+
+658
+00:46:09,885 --> 00:46:10,985
+Kim Joon Ho?
+
+659
+00:46:12,985 --> 00:46:15,425
+Bukannya terlalu kasar?
+Kita pacaran.
+
+660
+00:46:16,056 --> 00:46:18,025
+- Mari kita bicara.
+- Apa masalahmu?
+
+661
+00:46:21,425 --> 00:46:23,336
+Joon Ho <i>Oppa</i>, kembalilah.
+
+662
+00:46:24,295 --> 00:46:26,365
+Ya. Sebentar.
+
+663
+00:46:30,706 --> 00:46:33,076
+Baik. Selamat bersenang-senang.
+
+664
+00:46:38,175 --> 00:46:39,345
+Haruskah kita pergi ke tempat lain?
+
+665
+00:46:39,345 --> 00:46:41,345
+Tidak apa-apa. Ayo masuk.
+
+666
+00:47:05,606 --> 00:47:07,505
+Aku akan senang kalau kau tidak pulang.
+
+667
+00:47:08,806 --> 00:47:09,976
+- <i>Oppa.</i>
+- Ya?
+
+668
+00:47:10,445 --> 00:47:12,345
+Aku harus ke kamar kecil.
+
+669
+00:47:12,345 --> 00:47:14,885
+- Baik.
+- Teruslah minum.
+
+670
+00:47:32,965 --> 00:47:35,005
+Hidupkan lampunya.
+
+671
+00:47:40,976 --> 00:47:43,746
+Apa yang sedang kamu lakukan?
+
+672
+00:47:43,746 --> 00:47:46,045
+Mau mati apa?
+
+673
+00:47:46,476 --> 00:47:48,115
+Kau enggak mau pergi?
+
+674
+00:47:49,086 --> 00:47:50,985
+Apa masalahmu, sih?
+
+675
+00:47:51,516 --> 00:47:53,586
+Bikin jengkel aja!
+
+676
+00:48:16,976 --> 00:48:20,016
+- Bawakan kami camilan lagi.
+- Baik.
+
+677
+00:48:30,255 --> 00:48:33,326
+Sayang, kenapa kau mematikan lampu?
+
+678
+00:48:33,326 --> 00:48:34,996
+Kau begitu nakal.
+
+679
+00:48:40,565 --> 00:48:43,976
+Sudah terlambat bagiku untuk pulang ke rumah malam ini.
+
+680
+00:48:47,345 --> 00:48:50,275
+<i>Oppa? Oppa.</i>
+
+681
+00:48:51,076 --> 00:48:52,476
+Oppa.
+
+682
+00:49:29,815 --> 00:49:31,186
+- Kau sudah datang?
+- Ya.
+
+683
+00:49:31,186 --> 00:49:33,586
+Ada dua mayat. Mereka berada di ruang VIP di belakang.
+
+684
+00:49:33,956 --> 00:49:35,226
+- Tunjukkan jalannya.
+- Ya.
+
+685
+00:49:35,856 --> 00:49:37,996
+Yang laki-laki, Park Jae Ryang. Dia berusia 30 tahun.
+
+686
+00:49:37,996 --> 00:49:40,056
+Yang wanita, Hwang Ga Hee. Dia berusia 28 tahun.
+
+687
+00:49:40,056 --> 00:49:43,065
+Ternyata dia seorang selebriti medsos terkenal.
+
+688
+00:49:43,065 --> 00:49:46,595
+Dia punya usaha toko daring yang menjual barang-barang bermerek.
+
+689
+00:49:46,735 --> 00:49:48,706
+Mereka pasangan kekasih.
+
+690
+00:49:48,965 --> 00:49:50,536
+Siapa yang menemukan mereka?
+
+691
+00:49:50,536 --> 00:49:52,635
+Seorang karyawan menemukan mereka pada pukul 03:00.
+
+692
+00:49:52,675 --> 00:49:53,845
+CCTV?
+
+693
+00:49:54,146 --> 00:49:57,516
+Tidak ada di dalam. Kita mendapat salinan video lorong.
+
+694
+00:49:57,516 --> 00:49:58,516
+Ayo masuk ke dalam.
+
+695
+00:50:04,686 --> 00:50:05,686
+Ini.
+
+696
+00:50:13,126 --> 00:50:15,195
+Apa ini? Bagaimana mereka mati?
+
+697
+00:50:15,565 --> 00:50:16,836
+Mereka pakai narkotika?
+
+698
+00:50:17,365 --> 00:50:18,365
+Aku tidak yakin.
+
+699
+00:50:20,735 --> 00:50:24,175
+Tapi apa yang salah dengan wajahnya?
+
+700
+00:50:27,806 --> 00:50:30,876
+Coba periksa apa ada kandungan narkotika dalam tubuh mereka.
+
+701
+00:50:30,976 --> 00:50:31,976
+Baik.
+
+702
+00:50:32,376 --> 00:50:35,516
+Tampaknya kriminal tidak membiarkan kau bebas sebelum pensiun.
+
+703
+00:50:36,186 --> 00:50:37,456
+Siapa orang ini?
+
+704
+00:50:37,985 --> 00:50:39,286
+Aku akan bertanya pada mereka.
+
+705
+00:50:41,155 --> 00:50:44,456
+Apakah mereka tidak membersihkan ruangan?
+Mengapa ada begitu banyak semut?
+
+706
+00:50:53,135 --> 00:50:54,865
+(Rumah Sakit Katolik Selatan)
+
+707
+00:51:04,016 --> 00:51:07,416
+Pak Kim, saya akan mengganti perban Anda.
+
+708
+00:51:08,445 --> 00:51:09,445
+Baik.
+
+709
+00:51:15,456 --> 00:51:17,396
+Anda tidak datang kembali larut malam, kan?
+
+710
+00:51:17,525 --> 00:51:21,025
+Tidak, karena Anda saya jadi tidak lama-lama,
+
+711
+00:51:21,365 --> 00:51:23,635
+dan bahkan melakukan latihan pagi saya di ruang PT.
+
+712
+00:51:24,865 --> 00:51:27,436
+Anda begitu berbeda dari ketika Anda pertama kali datang.
+
+713
+00:51:27,505 --> 00:51:29,405
+Anda juga sangat bersemangat dengan rehabilitasi.
+
+714
+00:51:29,806 --> 00:51:33,505
+Mungkin itu sebabnya Anda ceria kembali.
+
+715
+00:51:35,876 --> 00:51:38,376
+Itu harus karena Anda memberi saya energi yang baik.
+
+716
+00:51:49,155 --> 00:51:50,856
+Sudah selesai.
+
+717
+00:51:50,856 --> 00:51:52,126
+Terima kasih.
+
+718
+00:51:59,065 --> 00:52:03,775
+Apakah Anda bisa memberikan tanda tangan?
+
+719
+00:52:03,775 --> 00:52:04,836
+Tanda tangan?
+
+720
+00:52:24,255 --> 00:52:26,595
+(Ham Eun Ho)
+
+721
+00:52:32,896 --> 00:52:35,135
+- Permisi, apakah Anda Kim Hee Sun?
+- Ya, benar.
+
+722
+00:52:35,135 --> 00:52:37,905
+Apakah Anda pernah dirawat di Rumah Sakit Katolik Selatan?
+
+723
+00:52:38,076 --> 00:52:39,675
+- Apakah Anda baik-baik saja sekarang?
+- Iya.
+
+724
+00:52:40,445 --> 00:52:41,646
+Baik, terima kasih.
+
+725
+00:52:59,126 --> 00:53:00,766
+Baik. Terima kasih.
+
+726
+00:53:41,965 --> 00:53:45,376
+Pendeta, Kim Joon Ho ada di daftar Anda, kan?
+
+727
+00:53:46,635 --> 00:53:47,646
+Ya.
+
+728
+00:53:47,646 --> 00:53:49,376
+Apakah Anda sudah memeriksanya?
+
+729
+00:53:50,576 --> 00:53:51,815
+Tidak, belum.
+
+730
+00:53:51,815 --> 00:53:53,476
+Anda harus memeriksa dia dulu.
+
+731
+00:53:53,576 --> 00:53:55,246
+Dia seorang tersangka pembunuhan.
+
+732
+00:53:55,345 --> 00:53:57,016
+Bukan pembunuhan biasa.
+
+733
+00:53:57,115 --> 00:53:58,856
+Sepertinya pekerjaan seorang energi.
+
+734
+00:53:58,856 --> 00:54:00,086
+Saya mengerti.
+
+735
+00:54:13,465 --> 00:54:14,505
+Ke mana perginya?
+
+736
+00:54:19,175 --> 00:54:21,476
+Ampun. Serius.
+
+737
+00:54:26,146 --> 00:54:28,246
+Apakah semuanya baik-baik saja? Baik.
+
+738
+00:54:30,485 --> 00:54:33,615
+Bagaimana CT pasien di tempat tidur 12?
+
+739
+00:54:33,615 --> 00:54:36,556
+Dia pergi untuk mendapatkan CT sebelumnya. Apakah Anda ingin saya untuk memeriksa?
+
+740
+00:54:36,556 --> 00:54:40,795
+Tidak masalah. Saya yang akan melakukannya. Tolong beri obat penghilang rasa sakit lebih banyak.
+
+741
+00:55:03,545 --> 00:55:04,956
+Lalatnya ...
+
+742
+00:55:07,525 --> 00:55:09,755
+( Ruang CT-Scan UGD)
+
+743
+00:55:15,465 --> 00:55:18,465
+( Ruang CT-Scan UGD)
+
+744
+00:55:22,905 --> 00:55:26,876
+(Hati-hati. Radiasi.)
+
+745
+00:56:33,175 --> 00:56:34,206
+Dr. Ham.
+
+746
+00:56:35,376 --> 00:56:36,445
+Kau berdarah ...
+
+747
+00:56:47,016 --> 00:56:48,155
+Mengapa sangat banyak?
+
+748
+00:56:50,326 --> 00:56:52,795
+Dr. Ham! Tetap sadar.
+
+749
+00:56:52,795 --> 00:56:53,896
+Anda kenapa?
+
+750
+00:56:53,896 --> 00:56:55,766
+Dr. Ham! Tolong!
+
+751
+00:56:56,396 --> 00:56:57,436
+Dr. Ham!
+
+752
+00:57:01,706 --> 00:57:05,175
+-The Priest-
+
+753
+00:57:21,286 --> 00:57:24,025
+-The Priest-
+
+754
+00:57:24,195 --> 00:57:27,095
+Dr. Ham pingsan kemarin karena kelelahan.
+
+755
+00:57:27,095 --> 00:57:29,865
+Saya bukan diri saya lagi.
+Ada yang menggerogoti saya.
+
+756
+00:57:29,865 --> 00:57:32,065
+Apakah dia benar-benar masih lumpuh hanya sehari lalu?
+
+757
+00:57:32,465 --> 00:57:34,135
+Jika Kotak Ibu Mutiaranya ada,
+
+758
+00:57:34,135 --> 00:57:36,036
+mari kita menggunakannya untuk menangkapnya.
+
+759
+00:57:36,036 --> 00:57:37,106
+Bukankah itu terlalu berbahaya?
+
+760
+00:57:37,106 --> 00:57:39,436
+Hanya akan aman setelah kita menyegel iblis itu.
+
+761
+00:57:39,775 --> 00:57:42,376
+Dapatkah imanmu melampaui kekuatan setan itu?
+
+762
+00:57:42,376 --> 00:57:43,675
+Kami akan melindungi Anda.
+
+763
+00:57:43,675 --> 00:57:46,476
+Bukankah kita sedang diseret ke dalam ketidakberdayaan?
+
+764
+00:57:46,476 --> 00:57:49,916
+Setan mungkin sedang membingungkanmu.
+
+765
+00:57:49,916 --> 00:57:51,815
+Satu hal yang pasti, ia menyerah secara sukarela.
+
+766
+00:57:51,815 --> 00:57:53,586
+Kita perlu tangan...
+
+767
+00:57:53,586 --> 00:57:55,456
+untuk melakukan operasi dan berdoa.
+
+768
+00:57:55,456 --> 00:57:57,595
+Dia pasti dirasuki, tapi ini tidak masuk akal.
+
+769
+00:57:57,626 --> 00:58:00,766
+Dia mencoba memecah 634 Regia dengan ketakutan kita.
+
+770
+00:58:00,766 --> 00:58:02,826
+Ini adalah satu-satunya cara untuk menangkapnya.
+
+771
+00:58:02,826 --> 00:58:04,336
+Setan memanipulasi mimpimu.
+
+772
+00:58:04,336 --> 00:58:06,565
+Kau sedang menyelamatkan seseorang, kan?
+
+773
+00:58:06,565 --> 00:58:09,065
+Tolong beritahu saya apa yang terjadi.
+
+774
+00:58:09,065 --> 00:58:11,206
+Anda tahu ada sesuatu yang serius yang salah, bukan?
+
+775
+00:58:11,206 --> 00:58:12,836
+Kau menjagaku dari apa?
+
+776
+00:58:12,836 --> 00:58:15,476
+Kau akan merasakan yang lebih menakutkan lagi.
+
+777
+00:58:15,476 --> 00:58:17,076
+Aku memerintahkanmu dalam nama Tuhan.
+
+778
+00:58:17,076 --> 00:58:19,976
+Katakan namamu dan kembali ke tempat asalmu.
+

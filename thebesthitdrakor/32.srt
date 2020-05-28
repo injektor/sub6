@@ -1,0 +1,1870 @@
+1
+00:00:00,610 --> 00:00:03,240
+<font color=#FFFF00>"Tayangan ini mungkin tidak sesuai bagi pemirsa di bawah 15 tahun"</font>
+
+2
+00:00:03,240 --> 00:00:04,540
+<font color=#FFFF00>"Pemirsa diharap bijak"</font>
+
+3
+00:00:29,970 --> 00:00:32,700
+<font color=#FFFF00>Tuan Jempolan, aku pulang.</font>
+
+4
+00:01:32,730 --> 00:01:33,930
+<font color=#FFFF00>Kenapa kamu kemari?</font>
+
+5
+00:01:36,930 --> 00:01:39,440
+<font color=#FFFF00>Ayahku bilang kamu bisa memakai ini sebagai referensi.</font>
+
+6
+00:01:39,940 --> 00:01:40,970
+<font color=#FFFF00>Apa ini?</font>
+
+7
+00:01:40,970 --> 00:01:42,770
+<font color=#FFFF00>Kurasa dia mengetahui kamu suka menulis lagu.</font>
+
+8
+00:01:42,770 --> 00:01:45,980
+<font color=#FFFF00>Ini bahan-bahan yang dia kumpulkan mengenai penulisan lagu.</font>
+
+9
+00:01:46,080 --> 00:01:49,510
+<font color=#FFFF00>Katanya ada beberapa catatan dari penulis lagu terkenal juga.</font>
+
+10
+00:01:49,880 --> 00:01:52,180
+<font color=#FFFF00>CEO Lee selalu penuh perhatian, ya?</font>
+
+11
+00:01:52,180 --> 00:01:55,550
+<font color=#FFFF00>Itu sudah keturunan. Kami mungkin tampak apatis, tapi kami perhatian.</font>
+
+12
+00:01:56,290 --> 00:01:58,460
+<font color=#FFFF00>Aku tahu CEO Lee seperti itu,</font>
+
+13
+00:01:59,020 --> 00:02:00,890
+<font color=#FFFF00>tapi tidak yakin denganmu.</font>
+
+14
+00:02:01,230 --> 00:02:04,190
+<font color=#FFFF00>Benar juga. Aku debut di TV hari ini.</font>
+
+15
+00:02:04,630 --> 00:02:07,000
+<font color=#FFFF00>Aku tahu. Itulah alasanku sibuk sepanjang hari</font>
+
+16
+00:02:07,000 --> 00:02:10,000
+<font color=#FFFF00>menulis siaran pers untuk kalian berdua di kantor.</font>
+
+17
+00:02:11,570 --> 00:02:14,140
+<font color=#FFFF00>Reaksi penonton tampaknya bagus</font>
+
+18
+00:02:14,140 --> 00:02:16,010
+<font color=#FFFF00>dan sutradaranya juga memuji kami.</font>
+
+19
+00:02:16,010 --> 00:02:19,040
+<font color=#FFFF00>Kamu hebat, Ji Hoon.</font>
+
+20
+00:02:20,780 --> 00:02:22,150
+<font color=#FFFF00>Tadi kamu sedang makan?</font>
+
+21
+00:02:22,380 --> 00:02:25,050
+<font color=#FFFF00>Ya. Mau makan denganku? Itu cukup untuk berdua.</font>
+
+22
+00:02:25,050 --> 00:02:27,850
+<font color=#FFFF00>Tidak, aku baru saja makan. Aku harus pergi.</font>
+
+23
+00:02:28,050 --> 00:02:29,220
+<font color=#FFFF00>Pergi latihan?</font>
+
+24
+00:02:29,450 --> 00:02:30,960
+<font color=#FFFF00>Kesempatan ini sulit didapat,</font>
+
+25
+00:02:31,060 --> 00:02:33,890
+<font color=#FFFF00>jadi, aku mau berusaha semampuku apa pun hasilnya nanti.</font>
+
+26
+00:02:34,730 --> 00:02:36,930
+<font color=#FFFF00>Astaga, kamu sudah dewasa.</font>
+
+27
+00:02:38,500 --> 00:02:40,930
+<font color=#FFFF00>- Kamu harus makan. Sampai jumpa./- Ya.</font>
+
+28
+00:02:50,540 --> 00:02:52,110
+<font color=#FFFF00>- Sampai jumpa./- Ya.</font>
+
+29
+00:03:04,050 --> 00:03:05,620
+<font color=#FFFF00>Kamu hebat, Ji Hoon.</font>
+
+30
+00:03:07,390 --> 00:03:09,630
+<font color=#FFFF00>Kamu hebat. Itu sudah cukup.</font>
+
+31
+00:03:35,020 --> 00:03:36,090
+<font color=#FFFF00>Tuan Jempolan.</font>
+
+32
+00:03:39,220 --> 00:03:40,420
+<font color=#FFFF00>Apa kamu makan dengan teratur?</font>
+
+33
+00:03:45,530 --> 00:03:46,830
+<font color=#FFFF00>Di sana pasti malam hari juga.</font>
+
+34
+00:04:02,080 --> 00:04:03,110
+<font color=#FFFF00>Selamat...</font>
+
+35
+00:04:05,320 --> 00:04:06,580
+<font color=#FFFF00>Kenapa kamu kemari?</font>
+
+36
+00:04:06,880 --> 00:04:09,250
+<font color=#FFFF00>Apa lagi alasan ke toko roti? Aku ingin membeli sesuatu.</font>
+
+37
+00:04:09,520 --> 00:04:11,790
+<font color=#FFFF00>Bisa rekomendasikan kue yang tidak terlalu manis?</font>
+
+38
+00:04:24,870 --> 00:04:26,600
+<font color=#FFFF00>Ambillah yang ini.</font>
+
+39
+00:04:27,070 --> 00:04:29,710
+<font color=#FFFF00>- Apa ini enak?/- Ini yang paling mahal.</font>
+
+40
+00:04:29,970 --> 00:04:31,780
+<font color=#FFFF00>- Kamu kaya./- Astaga.</font>
+
+41
+00:04:32,580 --> 00:04:35,150
+<font color=#FFFF00>Kamulah yang merampas artis terpopuler di agensi kami.</font>
+
+42
+00:04:35,450 --> 00:04:37,720
+<font color=#FFFF00>Karena itu, kami rugi besar.</font>
+
+43
+00:04:37,720 --> 00:04:39,920
+<font color=#FFFF00>Seharusnya perlakukan dia lebih baik selagi masih ada kesempatan.</font>
+
+44
+00:04:43,450 --> 00:04:45,160
+<font color=#FFFF00>Young Jae.</font>
+
+45
+00:04:45,160 --> 00:04:47,160
+<font color=#FFFF00>Bo Hee. Sudah lama tidak berjumpa.</font>
+
+46
+00:04:47,160 --> 00:04:50,330
+<font color=#FFFF00>Kamu harus mampir lebih sering. Roti kami sangat enak.</font>
+
+47
+00:04:50,330 --> 00:04:52,160
+<font color=#FFFF00>Benar. Baiklah.</font>
+
+48
+00:04:52,630 --> 00:04:55,570
+<font color=#FFFF00>Bisa berikan satu macam rotimu?</font>
+
+49
+00:04:55,730 --> 00:04:59,900
+<font color=#FFFF00>Kamu harus memilih sendiri roti yang kamu inginkan.</font>
+
+50
+00:04:59,900 --> 00:05:01,110
+<font color=#FFFF00>Begitukah?</font>
+
+51
+00:05:03,310 --> 00:05:06,540
+<font color=#FFFF00>Gwang Jae baik kepadamu? Jika tidak, hubungi saja aku.</font>
+
+52
+00:05:06,540 --> 00:05:07,910
+<font color=#FFFF00>Aku akan memberi dia pelajaran.</font>
+
+53
+00:05:09,010 --> 00:05:11,180
+<font color=#FFFF00>- Kamu siapa berkata begitu?/- Apa?</font>
+
+54
+00:05:12,450 --> 00:05:14,020
+<font color=#FFFF00>Aku tetangganya.</font>
+
+55
+00:05:14,020 --> 00:05:16,320
+<font color=#FFFF00>Kamu tidak tampak seperti tetangga.</font>
+
+56
+00:05:18,190 --> 00:05:19,190
+<font color=#FFFF00>Ini.</font>
+
+57
+00:05:20,820 --> 00:05:22,590
+<font color=#FFFF00>- Apa ini?/- Bonus dari kami.</font>
+
+58
+00:05:24,030 --> 00:05:26,630
+<font color=#FFFF00>Omong-omong, biarkan aku memakai studio rekamanmu.</font>
+
+59
+00:05:26,630 --> 00:05:28,870
+<font color=#FFFF00>Aku tidak punya waktu untuk menyewa studio di sekitar sini.</font>
+
+60
+00:05:28,870 --> 00:05:31,340
+<font color=#FFFF00>Aku ingin meminjam studiomu untuk sementara.</font>
+
+61
+00:05:31,340 --> 00:05:34,000
+<font color=#FFFF00>Kamu meminta tolong</font>
+
+62
+00:05:34,270 --> 00:05:35,310
+<font color=#FFFF00>dengan lancang.</font>
+
+63
+00:05:36,910 --> 00:05:38,010
+<font color=#FFFF00>Lihat saja nanti.</font>
+
+64
+00:05:38,580 --> 00:05:39,640
+<font color=#FFFF00>Ini bahkan tidak dibungkus.</font>
+
+65
+00:05:39,640 --> 00:05:40,840
+<font color=#FFFF00>- Pergilah saja./- Sampai jumpa.</font>
+
+66
+00:05:46,250 --> 00:05:48,750
+<font color=#FFFF00>Bersikap baiklah kepada Young Jae.</font>
+
+67
+00:05:48,750 --> 00:05:51,190
+<font color=#FFFF00>Dia mungkin agak angkuh,</font>
+
+68
+00:05:51,190 --> 00:05:53,190
+<font color=#FFFF00>tapi dia bukan orang jahat.</font>
+
+69
+00:05:53,190 --> 00:05:55,130
+<font color=#FFFF00>Apa? Bersikap baik?</font>
+
+70
+00:05:55,130 --> 00:05:57,600
+<font color=#FFFF00>Hubunganku dan Young Jae amat baik sekarang ini.</font>
+
+71
+00:06:02,570 --> 00:06:05,400
+<font color=#FFFF00>"Ji Hoon saat usia lima tahun. Anak laki-laki yang tampan"</font>
+
+72
+00:06:12,280 --> 00:06:14,580
+<font color=#FFFF00>Astaga, aku lelah.</font>
+
+73
+00:06:18,250 --> 00:06:19,450
+<font color=#FFFF00>Astaga.</font>
+
+74
+00:06:32,300 --> 00:06:33,300
+<font color=#FFFF00>Bisakah</font>
+
+75
+00:06:34,370 --> 00:06:36,670
+<font color=#FFFF00>kamu menaruh ini</font>
+
+76
+00:06:37,670 --> 00:06:38,670
+<font color=#FFFF00>di dalam es krimnya?</font>
+
+77
+00:06:39,000 --> 00:06:40,500
+<font color=#FFFF00>Aku akan melamar.</font>
+
+78
+00:06:40,500 --> 00:06:41,670
+<font color=#FFFF00>Tolong dan terima kasih.</font>
+
+79
+00:06:42,610 --> 00:06:45,580
+<font color=#FFFF00>Aku ahli melakukan hal ini.</font>
+
+80
+00:06:50,950 --> 00:06:52,220
+<font color=#FFFF00>Ini lezat.</font>
+
+81
+00:06:58,060 --> 00:07:00,390
+<font color=#FFFF00>- Kenapa kamu menatapku?/- Apa?</font>
+
+82
+00:07:00,620 --> 00:07:02,130
+<font color=#FFFF00>Tidak apa-apa. Lanjutkan makannya.</font>
+
+83
+00:07:02,930 --> 00:07:05,030
+<font color=#FFFF00>- Makanlah. Ini lezat./- Ya.</font>
+
+84
+00:07:30,820 --> 00:07:31,920
+<font color=#FFFF00>Permisi...</font>
+
+85
+00:07:33,560 --> 00:07:34,930
+<font color=#FFFF00>- Aku.../- Apa?</font>
+
+86
+00:07:36,030 --> 00:07:37,130
+<font color=#FFFF00>Ada apa?</font>
+
+87
+00:07:40,500 --> 00:07:41,500
+<font color=#FFFF00>Aku</font>
+
+88
+00:07:43,330 --> 00:07:45,770
+<font color=#FFFF00>harus ke rumah sakit.</font>
+
+89
+00:07:46,040 --> 00:07:48,270
+<font color=#FFFF00>Apa? Rumah sakit?</font>
+
+90
+00:07:48,440 --> 00:07:51,740
+<font color=#FFFF00>Kenapa Anda menelan ini? Hampir saja Anda terkena masalah.</font>
+
+91
+00:07:52,980 --> 00:07:55,750
+<font color=#FFFF00>Itu akan keluar setelah satu atau dua hari.</font>
+
+92
+00:07:56,180 --> 00:07:57,280
+<font color=#FFFF00>Anda melihatnya?</font>
+
+93
+00:07:58,220 --> 00:08:00,220
+<font color=#FFFF00>Astaga. Bukankah itu</font>
+
+94
+00:08:01,090 --> 00:08:02,290
+<font color=#FFFF00>sebuah cincin?</font>
+
+95
+00:08:10,390 --> 00:08:12,260
+<font color=#FFFF00>Maaf. Permisi.</font>
+
+96
+00:08:16,670 --> 00:08:19,600
+<font color=#FFFF00>Aku menelan dan menyimpan kata-kata ini selama 20 tahun.</font>
+
+97
+00:08:20,800 --> 00:08:22,170
+<font color=#FFFF00>Mungkin itulah alasan</font>
+
+98
+00:08:23,170 --> 00:08:25,210
+<font color=#FFFF00>aku menelan cincinnya juga.</font>
+
+99
+00:08:25,980 --> 00:08:27,710
+<font color=#FFFF00>Aku memang tidak punya apa-apa,</font>
+
+100
+00:08:28,710 --> 00:08:30,380
+<font color=#FFFF00>tapi aku bisa membahagiakanmu.</font>
+
+101
+00:08:31,920 --> 00:08:32,920
+<font color=#FFFF00>Maukah</font>
+
+102
+00:08:34,250 --> 00:08:35,250
+<font color=#FFFF00>kamu menikahiku?</font>
+
+103
+00:08:51,500 --> 00:08:52,600
+<font color=#FFFF00>Terima kasih.</font>
+
+104
+00:08:54,870 --> 00:08:56,470
+<font color=#FFFF00>Jawabanku adalah</font>
+
+105
+00:09:01,180 --> 00:09:02,250
+<font color=#FFFF00>ya.</font>
+
+106
+00:09:10,050 --> 00:09:11,560
+<font color=#FFFF00>Terima kasih.</font>
+
+107
+00:09:11,560 --> 00:09:12,690
+<font color=#FFFF00>Selamat.</font>
+
+108
+00:09:13,990 --> 00:09:15,890
+<font color=#FFFF00>Kuharap cincin itu akan keluar malam ini.</font>
+
+109
+00:09:20,860 --> 00:09:22,400
+<font color=#FFFF00>Hei.</font>
+
+110
+00:09:23,200 --> 00:09:25,170
+<font color=#FFFF00>Haruskah kita mengadakan pesta pernikahan?</font>
+
+111
+00:09:25,370 --> 00:09:27,100
+<font color=#FFFF00>Nanti saja. Pelan-pelan.</font>
+
+112
+00:09:27,100 --> 00:09:30,010
+<font color=#FFFF00>Mal Sook ada di kartu keluarga kita.</font>
+
+113
+00:09:30,010 --> 00:09:32,010
+<font color=#FFFF00>Kita sudah resmi menjadi keluarga.</font>
+
+114
+00:09:32,010 --> 00:09:34,950
+<font color=#FFFF00>Astaga. Kamu sangat tidak sabar.</font>
+
+115
+00:09:35,250 --> 00:09:37,680
+<font color=#FFFF00>- Haruskah aku mencari tahu?/- Aku ingin</font>
+
+116
+00:09:37,820 --> 00:09:39,720
+<font color=#FFFF00>mengadakan pesta pernikahan yang selayaknya.</font>
+
+117
+00:09:40,020 --> 00:09:42,190
+<font color=#FFFF00>Aku akan mengadakannya di aula paling besar</font>
+
+118
+00:09:42,490 --> 00:09:44,920
+<font color=#FFFF00>di hotel terbesar.</font>
+
+119
+00:09:45,820 --> 00:09:46,920
+<font color=#FFFF00>Benarkah?</font>
+
+120
+00:09:47,190 --> 00:09:49,830
+<font color=#FFFF00>Lantas, ayo lakukan perlahan.</font>
+
+121
+00:09:51,230 --> 00:09:52,660
+<font color=#FFFF00>Santai saja.</font>
+
+122
+00:09:52,830 --> 00:09:55,600
+<font color=#FFFF00>Bisnis barumulah yang terpenting sekarang.</font>
+
+123
+00:09:55,600 --> 00:09:59,370
+<font color=#FFFF00>Selain itu, jangan datang ke toko roti lagi.</font>
+
+124
+00:09:59,670 --> 00:10:00,870
+<font color=#FFFF00>Itu...</font>
+
+125
+00:10:00,870 --> 00:10:02,970
+<font color=#FFFF00>Seorang CEO harus ada di ruangannya.</font>
+
+126
+00:10:02,970 --> 00:10:03,970
+<font color=#FFFF00>Bukan begitu?</font>
+
+127
+00:10:04,410 --> 00:10:05,410
+<font color=#FFFF00>Benarkah?</font>
+
+128
+00:10:06,310 --> 00:10:08,280
+<font color=#FFFF00>Omong-omong, soal albummu.</font>
+
+129
+00:10:08,280 --> 00:10:10,310
+<font color=#FFFF00>Aku sedang meninjaunya.</font>
+
+130
+00:10:10,310 --> 00:10:12,480
+<font color=#FFFF00>Kini setelah punya agensi sendiri,</font>
+
+131
+00:10:12,480 --> 00:10:13,750
+<font color=#FFFF00>aku bisa menyokongmu.</font>
+
+132
+00:10:15,450 --> 00:10:16,490
+<font color=#FFFF00>Tidak.</font>
+
+133
+00:10:17,220 --> 00:10:18,520
+<font color=#FFFF00>Ayo lakukan itu perlahan juga.</font>
+
+134
+00:10:19,060 --> 00:10:20,160
+<font color=#FFFF00>Apa?</font>
+
+135
+00:10:21,390 --> 00:10:23,790
+<font color=#FFFF00>Aku ingin menjadi ibu dan istri yang baik</font>
+
+136
+00:10:24,230 --> 00:10:25,700
+<font color=#FFFF00>lebih dahulu.</font>
+
+137
+00:10:25,960 --> 00:10:27,200
+<font color=#FFFF00>Setelah itu,</font>
+
+138
+00:10:27,600 --> 00:10:29,900
+<font color=#FFFF00>jika aku tetap ingin menjadi penyanyi,</font>
+
+139
+00:10:30,200 --> 00:10:31,400
+<font color=#FFFF00>aku akan memberitahumu.</font>
+
+140
+00:10:31,840 --> 00:10:34,740
+<font color=#FFFF00>Kamu sungguh harus mendukungku jika saat itu tiba.</font>
+
+141
+00:10:35,510 --> 00:10:36,610
+<font color=#FFFF00>Mengerti?</font>
+
+142
+00:10:37,440 --> 00:10:38,540
+<font color=#FFFF00>Ya.</font>
+
+143
+00:10:38,640 --> 00:10:40,780
+<font color=#FFFF00>Bilang saja kepadaku kapan pun kamu siap.</font>
+
+144
+00:10:56,430 --> 00:10:57,530
+<font color=#FFFF00>Tuan Jempolan!</font>
+
+145
+00:10:59,130 --> 00:11:00,130
+<font color=#FFFF00>Tuan Jempolan!</font>
+
+146
+00:11:00,400 --> 00:11:01,500
+<font color=#FFFF00>Tuan Jempolan!</font>
+
+147
+00:11:01,900 --> 00:11:03,000
+<font color=#FFFF00>Tuan Jempolan.</font>
+
+148
+00:11:04,030 --> 00:11:05,040
+<font color=#FFFF00>Tuan Jempolan!</font>
+
+149
+00:11:17,110 --> 00:11:18,120
+<font color=#FFFF00>Tuan Jempolan.</font>
+
+150
+00:11:19,550 --> 00:11:20,950
+<font color=#FFFF00>Kenapa kamu tidak kembali?</font>
+
+151
+00:11:23,350 --> 00:11:25,160
+<font color=#FFFF00>Kamu sudah melupakanku?</font>
+
+152
+00:11:37,300 --> 00:11:39,300
+<font color=#FFFF00>Baik, hari Jumat pukul 11.00.</font>
+
+153
+00:11:40,100 --> 00:11:41,310
+<font color=#FFFF00>Lokasinya...</font>
+
+154
+00:11:41,640 --> 00:11:44,010
+<font color=#FFFF00>Di Sangam? Ya, aku mengetahuinya.</font>
+
+155
+00:11:45,240 --> 00:11:47,340
+<font color=#FFFF00>Anda ingin melakukan wawancara yang seperti apa?</font>
+
+156
+00:11:47,340 --> 00:11:49,310
+<font color=#FFFF00>Americano Anda siap.</font>
+
+157
+00:11:49,750 --> 00:11:51,080
+<font color=#FFFF00>Tolong tunggu sebentar.</font>
+
+158
+00:11:51,480 --> 00:11:52,880
+<font color=#FFFF00>Baiklah.</font>
+
+159
+00:11:58,620 --> 00:11:59,620
+<font color=#FFFF00>Terima kasih.</font>
+
+160
+00:12:06,660 --> 00:12:08,400
+<font color=#FFFF00>"Gimbap Tuna Mayones"</font>
+
+161
+00:12:12,840 --> 00:12:15,570
+<font color=#FFFF00>"Gimbap Segitiga"</font>
+
+162
+00:12:17,240 --> 00:12:18,440
+<font color=#FFFF00>Maafkan aku.</font>
+
+163
+00:14:02,650 --> 00:14:05,120
+<font color=#FFFF00>Ketika bangun, aku berada di jalan</font>
+
+164
+00:14:05,120 --> 00:14:06,550
+<font color=#FFFF00>di depan World Entertainment.</font>
+
+165
+00:14:07,220 --> 00:14:09,290
+<font color=#FFFF00>Kurasa aku berbaring di sana lumayan lama.</font>
+
+166
+00:14:10,920 --> 00:14:12,020
+<font color=#FFFF00>Lantas,</font>
+
+167
+00:14:12,390 --> 00:14:14,790
+<font color=#FFFF00>bagaimana dengan Hyun Jae di tahun 1994?</font>
+
+168
+00:14:18,560 --> 00:14:20,930
+<font color=#FFFF00>Kamu mengatakannya seakan-akan dia orang lain.</font>
+
+169
+00:14:21,370 --> 00:14:22,670
+<font color=#FFFF00>Dia juga diriku.</font>
+
+170
+00:14:23,600 --> 00:14:24,600
+<font color=#FFFF00>Begini...</font>
+
+171
+00:14:25,240 --> 00:14:28,010
+<font color=#FFFF00>Kalian tampak seperti orang yang berbeda.</font>
+
+172
+00:14:29,970 --> 00:14:30,980
+<font color=#FFFF00>Kamu benar.</font>
+
+173
+00:14:31,180 --> 00:14:34,040
+<font color=#FFFF00>Dia memang diriku, tapi tidak seperti aku.</font>
+
+174
+00:14:35,850 --> 00:14:38,850
+<font color=#FFFF00>Itu karena kami hidup di masa yang berbeda</font>
+
+175
+00:14:39,120 --> 00:14:40,380
+<font color=#FFFF00>dan mengalami hal berbeda pula.</font>
+
+176
+00:14:40,720 --> 00:14:41,720
+<font color=#FFFF00>Lalu,</font>
+
+177
+00:14:42,090 --> 00:14:44,420
+<font color=#FFFF00>apa yang terjadi dengannya?</font>
+
+178
+00:14:48,290 --> 00:14:49,430
+<font color=#FFFF00>Aku tidak yakin.</font>
+
+179
+00:14:54,470 --> 00:14:57,700
+<font color=#FFFF00>Kurasa dia tidak mau semua berubah hanya karena dirinya.</font>
+
+180
+00:14:58,470 --> 00:14:59,670
+<font color=#FFFF00>Bagaimana kamu tahu?</font>
+
+181
+00:15:01,340 --> 00:15:02,440
+<font color=#FFFF00>Karena aku adalah dia.</font>
+
+182
+00:15:02,640 --> 00:15:03,710
+<font color=#FFFF00>Begitulah firasatku.</font>
+
+183
+00:15:06,080 --> 00:15:09,380
+<font color=#FFFF00>Intinya, kamu benar-benar</font>
+
+184
+00:15:09,680 --> 00:15:10,680
+<font color=#FFFF00>orang yang aneh.</font>
+
+185
+00:15:11,280 --> 00:15:13,620
+<font color=#FFFF00>Bagaimana denganmu? Kamu melakukan apa saat aku pergi?</font>
+
+186
+00:15:13,780 --> 00:15:15,720
+<font color=#FFFF00>Banyak hal terjadi.</font>
+
+187
+00:15:15,820 --> 00:15:16,920
+<font color=#FFFF00>Sungguh?</font>
+
+188
+00:15:17,520 --> 00:15:19,120
+<font color=#FFFF00>Aku punya banyak waktu.</font>
+
+189
+00:15:19,290 --> 00:15:20,520
+<font color=#FFFF00>Beri tahu aku segalanya.</font>
+
+190
+00:15:20,930 --> 00:15:23,730
+<font color=#FFFF00>Aku pembicara yang andal,</font>
+
+191
+00:15:23,960 --> 00:15:27,930
+<font color=#FFFF00>tapi aku juga pendengar yang hebat.</font>
+
+192
+00:15:33,400 --> 00:15:34,810
+<font color=#FFFF00>Tuan Jempolan.</font>
+
+193
+00:15:35,740 --> 00:15:39,240
+<font color=#FFFF00>Kamu tidak tersesat dan bisa menemukan jalan pulang.</font>
+
+194
+00:15:45,250 --> 00:15:49,420
+<font color=#FFFF00>Aku tidak yakin, tapi kurasa di sinilah seharusnya aku berada.</font>
+
+195
+00:15:50,520 --> 00:15:51,760
+<font color=#FFFF00>Aku lebih suka di sini.</font>
+
+196
+00:15:53,690 --> 00:15:55,430
+<font color=#FFFF00>Benar juga.</font>
+
+197
+00:16:01,830 --> 00:16:03,770
+<font color=#FFFF00>Kurasa itu berkat kompas yang kamu berikan kepadaku.</font>
+
+198
+00:16:05,670 --> 00:16:07,040
+<font color=#FFFF00>Lihat.</font>
+
+199
+00:16:08,110 --> 00:16:11,080
+<font color=#FFFF00>"Mengaum, Menguak"</font>
+
+200
+00:16:21,550 --> 00:16:23,020
+<font color=#FFFF00>Lezat, bukan?</font>
+
+201
+00:16:25,160 --> 00:16:27,120
+<font color=#FFFF00>Aku makin kecanduan ini.</font>
+
+202
+00:16:27,320 --> 00:16:29,360
+<font color=#FFFF00>Awalnya tidak selezat ini.</font>
+
+203
+00:16:29,960 --> 00:16:32,030
+<font color=#FFFF00>- Kamu punya tempat tinggal?/- Aku harus mencarinya.</font>
+
+204
+00:16:32,230 --> 00:16:34,830
+<font color=#FFFF00>Tinggal saja di sini sampai menemukan tempat tinggal.</font>
+
+205
+00:16:34,830 --> 00:16:38,440
+<font color=#FFFF00>Aku tidak bisa melakukan itu setelah berutang banyak kepadamu.</font>
+
+206
+00:16:38,440 --> 00:16:40,300
+<font color=#FFFF00>Kamu tidak berutang banyak.</font>
+
+207
+00:16:42,910 --> 00:16:45,210
+<font color=#FFFF00>Tentu saja. Aku Yoo Hyun Jae.</font>
+
+208
+00:16:45,210 --> 00:16:47,140
+<font color=#FFFF00>Aku tidak pernah melewati batas.</font>
+
+209
+00:16:47,140 --> 00:16:49,310
+<font color=#FFFF00>Tepat sekali. Aku juga memercayaimu.</font>
+
+210
+00:16:51,820 --> 00:16:52,950
+<font color=#FFFF00>Mau tambah nasi?</font>
+
+211
+00:16:53,180 --> 00:16:55,590
+<font color=#FFFF00>Apa? Ya, sedikit saja.</font>
+
+212
+00:16:55,590 --> 00:16:56,620
+<font color=#FFFF00>Baik.</font>
+
+213
+00:17:00,360 --> 00:17:01,860
+<font color=#FFFF00>- Tuan Jempolan./- Apa?</font>
+
+214
+00:17:01,860 --> 00:17:04,160
+<font color=#FFFF00>- Aku akan mandi./- Baiklah.</font>
+
+215
+00:17:14,840 --> 00:17:15,970
+<font color=#FFFF00>Dia sedang mandi?</font>
+
+216
+00:17:17,680 --> 00:17:21,010
+<font color=#FFFF00>Ya. Dia bilang mau mandi.
+<i>vkatchu.wordpress.com</i></font>
+
+217
+00:17:28,520 --> 00:17:30,190
+<font color=#FFFF00>Entahlah. Berhenti memikirkannya.</font>
+
+218
+00:17:35,990 --> 00:17:37,700
+<font color=#FFFF00>Kenapa suaranya terdengar jelas sekali?</font>
+
+219
+00:17:55,280 --> 00:17:58,120
+<font color=#FFFF00>Hyun Jae, kamu lebih baik dari ini.</font>
+
+220
+00:17:58,620 --> 00:18:01,220
+<font color=#FFFF00>Berhenti memikirkannya.</font>
+
+221
+00:18:12,630 --> 00:18:13,900
+<font color=#FFFF00>Astaga, Hyun Jae.</font>
+
+222
+00:18:16,000 --> 00:18:18,340
+<font color=#FFFF00>Kamu jauh lebih baik dari ini.</font>
+
+223
+00:18:19,270 --> 00:18:21,540
+<font color=#FFFF00>Hentikan dan jadilah diri sendiri.</font>
+
+224
+00:18:51,900 --> 00:18:54,340
+<font color=#FFFF00>Kamu harus mandi juga. Masuk dan mandilah.</font>
+
+225
+00:18:56,870 --> 00:18:57,910
+<font color=#FFFF00>Apa?</font>
+
+226
+00:18:58,840 --> 00:19:00,580
+<font color=#FFFF00>Ya, aku...</font>
+
+227
+00:19:01,410 --> 00:19:05,420
+<font color=#FFFF00>Kurasa aku harus segera menemukan tempat tinggal.</font>
+
+228
+00:19:06,650 --> 00:19:09,120
+<font color=#FFFF00>Aku tadinya tidak seperti ini, tapi entah ada apa denganku.</font>
+
+229
+00:19:09,320 --> 00:19:10,450
+<font color=#FFFF00>Begitukah?</font>
+
+230
+00:19:11,620 --> 00:19:12,920
+<font color=#FFFF00>Hei, omong-omong,</font>
+
+231
+00:19:14,260 --> 00:19:16,490
+<font color=#FFFF00>kenapa kamu tiba-tiba tampak sangat lelah?</font>
+
+232
+00:19:17,830 --> 00:19:21,830
+<font color=#FFFF00>Apa ini semacam efek samping usai menjelajah waktu?</font>
+
+233
+00:19:24,600 --> 00:19:27,240
+<font color=#FFFF00>Entahlah. Aku hampir kalah melawan diriku sendiri.</font>
+
+234
+00:19:28,270 --> 00:19:31,210
+<font color=#FFFF00>Benar juga. Aku harus menemui Gwang Jae.</font>
+
+235
+00:19:31,940 --> 00:19:32,940
+<font color=#FFFF00>Sungguh?</font>
+
+236
+00:19:33,540 --> 00:19:34,980
+<font color=#FFFF00>Kamu akan segera kembali, bukan?</font>
+
+237
+00:19:35,980 --> 00:19:37,050
+<font color=#FFFF00>Ya.</font>
+
+238
+00:19:47,890 --> 00:19:49,590
+<font color=#FFFF00>Akankah dia baik-baik saja?</font>
+
+239
+00:19:52,560 --> 00:19:54,770
+<font color=#FFFF00>Kenapa dia minum air banyak sekali?</font>
+
+240
+00:19:55,600 --> 00:19:57,840
+<font color=#FFFF00>Bisakah kamu pergi dan kembali</font>
+
+241
+00:19:58,440 --> 00:20:00,140
+<font color=#FFFF00>sesuka hatimu?</font>
+
+242
+00:20:01,040 --> 00:20:04,710
+<font color=#FFFF00>Tidak bisa sesuka hatiku. Aku hampir saja mati.</font>
+
+243
+00:20:04,710 --> 00:20:06,110
+<font color=#FFFF00>Aku tidak akan melakukannya lagi!</font>
+
+244
+00:20:08,050 --> 00:20:10,880
+<font color=#FFFF00>Intinya, aku penasaran dari mana orang sepertimu berasal.</font>
+
+245
+00:20:12,120 --> 00:20:13,520
+<font color=#FFFF00>Aku juga merasa takjub.</font>
+
+246
+00:20:17,920 --> 00:20:21,030
+<font color=#FFFF00>Benar juga. Bagaimana pengobatanmu?</font>
+
+247
+00:20:21,190 --> 00:20:23,790
+<font color=#FFFF00>Apa itu bisa sembuh dengan pengobatan biasa?</font>
+
+248
+00:20:23,790 --> 00:20:25,660
+<font color=#FFFF00>Penyakit itu?</font>
+
+249
+00:20:26,130 --> 00:20:28,470
+<font color=#FFFF00>Salah satu penggemarku kini menjadi profesor.</font>
+
+250
+00:20:28,470 --> 00:20:29,830
+<font color=#FFFF00>Dia akan membantuku.</font>
+
+251
+00:20:30,940 --> 00:20:33,500
+<font color=#FFFF00>Ya, para bocah kecil itu</font>
+
+252
+00:20:33,940 --> 00:20:35,570
+<font color=#FFFF00>pasti sudah dewasa sekarang.</font>
+
+253
+00:20:37,040 --> 00:20:38,180
+<font color=#FFFF00>Benar.</font>
+
+254
+00:20:40,540 --> 00:20:44,580
+<font color=#FFFF00>Omong-omong, baguslah kamu kembali. Bantu aku di agensi.</font>
+
+255
+00:20:44,680 --> 00:20:47,320
+<font color=#FFFF00>Latihlah anak-anak dan menulis lagu.</font>
+
+256
+00:20:48,020 --> 00:20:52,020
+<font color=#FFFF00>Tunggu. Kamu masih cukup muda untuk menjadi penyanyi idola.</font>
+
+257
+00:20:52,160 --> 00:20:53,890
+<font color=#FFFF00>Kamu mau debut lagi?</font>
+
+258
+00:20:54,330 --> 00:20:57,430
+<font color=#FFFF00>Sekali di panggung saja sudah cukup.</font>
+
+259
+00:20:57,960 --> 00:21:00,360
+<font color=#FFFF00>Aku mau bekerja dengan nyaman di belakang panggung.</font>
+
+260
+00:21:01,970 --> 00:21:03,700
+<font color=#FFFF00>Tentu. Tidak apa-apa.</font>
+
+261
+00:21:05,440 --> 00:21:08,340
+<font color=#FFFF00>Omong-omong, aku tidak melihat Pak Lee.</font>
+
+262
+00:21:08,340 --> 00:21:11,640
+<font color=#FFFF00>Dia pergi bersama Mal Sook ke acara piknik TK-nya.</font>
+
+263
+00:21:12,210 --> 00:21:14,110
+<font color=#FFFF00>Apa? Dia baik-baik saja?</font>
+
+264
+00:21:15,010 --> 00:21:18,120
+<font color=#FFFF00>Katanya dia akan menjadi orang pertama yang melawan demensia.</font>
+
+265
+00:21:18,120 --> 00:21:20,720
+<font color=#FFFF00>Dia amat giat berolahraga belakangan ini.</font>
+
+266
+00:21:20,720 --> 00:21:24,520
+<font color=#FFFF00>Dia bertekad memenangkan semua hadiah hari ini.</font>
+
+267
+00:21:24,520 --> 00:21:25,820
+<font color=#FFFF00>Dia terus menyombong saat berangkat tadi.</font>
+
+268
+00:21:27,420 --> 00:21:28,430
+<font color=#FFFF00>Benar.</font>
+
+269
+00:21:29,190 --> 00:21:32,700
+<font color=#FFFF00>Dia memang ahli bersikap keras kepala.</font>
+
+270
+00:21:33,430 --> 00:21:36,430
+<font color=#FFFF00>Demensia mungkin akan menyerah dan melarikan diri.</font>
+
+271
+00:21:37,800 --> 00:21:38,970
+<font color=#FFFF00>Benar.</font>
+
+272
+00:21:42,240 --> 00:21:45,740
+<font color=#FFFF00>Tapi kenapa kamu sangat membantuku?</font>
+
+273
+00:21:47,610 --> 00:21:50,810
+<font color=#FFFF00>- Aku manajermu./- Kamu lebih dari sekadar manajer.</font>
+
+274
+00:21:53,880 --> 00:21:56,120
+<font color=#FFFF00>Entahlah.</font>
+
+275
+00:21:56,990 --> 00:21:58,420
+<font color=#FFFF00>Kamu tampak kesepian.</font>
+
+276
+00:21:59,660 --> 00:22:02,090
+<font color=#FFFF00>- Apa?/- Itu yang kurasakan.</font>
+
+277
+00:22:03,160 --> 00:22:06,030
+<font color=#FFFF00>Kupikir kamu bersikap begitu karena kesepian seperti diriku.</font>
+
+278
+00:22:06,830 --> 00:22:10,900
+<font color=#FFFF00>Pemikiran itu membantuku bertahan dengan watakmu yang mudah marah.</font>
+
+279
+00:22:16,410 --> 00:22:17,740
+<font color=#FFFF00>Ayo tetap akur.</font>
+
+280
+00:22:17,910 --> 00:22:19,980
+<font color=#FFFF00>Kamu harus memanggilku "CEO Lee" mulai sekarang.</font>
+
+281
+00:22:20,910 --> 00:22:23,150
+<font color=#FFFF00>Aku tidak bilang mau bekerja di agensimu.</font>
+
+282
+00:22:23,250 --> 00:22:26,180
+<font color=#FFFF00>Aku akan bekerja lepas. Kamu mengerti?</font>
+
+283
+00:22:26,180 --> 00:22:30,020
+<font color=#FFFF00>Lihat dirimu mencoba memainkan trik licikmu itu.</font>
+
+284
+00:22:32,760 --> 00:22:34,020
+<font color=#FFFF00>Hyun Jae.</font>
+
+285
+00:22:34,530 --> 00:22:35,560
+<font color=#FFFF00>Apa?</font>
+
+286
+00:22:35,660 --> 00:22:37,260
+<font color=#FFFF00>Jangan pergi jauh-jauh lagi.</font>
+
+287
+00:22:38,430 --> 00:22:42,000
+<font color=#FFFF00>Ayo kita menua bersama setidaknya mulai sekarang.</font>
+
+288
+00:22:42,800 --> 00:22:43,830
+<font color=#FFFF00>Setuju?</font>
+
+289
+00:22:48,910 --> 00:22:50,870
+<font color=#FFFF00>Baiklah. Ayo lakukan itu.</font>
+
+290
+00:22:56,010 --> 00:22:57,050
+<font color=#FFFF00>Satu dan...</font>
+
+291
+00:23:04,420 --> 00:23:06,660
+<font color=#FFFF00>- Tunggu. Kurasa ada yang datang./- Apa?</font>
+
+292
+00:23:08,330 --> 00:23:10,660
+<font color=#FFFF00>Siapa? Tidak ada siapa pun.</font>
+
+293
+00:23:10,860 --> 00:23:12,830
+<font color=#FFFF00>Sungguh? Benar juga.</font>
+
+294
+00:23:13,130 --> 00:23:15,500
+<font color=#FFFF00>Kamu terus membahas soal demam panggung,</font>
+
+295
+00:23:15,500 --> 00:23:16,930
+<font color=#FFFF00>tapi kamu ditakdirkan untuk berdiri di panggung.</font>
+
+296
+00:23:17,570 --> 00:23:19,970
+<font color=#FFFF00>Aku juga tidak menyangkanya,</font>
+
+297
+00:23:20,240 --> 00:23:21,970
+<font color=#FFFF00>tapi kurasa memang begitu.</font>
+
+298
+00:23:21,970 --> 00:23:23,940
+<font color=#FFFF00>Bagaimana kamu menahannya selama bertahun-tahun ini?</font>
+
+299
+00:23:23,940 --> 00:23:26,040
+<font color=#FFFF00>Lihat dirimu.</font>
+
+300
+00:23:27,180 --> 00:23:30,150
+<font color=#FFFF00>Haruskah kita membuat Korea menggilakan kita berdua?</font>
+
+301
+00:23:30,150 --> 00:23:33,650
+<font color=#FFFF00>Ayo manfaatkan kesempatan ini dan lakukan itu.</font>
+
+302
+00:23:34,120 --> 00:23:35,920
+<font color=#FFFF00>- Kami JB!/- JB!</font>
+
+303
+00:23:39,320 --> 00:23:40,660
+<font color=#FFFF00>- Halo!/- Halo!</font>
+
+304
+00:23:41,760 --> 00:23:42,830
+<font color=#FFFF00>Halo, Kawan-kawan.</font>
+
+305
+00:23:44,530 --> 00:23:46,330
+<font color=#FFFF00>Aku akan menemui teman-teman lamaku dan kembali lagi.</font>
+
+306
+00:23:46,500 --> 00:23:48,670
+<font color=#FFFF00>Mereka semua heboh setelah melihatku di TV.</font>
+
+307
+00:23:49,500 --> 00:23:52,070
+<font color=#FFFF00>- Jangan minum alkohol./- Baiklah.</font>
+
+308
+00:23:59,680 --> 00:24:01,280
+<font color=#FFFF00>Apa? Kamu...</font>
+
+309
+00:24:04,750 --> 00:24:06,450
+<font color=#FFFF00>Aku kembali lagi.</font>
+
+310
+00:24:09,220 --> 00:24:10,690
+<font color=#FFFF00>Sudah kuduga kamu akan kembali.</font>
+
+311
+00:24:12,760 --> 00:24:15,530
+<font color=#FFFF00>Kenapa kamu selalu bilang begitu?</font>
+
+312
+00:24:16,360 --> 00:24:18,960
+<font color=#FFFF00>Kudengar kamu sudah debut. Selamat.</font>
+
+313
+00:24:19,160 --> 00:24:22,300
+<font color=#FFFF00>Terima kasih. Kamu akan tinggal di sini selamanya?</font>
+
+314
+00:24:22,800 --> 00:24:25,370
+<font color=#FFFF00>- Ya./- Di sisi Woo Seung?</font>
+
+315
+00:24:27,570 --> 00:24:30,370
+<font color=#FFFF00>Begitulah.</font>
+
+316
+00:24:32,910 --> 00:24:35,750
+<font color=#FFFF00>- Di mana Drill?/- Dia pergi menemui teman-temannya.</font>
+
+317
+00:24:39,780 --> 00:24:42,350
+<font color=#FFFF00>Aku bertemu dengan ayahmu.</font>
+
+318
+00:24:44,260 --> 00:24:47,120
+<font color=#FFFF00>Aku ingin memberitahukan tentang ayahmu.</font>
+
+319
+00:24:48,060 --> 00:24:49,590
+<font color=#FFFF00>Tentang alasannya membuat pilihan itu.</font>
+
+320
+00:24:54,630 --> 00:24:59,170
+<font color=#FFFF00>Pada momen genting itu, dia terus menanyakan soal dirimu.</font>
+
+321
+00:24:59,970 --> 00:25:01,870
+<font color=#FFFF00>Kubilang kamu anak yang baik.</font>
+
+322
+00:25:04,940 --> 00:25:06,380
+<font color=#FFFF00>Aku juga memperlihatkan fotomu.</font>
+
+323
+00:25:07,210 --> 00:25:08,780
+<font color=#FFFF00>Kubilang kepadanya kamu sedang debut sebagai penyanyi.</font>
+
+324
+00:25:09,580 --> 00:25:12,020
+<font color=#FFFF00>- Dia bilang apa?/- Dia bangga.</font>
+
+325
+00:25:12,480 --> 00:25:13,720
+<font color=#FFFF00>Sungguh?</font>
+
+326
+00:25:16,420 --> 00:25:17,590
+<font color=#FFFF00>Ini.</font>
+
+327
+00:25:19,060 --> 00:25:21,030
+<font color=#FFFF00>Ayahmu memintaku memberikan ini kepadamu.</font>
+
+328
+00:25:25,000 --> 00:25:26,400
+<font color=#FFFF00>Hebat, bukan?</font>
+
+329
+00:25:27,060 --> 00:25:29,430
+<font color=#FFFF00>Ya, ini hebat.</font>
+
+330
+00:25:42,080 --> 00:25:43,080
+<font color=#FFFF00>Hei.</font>
+
+331
+00:25:44,080 --> 00:25:45,480
+<font color=#FFFF00>Ayo sukseskan ini.</font>
+
+332
+00:25:46,620 --> 00:25:48,420
+<font color=#FFFF00>Ya. Mari kita sukseskan ini.</font>
+
+333
+00:25:50,290 --> 00:25:52,590
+<font color=#FFFF00>Betapa pun aku memikirkannya,</font>
+
+334
+00:25:52,590 --> 00:25:54,690
+<font color=#FFFF00>tidakkah kamu merasa</font>
+
+335
+00:25:54,830 --> 00:25:56,660
+<font color=#FFFF00>ini sangat aneh?</font>
+
+336
+00:25:57,390 --> 00:26:00,060
+<font color=#FFFF00>Ya, ini sangat aneh.</font>
+
+337
+00:26:03,030 --> 00:26:05,070
+<font color=#FFFF00>Hei, bersulang.</font>
+
+338
+00:26:10,010 --> 00:26:11,010
+<font color=#FFFF00>Hei.</font>
+
+339
+00:26:11,480 --> 00:26:12,480
+<font color=#FFFF00>Sedang apa kamu di sini?</font>
+
+340
+00:26:14,950 --> 00:26:15,950
+<font color=#FFFF00>Aku</font>
+
+341
+00:26:16,250 --> 00:26:17,280
+<font color=#FFFF00>menunggumu.</font>
+
+342
+00:26:17,280 --> 00:26:18,920
+<font color=#FFFF00>Kenapa kamu berdiri di sini?</font>
+
+343
+00:26:18,980 --> 00:26:20,180
+<font color=#FFFF00>Aku cemas.</font>
+
+344
+00:26:20,780 --> 00:26:21,950
+<font color=#FFFF00>Kupikir kamu akan menghilang lagi.</font>
+
+345
+00:26:22,820 --> 00:26:23,920
+<font color=#FFFF00>Apa?</font>
+
+346
+00:26:24,420 --> 00:26:25,420
+<font color=#FFFF00>Berikan lenganmu.</font>
+
+347
+00:26:25,560 --> 00:26:26,660
+<font color=#FFFF00>Lenganku?</font>
+
+348
+00:26:41,840 --> 00:26:43,040
+<font color=#FFFF00>Ini keterlaluan.</font>
+
+349
+00:26:43,240 --> 00:26:45,310
+<font color=#FFFF00>Kamu tidak boleh pergi ke mana pun</font>
+
+350
+00:26:45,480 --> 00:26:47,010
+<font color=#FFFF00>tanpa diriku lagi.</font>
+
+351
+00:26:48,710 --> 00:26:50,980
+<font color=#FFFF00>"Budak milik Woo Seung, Hyun Jae"</font>
+
+352
+00:26:50,980 --> 00:26:53,720
+<font color=#FFFF00>Akan kubalas kamu suatu hari nanti.</font>
+
+353
+00:27:12,300 --> 00:27:13,400
+<font color=#FFFF00>Paruh Waktu.</font>
+
+354
+00:27:15,440 --> 00:27:16,910
+<font color=#FFFF00>Mengagetkan saja.</font>
+
+355
+00:27:17,370 --> 00:27:18,440
+<font color=#FFFF00>Hei.</font>
+
+356
+00:27:19,680 --> 00:27:20,880
+<font color=#FFFF00>Kenapa kamu di sana?</font>
+
+357
+00:27:20,880 --> 00:27:22,350
+<font color=#FFFF00>Sekarang aku tinggal di sini.</font>
+
+358
+00:27:22,350 --> 00:27:23,880
+<font color=#FFFF00>- Apa?/- Aku sedang mencari kamar</font>
+
+359
+00:27:23,880 --> 00:27:25,520
+<font color=#FFFF00>dan terpikirkan untuk memeriksa tempat ini.</font>
+
+360
+00:27:25,520 --> 00:27:27,020
+<font color=#FFFF00>Ternyata di sini kosong.</font>
+
+361
+00:27:27,020 --> 00:27:30,050
+<font color=#FFFF00>Mari kita hidup rukun sebagai tetangga, ya?</font>
+
+362
+00:27:30,690 --> 00:27:31,760
+<font color=#FFFF00>Kamu sungguh...</font>
+
+363
+00:27:32,490 --> 00:27:34,060
+<font color=#FFFF00>- Bagaimana kamu.../- Ayolah.</font>
+
+364
+00:27:34,060 --> 00:27:35,730
+<font color=#FFFF00>Aku tidak akan mengganggumu. Jangan khawatir.</font>
+
+365
+00:27:35,730 --> 00:27:37,160
+<font color=#FFFF00>Sampai nanti, Tetangga.</font>
+
+366
+00:27:41,130 --> 00:27:42,800
+<font color=#FFFF00>Kapan kamu akan makan? Kamu akan makan apa?</font>
+
+367
+00:27:42,800 --> 00:27:44,670
+<font color=#FFFF00>Aku tidak penasaran sama sekali. Sampai jumpa.</font>
+
+368
+00:27:48,270 --> 00:27:49,870
+<font color=#FFFF00>Mau makan bersama nanti malam?</font>
+
+369
+00:27:49,870 --> 00:27:50,940
+<font color=#FFFF00>Kamu bisa makan sendiri,</font>
+
+370
+00:27:50,940 --> 00:27:53,510
+<font color=#FFFF00>tapi merupakan kejahatan serius jika kamu makan sendirian</font>
+
+371
+00:27:53,510 --> 00:27:55,950
+<font color=#FFFF00>padahal ada tetangga hebat seperti diriku.</font>
+
+372
+00:27:57,510 --> 00:27:58,780
+<font color=#FFFF00>Kamu sungguh...</font>
+
+373
+00:27:59,420 --> 00:28:01,250
+<font color=#FFFF00>Kamu benar-benar aneh.</font>
+
+374
+00:28:01,750 --> 00:28:06,320
+<font color=#FFFF00>Ayolah. Maksudmu aku sangat hebat.</font>
+
+375
+00:28:15,530 --> 00:28:17,640
+<font color=#FFFF00>Tampaknya kini kalian cukup populer.</font>
+
+376
+00:28:17,640 --> 00:28:20,700
+<font color=#FFFF00>Kami dua orang yang terlahir untuk menikmati popularitas.</font>
+
+377
+00:28:20,700 --> 00:28:22,110
+<font color=#FFFF00>Tentu saja, Bung.</font>
+
+378
+00:28:22,110 --> 00:28:23,110
+<font color=#FFFF00>JB.</font>
+
+379
+00:28:24,340 --> 00:28:25,980
+<font color=#FFFF00>Kudengar kalian berdua pindah.</font>
+
+380
+00:28:25,980 --> 00:28:28,780
+<font color=#FFFF00>Ya, Drill dan aku pindah ke sebuah studio.</font>
+
+381
+00:28:29,180 --> 00:28:32,320
+<font color=#FFFF00>Lalu tempat ini bagaimana? Kosong?</font>
+
+382
+00:28:32,320 --> 00:28:33,580
+<font color=#FFFF00>Untuk sementara.</font>
+
+383
+00:28:33,580 --> 00:28:34,690
+<font color=#FFFF00>Sungguh?</font>
+
+384
+00:28:35,290 --> 00:28:38,190
+<font color=#FFFF00>Woo Seung. Bagaimana penulisan lagumu?</font>
+
+385
+00:28:38,620 --> 00:28:39,960
+<font color=#FFFF00>Aku sudah mencobanya,</font>
+
+386
+00:28:40,490 --> 00:28:42,630
+<font color=#FFFF00>tapi ternyata tidak sebaik yang kupikirkan.</font>
+
+387
+00:28:43,160 --> 00:28:45,160
+<font color=#FFFF00>Sudah kuduga. Kamu lebih tampak</font>
+
+388
+00:28:45,560 --> 00:28:48,100
+<font color=#FFFF00>seperti seorang PNS.</font>
+
+389
+00:28:48,430 --> 00:28:49,630
+<font color=#FFFF00>Jika menulis lagu bagus,</font>
+
+390
+00:28:49,630 --> 00:28:51,140
+<font color=#FFFF00>kamu harus memberikannya kepada kami dahulu.</font>
+
+391
+00:28:52,040 --> 00:28:53,140
+<font color=#FFFF00>Baiklah.</font>
+
+392
+00:28:55,010 --> 00:28:56,510
+<font color=#FFFF00>Tidak ada sesuatu yang lebih dingin?</font>
+
+393
+00:28:57,580 --> 00:28:59,010
+<font color=#FFFF00>Tentu saja ada.</font>
+
+394
+00:29:01,050 --> 00:29:02,150
+<font color=#FFFF00>Ini.</font>
+
+395
+00:29:02,680 --> 00:29:05,150
+<font color=#FFFF00>- Astaga, dingin sekali./- Bagus.</font>
+
+396
+00:29:05,650 --> 00:29:06,780
+<font color=#FFFF00>Hebat.</font>
+
+397
+00:29:08,750 --> 00:29:10,190
+<font color=#FFFF00>- Bagus./- Hebat.</font>
+
+398
+00:29:10,590 --> 00:29:12,360
+<font color=#FFFF00>- Jempolan./- Jempolan.</font>
+
+399
+00:29:12,360 --> 00:29:15,290
+<font color=#FFFF00>- Jempolan./- Jempolan.</font>
+
+400
+00:29:15,830 --> 00:29:19,230
+<font color=#FFFF00>- Jempolan./- Apa itu tadi?</font>
+
+401
+00:29:19,530 --> 00:29:22,830
+<font color=#FFFF00>Malam itu, kami berbincang dan tertawa untuk waktu yang lama.</font>
+
+402
+00:29:23,170 --> 00:29:26,100
+<font color=#FFFF00>Waktu kami mungkin tidak banyak.</font>
+
+403
+00:29:26,300 --> 00:29:28,310
+<font color=#FFFF00>Semua yang kita miliki mungkin</font>
+
+404
+00:29:28,310 --> 00:29:30,240
+<font color=#FFFF00>tampak remeh dan sepele.</font>
+
+405
+00:29:30,510 --> 00:29:31,780
+<font color=#FFFF00>Tapi seorang penyair pernah berkata,</font>
+
+406
+00:29:31,780 --> 00:29:33,080
+<font color=#FFFF00>puisi yang paling bagus</font>
+
+407
+00:29:33,280 --> 00:29:34,880
+<font color=#FFFF00>belum ditulis</font>
+
+408
+00:29:35,210 --> 00:29:36,810
+<font color=#FFFF00>dan lagu yang paling bagus</font>
+
+409
+00:29:36,980 --> 00:29:38,650
+<font color=#FFFF00>belum dinyanyikan.</font>
+
+410
+00:29:39,320 --> 00:29:42,050
+<font color=#FFFF00>Hari terbaik kami adalah hari yang belum kami jalani.</font>
+
+411
+00:29:42,920 --> 00:29:44,690
+<font color=#FFFF00>Karena itulah masa kini</font>
+
+412
+00:29:44,960 --> 00:29:47,190
+<font color=#FFFF00>dan yang kami lakukan sekarang sangat berharga bagi kami.</font>
+
+413
+00:29:48,030 --> 00:29:51,630
+<font color=#FFFF00>Masih ada hal-hal hebat yang menanti kami.</font>
+
+414
+00:29:52,230 --> 00:29:53,630
+<font color=#FFFF00>Kita melakukan ini tempo hari.</font>
+
+415
+00:29:53,730 --> 00:29:55,070
+<font color=#FFFF00>- Ayo./- Ayo!</font>
+
+416
+00:29:55,070 --> 00:29:56,530
+<font color=#FFFF00>- Ayo./- Ayo!</font>
+
+417
+00:30:24,460 --> 00:30:26,400
+<font color=#FFFF00>"Yoo Hyun Jae yang Hebat"</font>
+
+418
+00:30:36,770 --> 00:30:38,380
+<font color=#FFFF00>"Mengaum, Menguak"</font>
+
+419
+00:30:48,320 --> 00:30:51,890
+<font color=#FFFF00>Ini cukup hebat.
+<i>synced and ripped by anyHOW</i></font>
+
+420
+00:31:16,380 --> 00:31:17,620
+<font color=#FFFF00>Hei, Tetangga.</font>
+
+421
+00:31:18,180 --> 00:31:20,720
+<font color=#FFFF00>Apa? Bagaimana kamu tahu aku pindah kemari?</font>
+
+422
+00:31:21,720 --> 00:31:24,620
+<font color=#FFFF00>Kamu sudah lupa aku bekerja di World Entertainment?</font>
+
+423
+00:31:25,890 --> 00:31:28,160
+<font color=#FFFF00>Beraninya kamu melarikan diri tanpa memberitahuku.</font>
+
+424
+00:31:30,330 --> 00:31:31,930
+<font color=#FFFF00>Aku tidak melarikan diri.</font>
+
+425
+00:31:31,930 --> 00:31:33,830
+<font color=#FFFF00>Tahukah kamu semahal apa tempat itu?</font>
+
+426
+00:31:34,000 --> 00:31:35,900
+<font color=#FFFF00>Kamu yakin tidak mencoba kabur lagi?</font>
+
+427
+00:31:36,070 --> 00:31:37,670
+<font color=#FFFF00>Aku tidak bisa ke mana pun tanpa dirimu.</font>
+
+428
+00:31:41,970 --> 00:31:44,510
+<font color=#FFFF00>Kenapa ada itu di wajahmu?</font>
+
+429
+00:31:45,810 --> 00:31:46,880
+<font color=#FFFF00>Ada sesuatu di wajahku?</font>
+
+430
+00:31:47,080 --> 00:31:48,080
+<font color=#FFFF00>Di sini.</font>
+
+431
+00:32:40,600 --> 00:32:43,370
+<font color=#FFFF00>"The Best Hit"</font>
+
+432
+00:32:45,540 --> 00:32:46,900
+<font color=#FFFF00>Aku tidak bermaksud melakukan itu.</font>
+
+433
+00:32:47,070 --> 00:32:51,210
+<font color=#FFFF00>"Woo Seung tidak punya bir"</font>
+
+434
+00:32:54,280 --> 00:32:55,880
+<font color=#FFFF00>Bisa tolong katakan, "Cut"?</font>
+
+435
+00:33:02,190 --> 00:33:04,460
+<font color=#FFFF00>Jadi, kamu yang menakut-nakutiku</font>
+
+436
+00:33:05,290 --> 00:33:07,260
+<font color=#FFFF00>setiap malam?</font>
+
+437
+00:33:07,890 --> 00:33:09,590
+<font color=#FFFF00>Tunggu. Itu tidak benar. Bagaimana caranya, ya?</font>
+
+438
+00:33:10,690 --> 00:33:11,960
+<font color=#FFFF00>Bisa bantu aku?</font>
+
+439
+00:33:15,400 --> 00:33:16,400
+<font color=#FFFF00>Cut.</font>
+
+440
+00:33:18,040 --> 00:33:19,140
+<font color=#FFFF00>Tataplah mataku.</font>
+
+441
+00:33:19,300 --> 00:33:20,500
+<font color=#FFFF00>Tidak masuk akal.</font>
+
+442
+00:33:20,970 --> 00:33:22,440
+<font color=#FFFF00>Dia bisa menggunakan sendiri gudangnya.</font>
+
+443
+00:33:22,510 --> 00:33:24,610
+<font color=#FFFF00>Hei...</font>
+
+444
+00:33:25,080 --> 00:33:26,610
+<font color=#FFFF00>Dia bisa menggunakan sendiri gudangnya.</font>
+
+445
+00:33:26,610 --> 00:33:28,180
+<font color=#FFFF00>Hei, bagaimana denganku?</font>
+
+446
+00:33:30,880 --> 00:33:31,880
+<font color=#FFFF00>Hei!</font>
+
+447
+00:33:34,790 --> 00:33:35,990
+<font color=#FFFF00>Maafkan aku.</font>
+
+448
+00:33:36,290 --> 00:33:37,920
+<font color=#FFFF00>Kamu serius?</font>
+
+449
+00:33:38,560 --> 00:33:40,930
+<font color=#FFFF00>250 joule. Setrumkan 250 joule.</font>
+
+450
+00:33:41,230 --> 00:33:42,430
+<font color=#FFFF00>Aku melihat kamera, ya?</font>
+
+451
+00:33:43,390 --> 00:33:44,630
+<font color=#FFFF00>Semangat.</font>
+
+452
+00:33:44,860 --> 00:33:47,700
+<font color=#FFFF00>Aku Choi Woo Seung. Akhirnya, Woo Seung akan menang.</font>
+
+453
+00:33:53,670 --> 00:33:54,840
+<font color=#FFFF00>Maafkan aku.</font>
+
+454
+00:33:54,840 --> 00:33:57,910
+<font color=#FFFF00>Berandal. Ini amat memalukan.</font>
+
+455
+00:33:57,910 --> 00:34:00,340
+<font color=#FFFF00>Aku membesarkannya dengan penuh kasih sayang.</font>
+
+456
+00:34:02,280 --> 00:34:03,280
+<font color=#FFFF00>Siapa itu?</font>
+
+457
+00:34:05,450 --> 00:34:07,950
+<font color=#FFFF00>Disembuhkan... Astaga, maafkan aku.</font>
+
+458
+00:34:07,950 --> 00:34:09,090
+<font color=#FFFF00>Maaf.</font>
+
+459
+00:34:09,090 --> 00:34:11,160
+<font color=#FFFF00>"Terima kasih telah menyaksikan 'The Best Hit'"</font>
+
+460
+00:34:11,160 --> 00:34:13,060
+<font color=#FFFF00>- Aku harus bicara./- Maaf.</font>
+
+461
+00:34:13,060 --> 00:34:15,460
+<font color=#FFFF00>"Terima kasih telah menyaksikan 'The Best Hit'"</font>
+
+462
+00:34:15,660 --> 00:34:23,470
+<font color=#FFFF00>"'Hari-hari terbaik kita belum kita jalani.' Nazim Hikmet"</font>
+
+463
+00:34:24,200 --> 00:34:25,270
+<font color=#FFFF00>Hentikan.</font>
+
+464
+00:34:25,270 --> 00:34:26,770
+<font color=#FFFF00>Astaga, Tae Hyun.</font>
+
+465
+00:34:26,770 --> 00:34:28,810
+<font color=#FFFF00>Aku mendengar suara langkahmu.</font>
+
+466
+00:34:28,810 --> 00:34:30,310
+<font color=#FFFF00>- Sungguh?/- Ya, kami bisa mendengarnya.</font>
+
+467
+00:34:30,310 --> 00:34:31,310
+<font color=#FFFF00>Cut.</font>
+

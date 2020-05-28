@@ -1,0 +1,4420 @@
+1
+00:00:00,843 --> 00:00:12,273
+<font color="yellow">BioskopKeren</font>
+
+2
+00:00:14,751 --> 00:00:16,451
+<font color="yellow">(Episode 34)</font>
+
+3
+00:00:24,900 --> 00:00:26,939
+<font color="yellow">You spent too much on account of me.</font>
+
+4
+00:00:26,939 --> 00:00:28,369
+<font color="yellow">Don't say that.</font>
+
+5
+00:00:28,369 --> 00:00:31,099
+<font color="yellow">Nothing means more to me than you.</font>
+
+6
+00:00:31,439 --> 00:00:32,900
+<font color="yellow">To me, you are...</font>
+
+7
+00:00:33,240 --> 00:00:34,740
+<font color="yellow">most precious.</font>
+
+8
+00:00:35,140 --> 00:00:37,269
+<font color="yellow">I'm way down the list.</font>
+
+9
+00:00:37,269 --> 00:00:38,740
+<font color="yellow">I'd say I'm the fourth entry.</font>
+
+10
+00:00:39,799 --> 00:00:40,799
+<font color="yellow">Thank you.</font>
+
+11
+00:00:48,299 --> 00:00:50,240
+<font color="yellow">I'd only seen such rooms on TV.</font>
+
+12
+00:00:50,439 --> 00:00:53,640
+<font color="yellow">I've never actually been inside a hotel before.</font>
+
+13
+00:00:56,040 --> 00:00:58,040
+<font color="yellow">Did you see me put the card in the door?</font>
+
+14
+00:00:58,869 --> 00:01:01,570
+<font color="yellow">You use this card to come in and turn on the lights.</font>
+
+15
+00:01:01,570 --> 00:01:04,640
+<font color="yellow">If you ever have to go out, take this with you.</font>
+
+16
+00:01:04,839 --> 00:01:05,940
+<font color="yellow">Don't leave without it.</font>
+
+17
+00:01:06,499 --> 00:01:07,499
+<font color="yellow">Here you go.</font>
+
+18
+00:01:21,240 --> 00:01:24,499
+<font color="yellow">Do you have to pay extra if I drink whatever is in the fridge?</font>
+
+19
+00:01:24,499 --> 00:01:26,469
+<font color="yellow">Drink whatever you want.</font>
+
+20
+00:01:26,469 --> 00:01:30,100
+<font color="yellow">I heard that you have to pay if you take something from the bar.</font>
+
+21
+00:01:30,100 --> 00:01:32,669
+<font color="yellow">I paid for everything already.</font>
+
+22
+00:01:32,669 --> 00:01:33,999
+<font color="yellow">You can eat what you want.</font>
+
+23
+00:01:33,999 --> 00:01:34,999
+<font color="yellow">What?</font>
+
+24
+00:01:35,369 --> 00:01:37,699
+<font color="yellow">Why did you pay in advance?</font>
+
+25
+00:01:43,070 --> 00:01:45,240
+<font color="yellow">Who would eat all this?</font>
+
+26
+00:01:45,300 --> 00:01:47,100
+<font color="yellow">Just eat what you want.</font>
+
+27
+00:01:47,699 --> 00:01:49,839
+<font color="yellow">It would be a waste to leave stuff.</font>
+
+28
+00:01:55,940 --> 00:01:59,540
+<font color="yellow">It's such a lovely room I doubt I'll be able to fall asleep.</font>
+
+29
+00:01:59,999 --> 00:02:02,499
+<font color="yellow">Do you want me to stay and put you to sleep?</font>
+
+30
+00:02:05,499 --> 00:02:07,839
+<font color="yellow">I was just kidding. I'll let you rest.</font>
+
+31
+00:02:08,669 --> 00:02:09,670
+<font color="yellow">Wait.</font>
+
+32
+00:02:10,240 --> 00:02:11,700
+<font color="yellow">Your ex-wife.</font>
+
+33
+00:02:11,700 --> 00:02:14,969
+<font color="yellow">I think she still has feelings for you.</font>
+
+34
+00:02:15,170 --> 00:02:17,700
+<font color="yellow">It's not that she misses me.</font>
+
+35
+00:02:17,700 --> 00:02:19,900
+<font color="yellow">She can't stand being alone.</font>
+
+36
+00:02:20,170 --> 00:02:22,900
+<font color="yellow">Forget everything she said.</font>
+
+37
+00:02:26,200 --> 00:02:27,700
+<font color="yellow">I'm really leaving now.</font>
+
+38
+00:02:28,939 --> 00:02:30,300
+<font color="yellow">I said I'm leaving.</font>
+
+39
+00:02:31,140 --> 00:02:33,439
+<font color="yellow">You're so rude.</font>
+
+40
+00:02:33,439 --> 00:02:35,339
+<font color="yellow">I paid for this lovely suite...</font>
+
+41
+00:02:35,339 --> 00:02:37,140
+<font color="yellow">and you haven't thanked me.</font>
+
+42
+00:02:44,700 --> 00:02:46,439
+<font color="yellow">You got the hint.</font>
+
+43
+00:02:46,439 --> 00:02:48,999
+<font color="yellow">You're a smart Bucket Head.</font>
+
+44
+00:02:49,369 --> 00:02:52,670
+<font color="yellow">Don't call me that. I almost forgot that nickname.</font>
+
+45
+00:02:52,670 --> 00:02:54,170
+<font color="yellow">Okay. Goodnight.</font>
+
+46
+00:03:08,999 --> 00:03:11,569
+<font color="yellow">What are you doing here?</font>
+
+47
+00:03:11,569 --> 00:03:12,640
+<font color="yellow">We have business here.</font>
+
+48
+00:03:12,640 --> 00:03:13,670
+<font color="yellow">Do you?</font>
+
+49
+00:03:13,670 --> 00:03:15,670
+<font color="yellow">What else can you do here but sleep?</font>
+
+50
+00:03:15,969 --> 00:03:17,099
+<font color="yellow">Think whatever you want.</font>
+
+51
+00:03:17,099 --> 00:03:19,099
+<font color="yellow">I wasn't wrong about you.</font>
+
+52
+00:03:19,099 --> 00:03:21,700
+<font color="yellow">You have nothing to give but your body.</font>
+
+53
+00:03:22,469 --> 00:03:24,069
+<font color="yellow">That's what you're like.</font>
+
+54
+00:03:24,069 --> 00:03:25,200
+<font color="yellow">Watch your tongue.</font>
+
+55
+00:03:25,700 --> 00:03:28,200
+<font color="yellow">Forget about it. Don't let it get to you.</font>
+
+56
+00:03:28,400 --> 00:03:30,140
+<font color="yellow">"Forget about it."</font>
+
+57
+00:03:30,439 --> 00:03:32,539
+<font color="yellow">"Don't let it get to you."</font>
+
+58
+00:03:34,740 --> 00:03:36,339
+<font color="yellow">That is unbelievable.</font>
+
+59
+00:03:38,469 --> 00:03:39,939
+<font color="yellow">Take me to Hyoja-dong.</font>
+
+60
+00:03:40,270 --> 00:03:41,539
+<font color="yellow">Not Pyeongchang-dong?</font>
+
+61
+00:03:41,599 --> 00:03:44,069
+<font color="yellow">No. Take me to Hyoja-dong, please.</font>
+
+62
+00:03:44,569 --> 00:03:45,599
+<font color="yellow">Okay.</font>
+
+63
+00:03:48,539 --> 00:03:50,499
+<font color="yellow">It all worked out.</font>
+
+64
+00:03:50,640 --> 00:03:51,900
+<font color="yellow">Let's see.</font>
+
+65
+00:03:51,900 --> 00:03:53,700
+<font color="yellow">- We must pick a date. - Right.</font>
+
+66
+00:03:53,700 --> 00:03:55,770
+<font color="yellow">- Rat, cow, tiger, rabbit... - Eight more come after that.</font>
+
+67
+00:03:55,770 --> 00:03:58,240
+<font color="yellow">We already set the date. It's this Saturday.</font>
+
+68
+00:03:58,369 --> 00:04:01,569
+<font color="yellow">This Saturday? What's with the rush?</font>
+
+69
+00:04:01,869 --> 00:04:03,339
+<font color="yellow">Did you book a wedding hall already?</font>
+
+70
+00:04:03,339 --> 00:04:05,999
+<font color="yellow">A friend of mine owns a café nearby.</font>
+
+71
+00:04:05,999 --> 00:04:08,770
+<font color="yellow">I called him a while ago and rented the place for a day.</font>
+
+72
+00:04:08,770 --> 00:04:10,599
+<font color="yellow">A café? Not a wedding hall?</font>
+
+73
+00:04:10,599 --> 00:04:13,099
+<font color="yellow">Small weddings are trending these days.</font>
+
+74
+00:04:13,099 --> 00:04:14,909
+<font color="yellow">It's all fine for you...</font>
+
+75
+00:04:14,909 --> 00:04:18,270
+<font color="yellow">but it's Jun's first wedding. Don't you mind?</font>
+
+76
+00:04:18,739 --> 00:04:20,070
+<font color="yellow">Why would I?</font>
+
+77
+00:04:20,070 --> 00:04:21,870
+<font color="yellow">I have to buy a house, marry off Da Jeong...</font>
+
+78
+00:04:21,870 --> 00:04:24,909
+<font color="yellow">and start saving up. I can't do what everyone else does.</font>
+
+79
+00:04:24,909 --> 00:04:27,909
+<font color="yellow">We can invite our close friends and enjoy a lovely meal together.</font>
+
+80
+00:04:28,870 --> 00:04:30,969
+<font color="yellow">He's grown up a lot.</font>
+
+81
+00:04:30,969 --> 00:04:33,000
+<font color="yellow">- He has. - Mother.</font>
+
+82
+00:04:33,469 --> 00:04:36,839
+<font color="yellow">It's me. Can you open the door?</font>
+
+83
+00:04:36,969 --> 00:04:38,039
+<font color="yellow">Who's that?</font>
+
+84
+00:04:38,739 --> 00:04:40,339
+<font color="yellow">It sounds like Hyo Joo.</font>
+
+85
+00:04:44,909 --> 00:04:46,039
+<font color="yellow">You reek of alcohol.</font>
+
+86
+00:04:46,039 --> 00:04:47,969
+<font color="yellow">Hello, Dong Sook.</font>
+
+87
+00:04:47,969 --> 00:04:50,070
+<font color="yellow">What are you doing here?</font>
+
+88
+00:04:50,070 --> 00:04:54,739
+<font color="yellow">I have something to tell your parents.</font>
+
+89
+00:04:55,570 --> 00:04:57,500
+<font color="yellow">Father, Mother.</font>
+
+90
+00:04:57,969 --> 00:04:59,500
+<font color="yellow">I'm here.</font>
+
+91
+00:05:02,000 --> 00:05:05,409
+<font color="yellow">You had way too much to drink. You need to sober up.</font>
+
+92
+00:05:14,200 --> 00:05:16,169
+<font color="yellow">If you came here so late at night...</font>
+
+93
+00:05:16,169 --> 00:05:18,270
+<font color="yellow">it means you have important news.</font>
+
+94
+00:05:18,669 --> 00:05:20,339
+<font color="yellow">What do you have to say?</font>
+
+95
+00:05:21,669 --> 00:05:23,739
+<font color="yellow">Talk to Dong Jin for me.</font>
+
+96
+00:05:23,739 --> 00:05:25,270
+<font color="yellow">What about?</font>
+
+97
+00:05:25,270 --> 00:05:27,339
+<font color="yellow">He's seeing someone.</font>
+
+98
+00:05:28,500 --> 00:05:31,299
+<font color="yellow">Dong Jin has a girlfriend?</font>
+
+99
+00:05:32,440 --> 00:05:35,469
+<font color="yellow">If I must be brutally honest, they aren't actually dating.</font>
+
+100
+00:05:35,469 --> 00:05:37,099
+<font color="yellow">She's using him.</font>
+
+101
+00:05:37,099 --> 00:05:38,469
+<font color="yellow">Who is this woman?</font>
+
+102
+00:05:38,900 --> 00:05:40,469
+<font color="yellow">It's someone you know.</font>
+
+103
+00:05:44,400 --> 00:05:47,169
+<font color="yellow">You seem to know something.</font>
+
+104
+00:05:47,299 --> 00:05:49,940
+<font color="yellow">Who is Dong Jin dating?</font>
+
+105
+00:05:51,200 --> 00:05:53,469
+<font color="yellow">I didn't mean to say I know who she is.</font>
+
+106
+00:05:53,469 --> 00:05:57,299
+<font color="yellow">I was trying to say that I was sure you'd know about it.</font>
+
+107
+00:05:57,440 --> 00:06:00,539
+<font color="yellow">Why wouldn't you know about something like that?</font>
+
+108
+00:06:01,870 --> 00:06:04,599
+<font color="yellow">What makes you think he's seeing someone?</font>
+
+109
+00:06:08,539 --> 00:06:10,370
+<font color="yellow">My mum asked you a question.</font>
+
+110
+00:06:11,039 --> 00:06:15,099
+<font color="yellow">I'm really sorry. Could you repeat the question?</font>
+
+111
+00:06:15,099 --> 00:06:17,839
+<font color="yellow">Who is Dong Jin dating?</font>
+
+112
+00:06:17,839 --> 00:06:21,270
+<font color="yellow">The woman he's dating is...</font>
+
+113
+00:06:22,940 --> 00:06:24,270
+<font color="yellow">Gosh, the rice punch...</font>
+
+114
+00:06:24,770 --> 00:06:26,570
+<font color="yellow">It's delicious. I want more.</font>
+
+115
+00:06:26,570 --> 00:06:27,739
+<font color="yellow">Oh no!</font>
+
+116
+00:06:27,739 --> 00:06:29,200
+<font color="yellow">I'm so sorry.</font>
+
+117
+00:06:29,669 --> 00:06:30,770
+<font color="yellow">My bad.</font>
+
+118
+00:06:30,770 --> 00:06:31,940
+<font color="yellow">Honey, wipe it up.</font>
+
+119
+00:06:31,940 --> 00:06:33,770
+<font color="yellow">Shut her up, I mean wipe it up.</font>
+
+120
+00:06:33,770 --> 00:06:34,839
+<font color="yellow">She's drenched.</font>
+
+121
+00:06:35,599 --> 00:06:36,739
+<font color="yellow">What a mess.</font>
+
+122
+00:06:36,739 --> 00:06:39,140
+<font color="yellow">She's so drunk she's about to pass out.</font>
+
+123
+00:06:39,140 --> 00:06:41,900
+<font color="yellow">Dong Sook, help me take her inside.</font>
+
+124
+00:06:42,070 --> 00:06:44,370
+<font color="yellow">I meant to help her.</font>
+
+125
+00:06:44,370 --> 00:06:46,700
+<font color="yellow">She had too much to drink.</font>
+
+126
+00:06:46,700 --> 00:06:48,400
+<font color="yellow">What a mess.</font>
+
+127
+00:06:48,400 --> 00:06:50,640
+<font color="yellow">Someone should wipe the floor.</font>
+
+128
+00:06:50,669 --> 00:06:53,140
+<font color="yellow">I meant to get some more punch and spilled hers.</font>
+
+129
+00:06:53,140 --> 00:06:55,070
+<font color="yellow">- You're so careless. - I am.</font>
+
+130
+00:06:55,070 --> 00:06:56,270
+<font color="yellow">Have some of mine.</font>
+
+131
+00:06:56,599 --> 00:06:57,669
+<font color="yellow">Thanks.</font>
+
+132
+00:07:05,270 --> 00:07:08,270
+<font color="yellow">Dong Jin will be furious when he finds out...</font>
+
+133
+00:07:08,270 --> 00:07:10,270
+<font color="yellow">that we let Hyo Joo sleep over.</font>
+
+134
+00:07:23,940 --> 00:07:25,099
+<font color="yellow">Hello?</font>
+
+135
+00:07:25,099 --> 00:07:26,270
+<font color="yellow">It's me.</font>
+
+136
+00:07:27,200 --> 00:07:29,570
+<font color="yellow">I can't believe you called me at this hour.</font>
+
+137
+00:07:30,440 --> 00:07:31,599
+<font color="yellow">What's the occasion?</font>
+
+138
+00:07:31,599 --> 00:07:34,169
+<font color="yellow">I didn't call because I wanted to.</font>
+
+139
+00:07:34,799 --> 00:07:37,370
+<font color="yellow">Come over here and get your daughter.</font>
+
+140
+00:07:37,469 --> 00:07:38,940
+<font color="yellow">Hyo Joo's over there?</font>
+
+141
+00:07:38,940 --> 00:07:41,570
+<font color="yellow">She had too much to drink and passed out.</font>
+
+142
+00:07:41,570 --> 00:07:44,140
+<font color="yellow">I thought she had more pride than to go over there.</font>
+
+143
+00:07:44,700 --> 00:07:46,299
+<font color="yellow">She's in way too deep.</font>
+
+144
+00:07:46,299 --> 00:07:47,900
+<font color="yellow">Come and get her.</font>
+
+145
+00:07:48,640 --> 00:07:50,870
+<font color="yellow">It's too late to go over there.</font>
+
+146
+00:07:50,870 --> 00:07:52,539
+<font color="yellow">Let her sleep with Dong Jin.</font>
+
+147
+00:07:52,570 --> 00:07:54,469
+<font color="yellow">What kind of nonsense is that?</font>
+
+148
+00:07:55,339 --> 00:07:56,500
+<font color="yellow">It'd be good...</font>
+
+149
+00:07:57,270 --> 00:07:58,669
+<font color="yellow">to take this as an opportunity...</font>
+
+150
+00:07:58,669 --> 00:08:00,969
+<font color="yellow">to help Hyo Joo and Dong Jin get back together.</font>
+
+151
+00:08:01,270 --> 00:08:03,239
+<font color="yellow">What on earth are you talking about?</font>
+
+152
+00:08:03,770 --> 00:08:04,839
+<font color="yellow">I think Hyo Joo...</font>
+
+153
+00:08:05,239 --> 00:08:07,400
+<font color="yellow">still misses Dong Jin.</font>
+
+154
+00:08:07,469 --> 00:08:09,770
+<font color="yellow">Let's just help the two of them...</font>
+
+155
+00:08:10,070 --> 00:08:11,570
+<font color="yellow">get reunited.</font>
+
+156
+00:08:11,570 --> 00:08:14,270
+<font color="yellow">If they reunite, it's their decision. But not like this.</font>
+
+157
+00:08:15,099 --> 00:08:16,200
+<font color="yellow">Do whatever you want, then.</font>
+
+158
+00:08:16,700 --> 00:08:18,039
+<font color="yellow">I'm tired, so I should go to bed now.</font>
+
+159
+00:08:18,839 --> 00:08:20,500
+<font color="yellow">Hello? Hello?</font>
+
+160
+00:08:22,070 --> 00:08:24,469
+<font color="yellow">What happened? Did Eun Sook hang up on you?</font>
+
+161
+00:08:24,599 --> 00:08:25,640
+<font color="yellow">How dare she.</font>
+
+162
+00:08:26,669 --> 00:08:29,839
+<font color="yellow">She's so rude. How can she hang up on me?</font>
+
+163
+00:08:31,510 --> 00:08:32,539
+<font color="yellow">Hello?</font>
+
+164
+00:08:33,240 --> 00:08:34,439
+<font color="yellow">Did I wake you up?</font>
+
+165
+00:08:34,439 --> 00:08:35,569
+<font color="yellow">No.</font>
+
+166
+00:08:35,970 --> 00:08:37,970
+<font color="yellow">- I was having a beer. - What?</font>
+
+167
+00:08:38,939 --> 00:08:40,970
+<font color="yellow">You should have told me earlier if you wanted to drink.</font>
+
+168
+00:08:41,069 --> 00:08:43,240
+<font color="yellow">I'm not drinking it because I want to.</font>
+
+169
+00:08:43,240 --> 00:08:46,270
+<font color="yellow">It's free, you know. I don't want to waste it.</font>
+
+170
+00:08:46,470 --> 00:08:47,539
+<font color="yellow">I see.</font>
+
+171
+00:08:48,340 --> 00:08:51,240
+<font color="yellow">Liking freebies too much makes you go bald. Don't drink too much.</font>
+
+172
+00:08:51,699 --> 00:08:52,970
+<font color="yellow">And don't open the door for anyone.</font>
+
+173
+00:08:52,970 --> 00:08:54,140
+<font color="yellow">All right.</font>
+
+174
+00:08:54,439 --> 00:08:55,799
+<font color="yellow">I'm not a kid.</font>
+
+175
+00:08:56,370 --> 00:08:58,439
+<font color="yellow">In my eyes, you look like a three-year-old kid.</font>
+
+176
+00:08:58,939 --> 00:09:00,470
+<font color="yellow">Don't drink too much and go to bed early.</font>
+
+177
+00:09:01,340 --> 00:09:02,340
+<font color="yellow">Okay.</font>
+
+178
+00:09:06,439 --> 00:09:07,470
+<font color="yellow">I'm home!</font>
+
+179
+00:09:09,799 --> 00:09:12,140
+<font color="yellow">Dong Jin, come over to our room.</font>
+
+180
+00:09:13,699 --> 00:09:14,699
+<font color="yellow">Okay, Dad.</font>
+
+181
+00:09:16,900 --> 00:09:18,900
+<font color="yellow">She said she knows that she's at fault.</font>
+
+182
+00:09:19,470 --> 00:09:20,840
+<font color="yellow">She kept apologising.</font>
+
+183
+00:09:21,240 --> 00:09:23,770
+<font color="yellow">So you should also think about it again carefully.</font>
+
+184
+00:09:24,069 --> 00:09:25,900
+<font color="yellow">She was your wife, you know.</font>
+
+185
+00:09:25,900 --> 00:09:28,840
+<font color="yellow">It's not easy for two people to get married,</font>
+
+186
+00:09:29,010 --> 00:09:30,840
+<font color="yellow">and completely ending the relationship is as hard.</font>
+
+187
+00:09:31,340 --> 00:09:33,010
+<font color="yellow">It's already over, Dad.</font>
+
+188
+00:09:33,299 --> 00:09:36,370
+<font color="yellow">We don't have any affection left for each other.</font>
+
+189
+00:09:36,539 --> 00:09:39,539
+<font color="yellow">I don't think she feels that way.</font>
+
+190
+00:09:39,870 --> 00:09:42,169
+<font color="yellow">I'm sure she's just saying it.</font>
+
+191
+00:09:42,400 --> 00:09:43,439
+<font color="yellow">I should head over to my room.</font>
+
+192
+00:09:43,740 --> 00:09:44,799
+<font color="yellow">Dong Jin.</font>
+
+193
+00:09:45,340 --> 00:09:46,400
+<font color="yellow">By any chance,</font>
+
+194
+00:09:48,039 --> 00:09:49,240
+<font color="yellow">are you seeing someone...</font>
+
+195
+00:09:51,539 --> 00:09:52,569
+<font color="yellow">Never mind.</font>
+
+196
+00:09:53,470 --> 00:09:55,100
+<font color="yellow">You must be tired. Wash up and go to bed.</font>
+
+197
+00:09:56,569 --> 00:09:57,640
+<font color="yellow">Okay.</font>
+
+198
+00:10:05,240 --> 00:10:06,699
+<font color="yellow">Do you think...</font>
+
+199
+00:10:06,699 --> 00:10:09,140
+<font color="yellow">Dong Jin is seeing someone now as Hyo Joo said?</font>
+
+200
+00:10:10,569 --> 00:10:11,900
+<font color="yellow">I don't know.</font>
+
+201
+00:10:12,270 --> 00:10:13,510
+<font color="yellow">Let's not say anything to him...</font>
+
+202
+00:10:14,199 --> 00:10:15,370
+<font color="yellow">and just observe the situation.</font>
+
+203
+00:10:16,010 --> 00:10:19,770
+<font color="yellow">He's wise enough, and he can look after himself.</font>
+
+204
+00:10:31,370 --> 00:10:33,240
+<font color="yellow">You literally insulted Tae Yang.</font>
+
+205
+00:10:33,699 --> 00:10:36,539
+<font color="yellow">How can you drink the plum wine his mum made?</font>
+
+206
+00:10:36,640 --> 00:10:37,939
+<font color="yellow">I never insulted him.</font>
+
+207
+00:10:38,640 --> 00:10:40,470
+<font color="yellow">I just spoke the truth.</font>
+
+208
+00:10:42,199 --> 00:10:44,270
+<font color="yellow">He'll figure out everything on his own,</font>
+
+209
+00:10:44,270 --> 00:10:45,770
+<font color="yellow">so don't meddle in his business.</font>
+
+210
+00:10:47,100 --> 00:10:48,400
+<font color="yellow">Is that why he is...</font>
+
+211
+00:10:48,400 --> 00:10:49,840
+<font color="yellow">- working at the burger place? - Mum!</font>
+
+212
+00:10:50,600 --> 00:10:52,439
+<font color="yellow">Madam Ko, Mr Min...</font>
+
+213
+00:10:52,640 --> 00:10:54,500
+<font color="yellow">is here with the announcer, Choi Ji Yun.</font>
+
+214
+00:10:56,299 --> 00:10:58,169
+<font color="yellow">- Put this away, please. - Yes, Ma'am.</font>
+
+215
+00:11:01,939 --> 00:11:04,500
+<font color="yellow">Why did he bring her home at this late hour? What a nuisance.</font>
+
+216
+00:11:04,500 --> 00:11:07,500
+<font color="yellow">Let Hyo Sang marry her.</font>
+
+217
+00:11:07,500 --> 00:11:10,770
+<font color="yellow">You were dead against it until recently. What's gotten into you?</font>
+
+218
+00:11:10,900 --> 00:11:13,439
+<font color="yellow">I want him to get married soon so that I can get married, too.</font>
+
+219
+00:11:14,669 --> 00:11:15,699
+<font color="yellow">Goodness.</font>
+
+220
+00:11:16,770 --> 00:11:17,840
+<font color="yellow">Mum.</font>
+
+221
+00:11:18,169 --> 00:11:19,340
+<font color="yellow">Good to see you.</font>
+
+222
+00:11:20,970 --> 00:11:22,000
+<font color="yellow">Have you been well?</font>
+
+223
+00:11:22,799 --> 00:11:24,000
+<font color="yellow">Hello, Madam Ko.</font>
+
+224
+00:11:24,000 --> 00:11:25,299
+<font color="yellow">What brings you here this late?</font>
+
+225
+00:11:26,140 --> 00:11:28,100
+<font color="yellow">Hyo Sang and I went to a café for dessert...</font>
+
+226
+00:11:28,199 --> 00:11:31,270
+<font color="yellow">and bought this delicious cake for you.</font>
+
+227
+00:11:31,569 --> 00:11:32,740
+<font color="yellow">You should try it.</font>
+
+228
+00:11:34,740 --> 00:11:37,640
+<font color="yellow">How do you expect me to eat cake at this hour?</font>
+
+229
+00:11:38,539 --> 00:11:40,500
+<font color="yellow">You're so tactless.</font>
+
+230
+00:11:42,370 --> 00:11:44,470
+<font color="yellow">My mum is on a diet all year long.</font>
+
+231
+00:11:45,600 --> 00:11:46,640
+<font color="yellow">Gosh.</font>
+
+232
+00:11:46,640 --> 00:11:48,699
+<font color="yellow">You have so much self-discipline.</font>
+
+233
+00:11:49,569 --> 00:11:50,970
+<font color="yellow">I have huge respect for you.</font>
+
+234
+00:11:51,840 --> 00:11:54,299
+<font color="yellow">Every time you open your mouth,</font>
+
+235
+00:11:54,299 --> 00:11:56,740
+<font color="yellow">you butter me up like there's no tomorrow.</font>
+
+236
+00:11:56,740 --> 00:11:58,400
+<font color="yellow">I'm not trying to butter you up.</font>
+
+237
+00:11:58,799 --> 00:12:00,039
+<font color="yellow">I really mean it.</font>
+
+238
+00:12:01,199 --> 00:12:02,270
+<font color="yellow">Mum,</font>
+
+239
+00:12:02,870 --> 00:12:04,000
+<font color="yellow">spare me a second.</font>
+
+240
+00:12:14,970 --> 00:12:16,000
+<font color="yellow">Have a seat.</font>
+
+241
+00:12:29,370 --> 00:12:31,140
+<font color="yellow">I've been feeling this for a while now.</font>
+
+242
+00:12:33,140 --> 00:12:34,669
+<font color="yellow">You're playing favourites.</font>
+
+243
+00:12:35,270 --> 00:12:37,900
+<font color="yellow">You're nice to Tae Yang, and you even fixed dinner for him.</font>
+
+244
+00:12:38,000 --> 00:12:40,669
+<font color="yellow">Why are you so cold to Ji Yun?</font>
+
+245
+00:12:40,799 --> 00:12:42,699
+<font color="yellow">You try to embarrass her any chance you get.</font>
+
+246
+00:12:43,400 --> 00:12:45,770
+<font color="yellow">She has a way with words because of her job as an announcer.</font>
+
+247
+00:12:46,340 --> 00:12:47,439
+<font color="yellow">For some reason,</font>
+
+248
+00:12:47,640 --> 00:12:50,299
+<font color="yellow">what she tells me doesn't sound sincere.</font>
+
+249
+00:12:51,539 --> 00:12:53,240
+<font color="yellow">It just sounds like she's trying to flatter me.</font>
+
+250
+00:12:53,669 --> 00:12:56,939
+<font color="yellow">You're judging her based on your biased viewpoint.</font>
+
+251
+00:13:02,370 --> 00:13:04,140
+<font color="yellow">How did you and your boyfriend meet?</font>
+
+252
+00:13:04,240 --> 00:13:06,169
+<font color="yellow">When he came to Meesa Apparel for a job interview,</font>
+
+253
+00:13:06,299 --> 00:13:07,539
+<font color="yellow">I met him in the women's wash room.</font>
+
+254
+00:13:09,240 --> 00:13:10,370
+<font color="yellow">In the women's wash room?</font>
+
+255
+00:13:10,370 --> 00:13:12,270
+<font color="yellow">Yes. Some stuff happened.</font>
+
+256
+00:13:12,970 --> 00:13:14,799
+<font color="yellow">So he was there for a job interview.</font>
+
+257
+00:13:14,799 --> 00:13:17,069
+<font color="yellow">Does he work for Meesa Apparel now?</font>
+
+258
+00:13:17,169 --> 00:13:19,299
+<font color="yellow">He used to work with me in the TF team,</font>
+
+259
+00:13:19,299 --> 00:13:20,740
+<font color="yellow">but he resigned recently.</font>
+
+260
+00:13:21,640 --> 00:13:22,939
+<font color="yellow">The TF team?</font>
+
+261
+00:13:22,939 --> 00:13:24,140
+<font color="yellow">Do you want to see a photo of him?</font>
+
+262
+00:13:24,140 --> 00:13:26,400
+<font color="yellow">- Sorry? Sure. - Just a second.</font>
+
+263
+00:13:30,569 --> 00:13:31,640
+<font color="yellow">Ta-da!</font>
+
+264
+00:13:33,100 --> 00:13:34,640
+<font color="yellow">Isn't he so handsome?</font>
+
+265
+00:13:37,000 --> 00:13:40,199
+<font color="yellow">I... I think I forgot something at work.</font>
+
+266
+00:13:40,370 --> 00:13:41,770
+<font color="yellow">I should get going now.</font>
+
+267
+00:13:54,169 --> 00:13:55,799
+<font color="yellow">- Hello? - It's me, Ji Yun.</font>
+
+268
+00:13:55,799 --> 00:13:57,470
+<font color="yellow">- What's up? - Meet me here now.</font>
+
+269
+00:13:57,840 --> 00:13:59,039
+<font color="yellow">I'm at the café near the gosiwon.</font>
+
+270
+00:13:59,039 --> 00:14:00,169
+<font color="yellow">I have no reason to meet you.</font>
+
+271
+00:14:00,169 --> 00:14:01,870
+<font color="yellow">I'll wait until you come.</font>
+
+272
+00:14:21,370 --> 00:14:23,939
+<font color="yellow">I didn't know that you were this vindictive and menacing.</font>
+
+273
+00:14:30,069 --> 00:14:33,299
+<font color="yellow">- What are you talking about? - You got into Meesa Apparel...</font>
+
+274
+00:14:34,240 --> 00:14:36,500
+<font color="yellow">to hover around me and even approached Hyo Sang's sister.</font>
+
+275
+00:14:36,600 --> 00:14:38,169
+<font color="yellow">I can understand why you think that way,</font>
+
+276
+00:14:39,470 --> 00:14:41,340
+<font color="yellow">but I didn't approach Hyo Won because of you.</font>
+
+277
+00:14:41,539 --> 00:14:43,199
+<font color="yellow">My feelings for her have nothing to do with you.</font>
+
+278
+00:14:44,240 --> 00:14:45,400
+<font color="yellow">Don't lie to my face.</font>
+
+279
+00:14:45,400 --> 00:14:47,069
+<font color="yellow">You're being delusional, Ji Yun.</font>
+
+280
+00:14:47,270 --> 00:14:49,169
+<font color="yellow">You don't mean anything to me any more.</font>
+
+281
+00:14:50,100 --> 00:14:53,100
+<font color="yellow">I don't have time to do things just to get back at you,</font>
+
+282
+00:14:53,100 --> 00:14:55,100
+<font color="yellow">so don't even worry...</font>
+
+283
+00:14:55,699 --> 00:14:56,840
+<font color="yellow">and just go home.</font>
+
+284
+00:14:59,669 --> 00:15:00,870
+<font color="yellow">Break up with her.</font>
+
+285
+00:15:04,740 --> 00:15:06,240
+<font color="yellow">Break up with Hyo Won.</font>
+
+286
+00:15:06,640 --> 00:15:08,140
+<font color="yellow">I like Hyo Sang,</font>
+
+287
+00:15:08,799 --> 00:15:10,870
+<font color="yellow">so you dating his sister is just nonsense.</font>
+
+288
+00:15:11,640 --> 00:15:12,669
+<font color="yellow">End it for me, please.</font>
+
+289
+00:15:12,770 --> 00:15:13,799
+<font color="yellow">Are you telling me...</font>
+
+290
+00:15:14,299 --> 00:15:16,470
+<font color="yellow">to give up on someone I love for your sake?</font>
+
+291
+00:15:17,370 --> 00:15:19,500
+<font color="yellow">How can you think that you have the right to say such a thing?</font>
+
+292
+00:15:20,039 --> 00:15:22,270
+<font color="yellow">- Tae Yang. - I love Hyo Won,</font>
+
+293
+00:15:22,699 --> 00:15:23,939
+<font color="yellow">and I'll never break up with her.</font>
+
+294
+00:15:24,939 --> 00:15:27,370
+<font color="yellow">So go ahead and break up with Mr Min if all of this bothers you.</font>
+
+295
+00:15:27,900 --> 00:15:29,669
+<font color="yellow">How can you do this to me?</font>
+
+296
+00:15:31,900 --> 00:15:33,400
+<font color="yellow">Why? Did you think...</font>
+
+297
+00:15:34,299 --> 00:15:36,439
+<font color="yellow">that I'd always make sacrifices for you?</font>
+
+298
+00:15:37,140 --> 00:15:39,240
+<font color="yellow">- Tae Yang. - I have changed.</font>
+
+299
+00:15:40,400 --> 00:15:41,439
+<font color="yellow">So...</font>
+
+300
+00:15:42,699 --> 00:15:44,770
+<font color="yellow">do not force me to comply with your unreasonable requests.</font>
+
+301
+00:15:45,740 --> 00:15:46,770
+<font color="yellow">It won't work.</font>
+
+302
+00:15:49,770 --> 00:15:51,569
+<font color="yellow">I cannot break up with Hyo Sang.</font>
+
+303
+00:15:52,500 --> 00:15:55,240
+<font color="yellow">You're the one who will end up with a broken heart once again.</font>
+
+304
+00:16:22,199 --> 00:16:23,270
+<font color="yellow">Hey, Hyo Won.</font>
+
+305
+00:16:23,699 --> 00:16:25,100
+<font color="yellow">- What are you doing now? - Well...</font>
+
+306
+00:16:25,569 --> 00:16:27,939
+<font color="yellow">I had to quickly meet up with someone I know. I just got in.</font>
+
+307
+00:16:28,240 --> 00:16:30,069
+<font color="yellow">Why do you sound so down, though?</font>
+
+308
+00:16:30,270 --> 00:16:31,500
+<font color="yellow">What do you mean?</font>
+
+309
+00:16:31,539 --> 00:16:33,970
+<font color="yellow">You sound very upset.</font>
+
+310
+00:16:34,669 --> 00:16:36,699
+<font color="yellow">- Did you have a fight with someone? - No, not at all.</font>
+
+311
+00:16:37,439 --> 00:16:38,439
+<font color="yellow">Hyo Won.</font>
+
+312
+00:16:39,439 --> 00:16:41,370
+<font color="yellow">Let's meet tomorrow. I have something to tell you.</font>
+
+313
+00:16:41,439 --> 00:16:43,470
+<font color="yellow">Sure thing. You don't even need to ask me.</font>
+
+314
+00:16:43,870 --> 00:16:45,870
+<font color="yellow">Tomorrow, the day after tomorrow and the day after that.</font>
+
+315
+00:16:45,870 --> 00:16:46,970
+<font color="yellow">We'll meet every day, of course.</font>
+
+316
+00:16:49,600 --> 00:16:53,370
+<font color="yellow">I'd love to stay right by your side 24 hours a day.</font>
+
+317
+00:16:54,470 --> 00:16:56,640
+<font color="yellow">If you actually have to do that,</font>
+
+318
+00:16:56,640 --> 00:16:58,270
+<font color="yellow">you'll get sick of me and run away.</font>
+
+319
+00:16:58,439 --> 00:17:00,669
+<font color="yellow">Not a chance. That will never happen.</font>
+
+320
+00:17:02,240 --> 00:17:05,239
+<font color="yellow">I should pester my mum to let my brother get married soon.</font>
+
+321
+00:17:05,400 --> 00:17:07,840
+<font color="yellow">He has to go so that we can get married soon.</font>
+
+322
+00:17:08,370 --> 00:17:10,370
+<font color="yellow">I want to marry you as soon as possible...</font>
+
+323
+00:17:10,439 --> 00:17:12,709
+<font color="yellow">and have many babies with you.</font>
+
+324
+00:17:12,709 --> 00:17:14,040
+<font color="yellow">I want our family to live happily.</font>
+
+325
+00:17:20,969 --> 00:17:23,540
+<font color="yellow">What are you doing? Did you not hear what I just said?</font>
+
+326
+00:17:23,800 --> 00:17:27,669
+<font color="yellow">"I also want an adorable daughter who looks just like you."</font>
+
+327
+00:17:27,870 --> 00:17:29,439
+<font color="yellow">Shouldn't you be saying that?</font>
+
+328
+00:17:31,669 --> 00:17:33,999
+<font color="yellow">Gosh, are you really not going to say anything?</font>
+
+329
+00:17:35,499 --> 00:17:36,709
+<font color="yellow">I'd love to, of course.</font>
+
+330
+00:17:38,669 --> 00:17:40,300
+<font color="yellow">It'll happen soon,</font>
+
+331
+00:17:40,769 --> 00:17:41,769
+<font color="yellow">Honey.</font>
+
+332
+00:17:48,209 --> 00:17:50,100
+<font color="yellow">I don't want Hyo Won to get hurt.</font>
+
+333
+00:17:51,269 --> 00:17:52,469
+<font color="yellow">How should I tell her?</font>
+
+334
+00:17:55,209 --> 00:17:59,800
+<font color="yellow">I'm just looking at you</font>
+
+335
+00:18:00,900 --> 00:18:05,070
+<font color="yellow">I'm just waiting for an opening</font>
+
+336
+00:18:05,169 --> 00:18:07,070
+<font color="yellow">- Sam Do. - Welcome to Wol...</font>
+
+337
+00:18:07,640 --> 00:18:08,709
+<font color="yellow">Young Eun.</font>
+
+338
+00:18:10,939 --> 00:18:12,239
+<font color="yellow">Nice to meet you.</font>
+
+339
+00:18:12,300 --> 00:18:14,370
+<font color="yellow">I'm Han Gyu Sung and I study Business...</font>
+
+340
+00:18:14,370 --> 00:18:16,370
+<font color="yellow">at the same college Young Eun goes to.</font>
+
+341
+00:18:16,370 --> 00:18:17,669
+<font color="yellow">I heard a lot about you.</font>
+
+342
+00:18:18,239 --> 00:18:20,100
+<font color="yellow">You must be her friend.</font>
+
+343
+00:18:20,100 --> 00:18:22,540
+<font color="yellow">Yes. We met a few months ago...</font>
+
+344
+00:18:22,540 --> 00:18:24,499
+<font color="yellow">through a mutual friend and we're dating now.</font>
+
+345
+00:18:29,370 --> 00:18:31,540
+<font color="yellow">- Are you? - Young Eun said...</font>
+
+346
+00:18:31,540 --> 00:18:34,900
+<font color="yellow">she wanted your permission and that's why we're here.</font>
+
+347
+00:18:36,140 --> 00:18:38,769
+<font color="yellow">Please let me date Young Eun.</font>
+
+348
+00:18:41,209 --> 00:18:42,939
+<font color="yellow">I'm in no position to do that.</font>
+
+349
+00:18:42,939 --> 00:18:45,400
+<font color="yellow">I want to marry Young Eun and take her...</font>
+
+350
+00:18:45,400 --> 00:18:46,999
+<font color="yellow">to America to study.</font>
+
+351
+00:18:48,669 --> 00:18:49,739
+<font color="yellow">You'll marry her?</font>
+
+352
+00:19:01,370 --> 00:19:03,169
+<font color="yellow">No, don't go, Young Eun.</font>
+
+353
+00:19:09,939 --> 00:19:11,439
+<font color="yellow">What's he saying?</font>
+
+354
+00:19:11,439 --> 00:19:12,969
+<font color="yellow">Don't go abroad, Young Eun.</font>
+
+355
+00:19:12,969 --> 00:19:15,709
+<font color="yellow">Stay here with me in Korea.</font>
+
+356
+00:19:16,269 --> 00:19:17,469
+<font color="yellow">Young Eun?</font>
+
+357
+00:19:18,499 --> 00:19:20,600
+<font color="yellow">Is he dreaming of his first love?</font>
+
+358
+00:19:20,669 --> 00:19:24,070
+<font color="yellow">How am I supposed to live without you?</font>
+
+359
+00:19:26,340 --> 00:19:28,800
+<font color="yellow">You have Bok Sun Nyeo now.</font>
+
+360
+00:19:28,800 --> 00:19:30,370
+<font color="yellow">Bok Sun Nyeo?</font>
+
+361
+00:19:30,370 --> 00:19:32,709
+<font color="yellow">Don't go, Young Eun.</font>
+
+362
+00:19:33,499 --> 00:19:35,999
+<font color="yellow">- Don't go. - Wake up!</font>
+
+363
+00:19:36,209 --> 00:19:37,340
+<font color="yellow">Get a grip.</font>
+
+364
+00:19:37,340 --> 00:19:40,439
+<font color="yellow">What do you think you're doing to someone who's asleep?</font>
+
+365
+00:19:40,439 --> 00:19:42,269
+<font color="yellow">That's what I want to ask you.</font>
+
+366
+00:19:42,269 --> 00:19:45,070
+<font color="yellow">What are you doing with Young Eun in your dream...</font>
+
+367
+00:19:45,070 --> 00:19:47,640
+<font color="yellow">that makes you want to cry out?</font>
+
+368
+00:19:49,900 --> 00:19:50,939
+<font color="yellow">Young Eun?</font>
+
+369
+00:19:51,540 --> 00:19:53,209
+<font color="yellow">There's no way out.</font>
+
+370
+00:19:53,209 --> 00:19:55,140
+<font color="yellow">I heard you loud and clear.</font>
+
+371
+00:19:56,439 --> 00:19:57,900
+<font color="yellow">I have no recollection.</font>
+
+372
+00:19:58,499 --> 00:20:01,209
+<font color="yellow">How could you call out your first love's name...</font>
+
+373
+00:20:01,209 --> 00:20:03,209
+<font color="yellow">when your wife is sleeping right next to you?</font>
+
+374
+00:20:03,209 --> 00:20:05,370
+<font color="yellow">Do you expect me to let you live?</font>
+
+375
+00:20:05,570 --> 00:20:08,640
+<font color="yellow">- You misheard what I said. - I did not.</font>
+
+376
+00:20:10,340 --> 00:20:11,370
+<font color="yellow">Hang on.</font>
+
+377
+00:20:13,739 --> 00:20:16,100
+<font color="yellow">Have you been seeing Young Eun or Eun Young,</font>
+
+378
+00:20:16,469 --> 00:20:17,900
+<font color="yellow">whatever the woman's called?</font>
+
+379
+00:20:18,499 --> 00:20:19,969
+<font color="yellow">Now you're the one dreaming.</font>
+
+380
+00:20:19,969 --> 00:20:23,669
+<font color="yellow">Why else would you dream of her and call her name?</font>
+
+381
+00:20:24,469 --> 00:20:26,999
+<font color="yellow">Calm down, honey. Young Eun...</font>
+
+382
+00:20:26,999 --> 00:20:29,169
+<font color="yellow">got married and went abroad with her husband.</font>
+
+383
+00:20:29,169 --> 00:20:31,269
+<font color="yellow">I haven't met up with her...</font>
+
+384
+00:20:31,269 --> 00:20:33,540
+<font color="yellow">or even seen her since then.</font>
+
+385
+00:20:33,540 --> 00:20:35,169
+<font color="yellow">I haven't even talked to her.</font>
+
+386
+00:20:35,870 --> 00:20:37,969
+<font color="yellow">- Is that true? - Of course it is.</font>
+
+387
+00:20:38,939 --> 00:20:40,469
+<font color="yellow">This better not be a lie.</font>
+
+388
+00:20:40,469 --> 00:20:41,570
+<font color="yellow">It's not.</font>
+
+389
+00:20:42,939 --> 00:20:44,870
+<font color="yellow">Why did you dream of her?</font>
+
+390
+00:20:45,269 --> 00:20:46,300
+<font color="yellow">Is she pretty?</font>
+
+391
+00:20:46,300 --> 00:20:47,600
+<font color="yellow">Yes. I mean who?</font>
+
+392
+00:20:48,340 --> 00:20:50,439
+<font color="yellow">The Young Eun or Eun Young woman.</font>
+
+393
+00:20:50,439 --> 00:20:51,939
+<font color="yellow">Is she prettier than me?</font>
+
+394
+00:20:53,100 --> 00:20:55,300
+<font color="yellow">If she were prettier, I'd have married her,</font>
+
+395
+00:20:55,300 --> 00:20:56,769
+<font color="yellow">not you, wouldn't I?</font>
+
+396
+00:20:58,570 --> 00:20:59,969
+<font color="yellow">I told you that...</font>
+
+397
+00:20:59,969 --> 00:21:03,269
+<font color="yellow">you are my ideal woman. You're my dream woman.</font>
+
+398
+00:21:03,370 --> 00:21:04,739
+<font color="yellow">You never said that.</font>
+
+399
+00:21:05,870 --> 00:21:07,100
+<font color="yellow">Must I...</font>
+
+400
+00:21:07,570 --> 00:21:09,370
+<font color="yellow">say things for it to be known?</font>
+
+401
+00:21:09,370 --> 00:21:12,169
+<font color="yellow">A man speaks from the heart.</font>
+
+402
+00:21:13,800 --> 00:21:17,840
+<font color="yellow">Don't you dare meet up with her even in your dreams, okay?</font>
+
+403
+00:21:18,169 --> 00:21:19,209
+<font color="yellow">Okay.</font>
+
+404
+00:21:19,439 --> 00:21:20,800
+<font color="yellow">Dream of me.</font>
+
+405
+00:21:21,709 --> 00:21:22,999
+<font color="yellow">You bet I will.</font>
+
+406
+00:21:23,769 --> 00:21:25,439
+<font color="yellow">Let's go back to sleep.</font>
+
+407
+00:21:47,400 --> 00:21:48,499
+<font color="yellow">I'm sorry.</font>
+
+408
+00:21:49,199 --> 00:21:50,800
+<font color="yellow">I was too drunk.</font>
+
+409
+00:21:51,669 --> 00:21:52,769
+<font color="yellow">Do you want coffee?</font>
+
+410
+00:21:53,070 --> 00:21:54,100
+<font color="yellow">No thanks.</font>
+
+411
+00:22:07,570 --> 00:22:08,870
+<font color="yellow">What time...</font>
+
+412
+00:22:09,769 --> 00:22:11,370
+<font color="yellow">did you come home last night?</font>
+
+413
+00:22:12,769 --> 00:22:13,800
+<font color="yellow">Did you...</font>
+
+414
+00:22:15,640 --> 00:22:16,840
+<font color="yellow">sleep with her?</font>
+
+415
+00:22:17,800 --> 00:22:19,600
+<font color="yellow">It's none of your business.</font>
+
+416
+00:22:20,199 --> 00:22:21,769
+<font color="yellow">Why isn't it?</font>
+
+417
+00:22:21,769 --> 00:22:23,300
+<font color="yellow">I'm involved.</font>
+
+418
+00:22:24,040 --> 00:22:26,969
+<font color="yellow">We're strangers now. It's over between us.</font>
+
+419
+00:22:26,969 --> 00:22:28,199
+<font color="yellow">Not to me.</font>
+
+420
+00:22:28,739 --> 00:22:30,969
+<font color="yellow">It's not over until I've had enough.</font>
+
+421
+00:22:31,400 --> 00:22:33,340
+<font color="yellow">Stop being so stubborn.</font>
+
+422
+00:22:34,100 --> 00:22:35,439
+<font color="yellow">I noticed that...</font>
+
+423
+00:22:36,199 --> 00:22:38,199
+<font color="yellow">your mum doesn't seem to know yet.</font>
+
+424
+00:22:38,340 --> 00:22:39,840
+<font color="yellow">Shall I tell her?</font>
+
+425
+00:22:41,600 --> 00:22:43,739
+<font color="yellow">What happened to your pride?</font>
+
+426
+00:22:43,999 --> 00:22:45,499
+<font color="yellow">Do you want to tattle now?</font>
+
+427
+00:22:45,499 --> 00:22:48,969
+<font color="yellow">If she were to find out you're dating someone like her,</font>
+
+428
+00:22:49,800 --> 00:22:52,340
+<font color="yellow">- she'd be so shocked. - I'll persuade her.</font>
+
+429
+00:22:52,340 --> 00:22:54,999
+<font color="yellow">You shouldn't even care about these things.</font>
+
+430
+00:22:54,999 --> 00:22:56,969
+<font color="yellow">You'll have to deal with Hong Gi Pyo first.</font>
+
+431
+00:22:57,769 --> 00:22:59,199
+<font color="yellow">How do you know him?</font>
+
+432
+00:22:59,199 --> 00:23:00,540
+<font color="yellow">I just happened to.</font>
+
+433
+00:23:01,939 --> 00:23:03,800
+<font color="yellow">When he's released from prison...</font>
+
+434
+00:23:04,300 --> 00:23:06,199
+<font color="yellow">that woman will abandon you.</font>
+
+435
+00:23:06,570 --> 00:23:08,469
+<font color="yellow">- Get a grip. - You...</font>
+
+436
+00:23:10,400 --> 00:23:11,739
+<font color="yellow">really have no clue.</font>
+
+437
+00:23:12,800 --> 00:23:16,669
+<font color="yellow">Two people in love don't abandon each other.</font>
+
+438
+00:23:18,169 --> 00:23:21,699
+<font color="yellow">You've never been in love, so you wouldn't know.</font>
+
+439
+00:23:22,600 --> 00:23:25,469
+<font color="yellow">I don't want to ruin my morning by chatting with you.</font>
+
+440
+00:23:25,469 --> 00:23:26,499
+<font color="yellow">You should go.</font>
+
+441
+00:23:30,370 --> 00:23:32,070
+<font color="yellow">He's not in his right mind.</font>
+
+442
+00:23:32,999 --> 00:23:34,199
+<font color="yellow">He's crazy.</font>
+
+443
+00:23:40,669 --> 00:23:42,239
+<font color="yellow">Hyo Joo is home.</font>
+
+444
+00:23:43,769 --> 00:23:45,769
+<font color="yellow">Your complexion changed overnight.</font>
+
+445
+00:23:46,600 --> 00:23:48,640
+<font color="yellow">Did you have a good time with Dong Jin?</font>
+
+446
+00:23:49,300 --> 00:23:50,600
+<font color="yellow">What do you mean?</font>
+
+447
+00:23:51,540 --> 00:23:53,499
+<font color="yellow">You spend the night there.</font>
+
+448
+00:23:55,800 --> 00:23:58,100
+<font color="yellow">I'm not as stuffed-up as you think.</font>
+
+449
+00:23:58,269 --> 00:24:00,640
+<font color="yellow">It's okay to miss your ex-husband.</font>
+
+450
+00:24:01,239 --> 00:24:02,499
+<font color="yellow">It wasn't like that.</font>
+
+451
+00:24:03,140 --> 00:24:04,140
+<font color="yellow">You can't fool me.</font>
+
+452
+00:24:04,640 --> 00:24:08,040
+<font color="yellow">Ms Choi called last night to tell me to pick you up.</font>
+
+453
+00:24:08,499 --> 00:24:09,999
+<font color="yellow">I refused on purpose.</font>
+
+454
+00:24:10,370 --> 00:24:12,239
+<font color="yellow">So you could have some fun.</font>
+
+455
+00:24:14,739 --> 00:24:17,070
+<font color="yellow">Do you want me to meet up with her...</font>
+
+456
+00:24:17,070 --> 00:24:18,939
+<font color="yellow">and see if she'll take you back?</font>
+
+457
+00:24:25,769 --> 00:24:27,840
+<font color="yellow">You'll just make things even worse.</font>
+
+458
+00:24:28,169 --> 00:24:29,469
+<font color="yellow">Leave me alone.</font>
+
+459
+00:24:31,699 --> 00:24:32,769
+<font color="yellow">What?</font>
+
+460
+00:24:33,169 --> 00:24:35,140
+<font color="yellow">Where are her manners?</font>
+
+461
+00:24:49,100 --> 00:24:50,199
+<font color="yellow">You idiot.</font>
+
+462
+00:24:51,140 --> 00:24:53,699
+<font color="yellow">Why did you go there and make a fool of yourself?</font>
+
+463
+00:24:54,239 --> 00:24:55,640
+<font color="yellow">You're better than that.</font>
+
+464
+00:25:06,969 --> 00:25:10,269
+<font color="yellow">I feel bad that she left without having any breakfast.</font>
+
+465
+00:25:10,269 --> 00:25:13,540
+<font color="yellow">She had a lot to drink so her insides must be hurting.</font>
+
+466
+00:25:14,140 --> 00:25:15,739
+<font color="yellow">Who? My sister-in-law?</font>
+
+467
+00:25:15,939 --> 00:25:18,540
+<font color="yellow">Dong Sook, she isn't your sister-in-law.</font>
+
+468
+00:25:20,939 --> 00:25:23,699
+<font color="yellow">Sorry. I'm so used to calling her that.</font>
+
+469
+00:25:24,570 --> 00:25:27,300
+<font color="yellow">Don't let her in from now on.</font>
+
+470
+00:25:28,140 --> 00:25:31,469
+<font color="yellow">Mum, we have an extra room, right?</font>
+
+471
+00:25:31,800 --> 00:25:34,269
+<font color="yellow">Can Yun Shil stay there for a while?</font>
+
+472
+00:25:34,269 --> 00:25:36,540
+<font color="yellow">Doesn't she have a place to stay?</font>
+
+473
+00:25:36,699 --> 00:25:39,600
+<font color="yellow">She isn't able to go there at the moment.</font>
+
+474
+00:25:40,169 --> 00:25:42,100
+<font color="yellow">What? Why not?</font>
+
+475
+00:25:42,100 --> 00:25:46,199
+<font color="yellow">Gi Pyo's mum came over and insists on staying.</font>
+
+476
+00:25:46,199 --> 00:25:48,400
+<font color="yellow">Yun Shil has nowhere to go.</font>
+
+477
+00:25:48,400 --> 00:25:50,340
+<font color="yellow">What's that woman doing in Seoul?</font>
+
+478
+00:25:50,340 --> 00:25:54,199
+<font color="yellow">She's trying to force Yun Shil to register the marriage.</font>
+
+479
+00:25:55,600 --> 00:25:58,070
+<font color="yellow">Where is she staying right now?</font>
+
+480
+00:25:58,070 --> 00:26:00,400
+<font color="yellow">At a 24-hour sauna, I think.</font>
+
+481
+00:26:00,400 --> 00:26:01,499
+<font color="yellow">Oh dear.</font>
+
+482
+00:26:02,469 --> 00:26:03,939
+<font color="yellow">Bring her over tonight.</font>
+
+483
+00:26:04,269 --> 00:26:07,169
+<font color="yellow">It's terrible to have nowhere to go in the middle of winter.</font>
+
+484
+00:26:07,300 --> 00:26:10,169
+<font color="yellow">You do that. I'll start cleaning the room after breakfast.</font>
+
+485
+00:26:10,169 --> 00:26:11,600
+<font color="yellow">It'll be ready by tonight.</font>
+
+486
+00:26:11,600 --> 00:26:13,769
+<font color="yellow">I have the morning off. I'll help you.</font>
+
+487
+00:26:13,769 --> 00:26:14,800
+<font color="yellow">Sure.</font>
+
+488
+00:26:22,100 --> 00:26:24,140
+<font color="yellow">- Did you sleep well? - Yes.</font>
+
+489
+00:26:29,999 --> 00:26:31,699
+<font color="yellow">What's all this?</font>
+
+490
+00:26:32,840 --> 00:26:35,969
+<font color="yellow">You said you already paid for everything in the fridge.</font>
+
+491
+00:26:36,070 --> 00:26:39,239
+<font color="yellow">I'm taking what's left so I don't waste your money.</font>
+
+492
+00:26:46,199 --> 00:26:47,239
+<font color="yellow">Why are you smiling?</font>
+
+493
+00:26:47,239 --> 00:26:51,300
+<font color="yellow">I lied in case you wouldn't eat when you wanted to...</font>
+
+494
+00:26:51,300 --> 00:26:53,739
+<font color="yellow">- just to save money. - What?</font>
+
+495
+00:26:53,739 --> 00:26:56,439
+<font color="yellow">I can't believe you believed me.</font>
+
+496
+00:26:57,300 --> 00:26:59,499
+<font color="yellow">I had no idea.</font>
+
+497
+00:26:59,499 --> 00:27:03,400
+<font color="yellow">I stuffed myself with beer and noodles and snacks.</font>
+
+498
+00:27:04,739 --> 00:27:06,969
+<font color="yellow">Is that why your face is so puffy?</font>
+
+499
+00:27:08,340 --> 00:27:11,840
+<font color="yellow">- Really? - Yes. It looks like a balloon.</font>
+
+500
+00:27:11,840 --> 00:27:14,439
+<font color="yellow">One small poke and it might even burst.</font>
+
+501
+00:27:15,070 --> 00:27:16,939
+<font color="yellow">You're so mean.</font>
+
+502
+00:27:17,040 --> 00:27:19,300
+<font color="yellow">You shouldn't deceive people.</font>
+
+503
+00:27:19,300 --> 00:27:22,199
+<font color="yellow">It's fine if you enjoyed yourself. Consider it a fond memory.</font>
+
+504
+00:27:23,140 --> 00:27:25,469
+<font color="yellow">Will you really take everything with you?</font>
+
+505
+00:27:25,900 --> 00:27:26,900
+<font color="yellow">No.</font>
+
+506
+00:27:27,400 --> 00:27:28,800
+<font color="yellow">No way.</font>
+
+507
+00:27:37,140 --> 00:27:39,140
+<font color="yellow">You really packed everything.</font>
+
+508
+00:27:39,140 --> 00:27:41,300
+<font color="yellow">You're greedier than you look.</font>
+
+509
+00:27:41,300 --> 00:27:44,040
+<font color="yellow">You shouldn't leave behind what you paid for.</font>
+
+510
+00:27:50,370 --> 00:27:52,739
+<font color="yellow">- This was here. - There's no end.</font>
+
+511
+00:27:53,840 --> 00:27:56,239
+<font color="yellow">Her behaviour is so outrageous.</font>
+
+512
+00:27:56,239 --> 00:27:58,840
+<font color="yellow">How can she occupy someone else's house and kick the owner out?</font>
+
+513
+00:27:58,840 --> 00:28:00,840
+<font color="yellow">When I went upstairs this morning,</font>
+
+514
+00:28:00,840 --> 00:28:03,400
+<font color="yellow">she even made a breakfast and ate it there.</font>
+
+515
+00:28:03,469 --> 00:28:05,100
+<font color="yellow">It looked like she owns the house.</font>
+
+516
+00:28:05,100 --> 00:28:06,939
+<font color="yellow">She's formidable.</font>
+
+517
+00:28:06,939 --> 00:28:08,199
+<font color="yellow">What kind of person is she?</font>
+
+518
+00:28:09,300 --> 00:28:10,300
+<font color="yellow">- Hello. - You're here.</font>
+
+519
+00:28:12,269 --> 00:28:14,699
+<font color="yellow">I heard that you were kicked out of your house.</font>
+
+520
+00:28:15,169 --> 00:28:17,140
+<font color="yellow">Well, that's what happened.</font>
+
+521
+00:28:18,070 --> 00:28:19,969
+<font color="yellow">Then where did you sleep last night?</font>
+
+522
+00:28:20,070 --> 00:28:22,100
+<font color="yellow">Dong Jin reserved a room in a hotel,</font>
+
+523
+00:28:22,100 --> 00:28:23,269
+<font color="yellow">so I could sleep well.</font>
+
+524
+00:28:23,640 --> 00:28:24,640
+<font color="yellow">- A hotel? - A hotel?</font>
+
+525
+00:28:25,300 --> 00:28:27,870
+<font color="yellow">- It's not like what you think. - It's not like that.</font>
+
+526
+00:28:27,999 --> 00:28:30,199
+<font color="yellow">Did I say something about that?</font>
+
+527
+00:28:30,199 --> 00:28:31,400
+<font color="yellow">- I didn't say anything. - You didn't.</font>
+
+528
+00:28:31,400 --> 00:28:32,640
+<font color="yellow">He didn't.</font>
+
+529
+00:28:32,640 --> 00:28:35,600
+<font color="yellow">I just arranged a room at the hotel and went back home right away.</font>
+
+530
+00:28:35,800 --> 00:28:38,370
+<font color="yellow">- What's wrong with that? - What he said is true.</font>
+
+531
+00:28:38,370 --> 00:28:40,370
+<font color="yellow">All right, all right. No problem with that.</font>
+
+532
+00:28:41,370 --> 00:28:43,540
+<font color="yellow">You slept in a hotel thanks to Dong Jin.</font>
+
+533
+00:28:43,540 --> 00:28:44,840
+<font color="yellow">You enjoyed some luxury, Yun Shil.</font>
+
+534
+00:28:45,469 --> 00:28:46,769
+<font color="yellow">By the way,</font>
+
+535
+00:28:47,340 --> 00:28:49,100
+<font color="yellow">a hotel room must be very expensive.</font>
+
+536
+00:28:49,100 --> 00:28:50,939
+<font color="yellow">You can't live there forever. What shall we do?</font>
+
+537
+00:28:51,400 --> 00:28:54,699
+<font color="yellow">It might be little uncomfortable, but you can stay in my house.</font>
+
+538
+00:28:54,699 --> 00:28:57,070
+<font color="yellow">I don't want to bother you.</font>
+
+539
+00:28:57,070 --> 00:28:59,499
+<font color="yellow">I want you to stay with me,</font>
+
+540
+00:28:59,669 --> 00:29:02,600
+<font color="yellow">but we can't do that as long as that woman is in the rooftop house.</font>
+
+541
+00:29:02,600 --> 00:29:03,640
+<font color="yellow">Yun Shil!</font>
+
+542
+00:29:04,570 --> 00:29:05,669
+<font color="yellow">Your mother-in-law is here.</font>
+
+543
+00:29:09,939 --> 00:29:11,140
+<font color="yellow">What are you doing here?</font>
+
+544
+00:29:11,570 --> 00:29:14,469
+<font color="yellow">I came to find my daughter-in-law who ran away.</font>
+
+545
+00:29:14,840 --> 00:29:17,300
+<font color="yellow">- Why are you doing this to me? - I'm doing my job.</font>
+
+546
+00:29:17,300 --> 00:29:18,370
+<font color="yellow">Excuse me, Ms.</font>
+
+547
+00:29:18,840 --> 00:29:20,640
+<font color="yellow">This is not acceptable.</font>
+
+548
+00:29:21,739 --> 00:29:24,499
+<font color="yellow">How can you occupy someone else's house and kick the owner out?</font>
+
+549
+00:29:24,499 --> 00:29:25,600
+<font color="yellow">It's not someone else's house.</font>
+
+550
+00:29:25,800 --> 00:29:27,900
+<font color="yellow">It's my son's house.</font>
+
+551
+00:29:27,900 --> 00:29:29,600
+<font color="yellow">What nonsense!</font>
+
+552
+00:29:29,999 --> 00:29:32,199
+<font color="yellow">How can you say that it's your son's house?</font>
+
+553
+00:29:32,400 --> 00:29:35,469
+<font color="yellow">Yun Shil made a contract with me, and Yun Shil is paying the rent.</font>
+
+554
+00:29:35,469 --> 00:29:37,239
+<font color="yellow">What belongs to my daughter-in-law also belongs to my son.</font>
+
+555
+00:29:37,239 --> 00:29:39,669
+<font color="yellow">The money between spouses is not separable.</font>
+
+556
+00:29:40,900 --> 00:29:41,939
+<font color="yellow">And you,</font>
+
+557
+00:29:42,300 --> 00:29:43,840
+<font color="yellow">where did you stay last night?</font>
+
+558
+00:29:45,070 --> 00:29:47,840
+<font color="yellow">Did you spend the night together?</font>
+
+559
+00:29:48,499 --> 00:29:51,769
+<font color="yellow">It's none of your business whether we were together or not.</font>
+
+560
+00:29:52,169 --> 00:29:54,199
+<font color="yellow">- What did you say? - You're disturbing the business.</font>
+
+561
+00:29:54,439 --> 00:29:56,469
+<font color="yellow">Please leave the premise.</font>
+
+562
+00:29:59,199 --> 00:30:01,340
+<font color="yellow">I won't leave here...</font>
+
+563
+00:30:01,570 --> 00:30:03,499
+<font color="yellow">until Yun Shil...</font>
+
+564
+00:30:03,739 --> 00:30:05,600
+<font color="yellow">registers the marriage with my son.</font>
+
+565
+00:30:06,169 --> 00:30:07,840
+<font color="yellow">Do you understand?</font>
+
+566
+00:30:08,600 --> 00:30:10,669
+<font color="yellow">Stop being ridiculous.</font>
+
+567
+00:30:10,870 --> 00:30:13,739
+<font color="yellow">I told you I won't register the marriage with Gi Pyo.</font>
+
+568
+00:30:13,739 --> 00:30:14,739
+<font color="yellow">All right.</font>
+
+569
+00:30:14,739 --> 00:30:17,239
+<font color="yellow">We'll see who wins this game.</font>
+
+570
+00:30:21,140 --> 00:30:22,239
+<font color="yellow">Hello, is this the police station?</font>
+
+571
+00:30:22,340 --> 00:30:24,199
+<font color="yellow">This is Wolgyesu Tailor Shop.</font>
+
+572
+00:30:26,169 --> 00:30:27,400
+<font color="yellow">What are you doing, you jerk?</font>
+
+573
+00:30:28,640 --> 00:30:29,999
+<font color="yellow">I can't persuade you with my words.</font>
+
+574
+00:30:30,100 --> 00:30:31,469
+<font color="yellow">I've no choice but to resort to the law.</font>
+
+575
+00:30:32,969 --> 00:30:35,040
+<font color="yellow">What a cheeky fellow!</font>
+
+576
+00:30:35,540 --> 00:30:37,269
+<font color="yellow">You seduced my daughter-in-law,</font>
+
+577
+00:30:37,640 --> 00:30:39,370
+<font color="yellow">and now you even report me to the police?</font>
+
+578
+00:30:39,469 --> 00:30:41,769
+<font color="yellow">I can't tolerate your behaviour any more.</font>
+
+579
+00:30:42,439 --> 00:30:45,239
+<font color="yellow">If you keep entering my shop and disturbing my business,</font>
+
+580
+00:30:45,439 --> 00:30:46,939
+<font color="yellow">You will have to pay for what you have done.</font>
+
+581
+00:30:47,100 --> 00:30:48,999
+<font color="yellow">What did you say?</font>
+
+582
+00:30:49,370 --> 00:30:50,570
+<font color="yellow">This is outrageous.</font>
+
+583
+00:30:50,870 --> 00:30:53,699
+<font color="yellow">My goodness. You...</font>
+
+584
+00:30:56,169 --> 00:30:58,169
+<font color="yellow">They are so vicious!</font>
+
+585
+00:31:02,540 --> 00:31:03,900
+<font color="yellow">- Hello? - Mum, it's me.</font>
+
+586
+00:31:04,540 --> 00:31:06,969
+<font color="yellow">Gi Pyo, my son!</font>
+
+587
+00:31:07,600 --> 00:31:08,699
+<font color="yellow">How is Yun Shil doing?</font>
+
+588
+00:31:08,900 --> 00:31:10,269
+<font color="yellow">She slept out last night.</font>
+
+589
+00:31:11,340 --> 00:31:12,469
+<font color="yellow">She slept out?</font>
+
+590
+00:31:12,800 --> 00:31:14,939
+<font color="yellow">She changed the door lock,</font>
+
+591
+00:31:14,939 --> 00:31:17,800
+<font color="yellow">but I managed to go inside.</font>
+
+592
+00:31:18,040 --> 00:31:20,499
+<font color="yellow">Then she yelled at me to go back to Anseong,</font>
+
+593
+00:31:20,499 --> 00:31:22,640
+<font color="yellow">and went out of the house.</font>
+
+594
+00:31:22,870 --> 00:31:25,999
+<font color="yellow">- How could she! - She has no feelings for you.</font>
+
+595
+00:31:26,600 --> 00:31:27,900
+<font color="yellow">I guess she was with...</font>
+
+596
+00:31:28,469 --> 00:31:29,870
+<font color="yellow">the president of that tailor shop,</font>
+
+597
+00:31:30,100 --> 00:31:32,040
+<font color="yellow">the tall guy, last night.</font>
+
+598
+00:31:32,040 --> 00:31:34,040
+<font color="yellow">I'll get both of them.</font>
+
+599
+00:31:34,040 --> 00:31:36,540
+<font color="yellow">There are a lot of fish in the sea.</font>
+
+600
+00:31:36,739 --> 00:31:37,769
+<font color="yellow">Gi Pyo,</font>
+
+601
+00:31:37,969 --> 00:31:39,439
+<font color="yellow">- Let's put it behind us. - Mum!</font>
+
+602
+00:31:39,439 --> 00:31:42,400
+<font color="yellow">Let's curse them and forget her.</font>
+
+603
+00:31:42,400 --> 00:31:43,969
+<font color="yellow">You can find a better girl for you,</font>
+
+604
+00:31:44,070 --> 00:31:46,239
+<font color="yellow">and make a new start.</font>
+
+605
+00:31:46,469 --> 00:31:47,469
+<font color="yellow">Gi Pyo,</font>
+
+606
+00:31:47,669 --> 00:31:49,199
+<font color="yellow">it's just between us,</font>
+
+607
+00:31:49,600 --> 00:31:52,540
+<font color="yellow">but you didn't finish the wedding, and didn't register the marriage.</font>
+
+608
+00:31:52,540 --> 00:31:55,140
+<font color="yellow">You're almost a stranger to Yun Shil.</font>
+
+609
+00:31:55,140 --> 00:31:56,969
+<font color="yellow">There's no point to be obsessed with her.</font>
+
+610
+00:31:56,969 --> 00:31:59,969
+<font color="yellow">I don't need any other girl except Yun Shil.</font>
+
+611
+00:32:00,239 --> 00:32:02,499
+<font color="yellow">I'll go crazy if that punk takes Yun Shil from me.</font>
+
+612
+00:32:02,499 --> 00:32:04,239
+<font color="yellow">All right, Gi Pyo.</font>
+
+613
+00:32:04,439 --> 00:32:06,199
+<font color="yellow">I'll put everything back to the right place...</font>
+
+614
+00:32:06,300 --> 00:32:10,239
+<font color="yellow">till you get out. Don't worry about it.</font>
+
+615
+00:32:10,340 --> 00:32:12,570
+<font color="yellow">- Don't skip your meal, all right? - Mum.</font>
+
+616
+00:32:12,800 --> 00:32:14,739
+<font color="yellow">Make sure you keep your eyes on her.</font>
+
+617
+00:32:14,900 --> 00:32:17,199
+<font color="yellow">Don't miss anything.</font>
+
+618
+00:32:17,570 --> 00:32:19,340
+<font color="yellow">Did you forget my nickname?</font>
+
+619
+00:32:19,600 --> 00:32:21,439
+<font color="yellow">It's Anseong bulldog.</font>
+
+620
+00:32:22,640 --> 00:32:25,600
+<font color="yellow">Sure. Talk to you later. Bye.</font>
+
+621
+00:32:28,040 --> 00:32:29,600
+<font color="yellow">I don't know why he's so obsessed with...</font>
+
+622
+00:32:29,600 --> 00:32:32,040
+<font color="yellow">a girl who doesn't like him.</font>
+
+623
+00:32:33,439 --> 00:32:35,699
+<font color="yellow">What a fate.</font>
+
+624
+00:32:35,699 --> 00:32:37,499
+<font color="yellow">My goodness.</font>
+
+625
+00:32:47,900 --> 00:32:49,100
+<font color="yellow">Honey!</font>
+
+626
+00:32:49,439 --> 00:32:50,439
+<font color="yellow">Honey!</font>
+
+627
+00:32:55,669 --> 00:32:58,870
+<font color="yellow">- What are you doing here? - You wanted to tell me something.</font>
+
+628
+00:32:59,269 --> 00:33:00,800
+<font color="yellow">We'd better talk here than in the shop.</font>
+
+629
+00:33:00,840 --> 00:33:01,840
+<font color="yellow">I see.</font>
+
+630
+00:33:01,840 --> 00:33:02,969
+<font color="yellow">I almost forgot.</font>
+
+631
+00:33:07,340 --> 00:33:08,400
+<font color="yellow">You should drink this.</font>
+
+632
+00:33:11,600 --> 00:33:13,570
+<font color="yellow">- What's this? - It's oriental medicine for Mum.</font>
+
+633
+00:33:13,640 --> 00:33:15,169
+<font color="yellow">It's very good for health.</font>
+
+634
+00:33:15,400 --> 00:33:16,469
+<font color="yellow">Drink it, Tae Yang.</font>
+
+635
+00:33:17,600 --> 00:33:19,269
+<font color="yellow">You shouldn't bring your mother's medicine here.</font>
+
+636
+00:33:20,340 --> 00:33:23,070
+<font color="yellow">Mum takes other healthy stuff herself.</font>
+
+637
+00:33:23,169 --> 00:33:25,570
+<font color="yellow">You should drink this,</font>
+
+638
+00:33:25,570 --> 00:33:26,570
+<font color="yellow">and get healthier.</font>
+
+639
+00:33:36,939 --> 00:33:38,239
+<font color="yellow">That's good.</font>
+
+640
+00:33:39,499 --> 00:33:42,340
+<font color="yellow">How do you feel? Do you feel stronger?</font>
+
+641
+00:33:43,239 --> 00:33:45,769
+<font color="yellow">I just had one, how can I feel that right now?</font>
+
+642
+00:33:46,400 --> 00:33:48,540
+<font color="yellow">- Shall I give you one more? - No, it's enough.</font>
+
+643
+00:33:50,469 --> 00:33:53,300
+<font color="yellow">Don't forget to take 1 pouch, 3 times a day.</font>
+
+644
+00:33:54,769 --> 00:33:57,370
+<font color="yellow">I'm fine. Bring it back to your mother before she finds out.</font>
+
+645
+00:33:57,640 --> 00:33:59,939
+<font color="yellow">Mum takes so many other things,</font>
+
+646
+00:33:59,939 --> 00:34:01,999
+<font color="yellow">so she won't notice whether it's gone.</font>
+
+647
+00:34:03,640 --> 00:34:04,669
+<font color="yellow">By the way,</font>
+
+648
+00:34:05,699 --> 00:34:08,140
+<font color="yellow">What is the thing you wanted to tell me?</font>
+
+649
+00:34:11,769 --> 00:34:12,970
+<font color="yellow">I have something to confess to you.</font>
+
+650
+00:34:13,269 --> 00:34:14,300
+<font color="yellow">Something to confess to me?</font>
+
+651
+00:34:15,269 --> 00:34:16,439
+<font color="yellow">I once told you,</font>
+
+652
+00:34:17,340 --> 00:34:19,939
+<font color="yellow">I had met a girl before I met you.</font>
+
+653
+00:34:21,470 --> 00:34:22,470
+<font color="yellow">Right.</font>
+
+654
+00:34:22,470 --> 00:34:24,139
+<font color="yellow">Let me tell you something about her.</font>
+
+655
+00:34:26,570 --> 00:34:28,400
+<font color="yellow">Are you going to see her again?</font>
+
+656
+00:34:30,840 --> 00:34:32,139
+<font color="yellow">That's nonsense.</font>
+
+657
+00:34:32,639 --> 00:34:34,369
+<font color="yellow">She has nothing to do with me.</font>
+
+658
+00:34:35,840 --> 00:34:37,539
+<font color="yellow">You're the only girl for me now.</font>
+
+659
+00:34:38,300 --> 00:34:39,400
+<font color="yellow">I swear.</font>
+
+660
+00:34:40,610 --> 00:34:41,639
+<font color="yellow">I'm relieved.</font>
+
+661
+00:34:47,039 --> 00:34:49,639
+<font color="yellow">Then what do you want to talk about her?</font>
+
+662
+00:34:51,800 --> 00:34:53,610
+<font color="yellow">I feel like I'm deceiving you.</font>
+
+663
+00:34:54,740 --> 00:34:56,499
+<font color="yellow">I think you must know who she is.</font>
+
+664
+00:34:56,499 --> 00:34:58,539
+<font color="yellow">Don't say anything. I won't listen.</font>
+
+665
+00:35:00,300 --> 00:35:01,400
+<font color="yellow">Please.</font>
+
+666
+00:35:02,400 --> 00:35:03,610
+<font color="yellow">I don't want to know.</font>
+
+667
+00:35:04,610 --> 00:35:06,840
+<font color="yellow">- Hyo Won. - It is what happened in the past.</font>
+
+668
+00:35:07,269 --> 00:35:09,669
+<font color="yellow">Nothing good comes if I know who she is.</font>
+
+669
+00:35:10,999 --> 00:35:13,340
+<font color="yellow">I'll compare myself with her,</font>
+
+670
+00:35:13,769 --> 00:35:15,139
+<font color="yellow">and it will bother me.</font>
+
+671
+00:35:16,610 --> 00:35:18,869
+<font color="yellow">Still I think you should know who she is.</font>
+
+672
+00:35:18,869 --> 00:35:20,970
+<font color="yellow">Then Shall I tell you about the guy at the church I liked,</font>
+
+673
+00:35:20,970 --> 00:35:23,269
+<font color="yellow">and the idol singer I liked when I was a high school girl?</font>
+
+674
+00:35:23,269 --> 00:35:25,240
+<font color="yellow">It's different.</font>
+
+675
+00:35:25,240 --> 00:35:26,439
+<font color="yellow">It's not different.</font>
+
+676
+00:35:27,039 --> 00:35:28,639
+<font color="yellow">The past is the past.</font>
+
+677
+00:35:29,439 --> 00:35:31,139
+<font color="yellow">I don't want to care about useless things.</font>
+
+678
+00:35:32,999 --> 00:35:34,269
+<font color="yellow">I won't listen at all.</font>
+
+679
+00:35:44,200 --> 00:35:45,200
+<font color="yellow">Wait a second.</font>
+
+680
+00:35:46,769 --> 00:35:49,070
+<font color="yellow">- Hello. - May I talk to Kang Tae Yang.</font>
+
+681
+00:35:50,470 --> 00:35:51,700
+<font color="yellow">I'm speaking.</font>
+
+682
+00:35:52,110 --> 00:35:55,269
+<font color="yellow">This is producer Kim Min Su of ADTOWN, an advertisement agency.</font>
+
+683
+00:35:55,539 --> 00:35:56,769
+<font color="yellow">An advertisement agency?</font>
+
+684
+00:36:03,769 --> 00:36:04,840
+<font color="yellow">(Kim Min Su, Producer)</font>
+
+685
+00:36:06,169 --> 00:36:09,300
+<font color="yellow">You modelled at the runway of Suit Tailoring Competition, right?</font>
+
+686
+00:36:09,939 --> 00:36:12,300
+<font color="yellow">Yes, my acquaintance attended the competition,</font>
+
+687
+00:36:12,300 --> 00:36:13,539
+<font color="yellow">so I modelled for amusement.</font>
+
+688
+00:36:13,999 --> 00:36:15,200
+<font color="yellow">What's wrong?</font>
+
+689
+00:36:15,200 --> 00:36:17,240
+<font color="yellow">I saw you at the satellite television.</font>
+
+690
+00:36:17,470 --> 00:36:19,039
+<font color="yellow">You were impressive.</font>
+
+691
+00:36:21,970 --> 00:36:24,700
+<font color="yellow">We're launching an advertisement.</font>
+
+692
+00:36:24,700 --> 00:36:27,470
+<font color="yellow">I want to be a model for the paper advertisement.</font>
+
+693
+00:36:27,939 --> 00:36:29,200
+<font color="yellow">My goodness.</font>
+
+694
+00:36:30,039 --> 00:36:33,669
+<font color="yellow">Are you saying that Tae Yang will be a model?</font>
+
+695
+00:36:33,669 --> 00:36:35,669
+<font color="yellow">He looks pure and innocent,</font>
+
+696
+00:36:35,869 --> 00:36:38,369
+<font color="yellow">so I think he fits for the image of our new advertisement.</font>
+
+697
+00:36:38,369 --> 00:36:41,400
+<font color="yellow">The advertiser also wants a model not well known to the public.</font>
+
+698
+00:36:41,400 --> 00:36:42,400
+<font color="yellow">My goodness.</font>
+
+699
+00:36:43,240 --> 00:36:44,369
+<font color="yellow">This is unbelievable.</font>
+
+700
+00:36:45,740 --> 00:36:47,639
+<font color="yellow">It's unbelievable.</font>
+
+701
+00:36:48,300 --> 00:36:51,039
+<font color="yellow">- It's unbelievable. - Hyo Won, Hyo Won.</font>
+
+702
+00:36:51,769 --> 00:36:53,470
+<font color="yellow">I've never shot an advertisement before.</font>
+
+703
+00:36:53,470 --> 00:36:56,610
+<font color="yellow">Don't feel pressured. We'll start with a paper advertisement first.</font>
+
+704
+00:36:56,740 --> 00:36:58,800
+<font color="yellow">We'll pay you enough.</font>
+
+705
+00:36:58,900 --> 00:37:00,200
+<font color="yellow">You'll pay me?</font>
+
+706
+00:37:00,669 --> 00:37:03,369
+<font color="yellow">Sure. How can I ask you to work for nothing?</font>
+
+707
+00:37:04,039 --> 00:37:05,110
+<font color="yellow">Then,</font>
+
+708
+00:37:06,439 --> 00:37:09,039
+<font color="yellow">shall we talk about the guarantee?</font>
+
+709
+00:37:10,439 --> 00:37:11,639
+<font color="yellow">Who is she?</font>
+
+710
+00:37:12,039 --> 00:37:15,369
+<font color="yellow">Me? I'm Kang Tae Yang's manager and stylist.</font>
+
+711
+00:37:17,139 --> 00:37:18,200
+<font color="yellow">I see.</font>
+
+712
+00:37:24,769 --> 00:37:25,769
+<font color="yellow">Excuse me.</font>
+
+713
+00:37:26,900 --> 00:37:30,139
+<font color="yellow">- Excuse me. - Coming, Madam Ko!</font>
+
+714
+00:37:30,439 --> 00:37:31,499
+<font color="yellow">Well,</font>
+
+715
+00:37:31,840 --> 00:37:33,669
+<font color="yellow">where is Doctor Oh's oriental medicine?</font>
+
+716
+00:37:33,700 --> 00:37:36,169
+<font color="yellow">- Pardon? - It was in the kitchen yesterday.</font>
+
+717
+00:37:36,900 --> 00:37:38,300
+<font color="yellow">Oh, that one.</font>
+
+718
+00:37:40,300 --> 00:37:41,869
+<font color="yellow">Hoy Won took it...</font>
+
+719
+00:37:42,070 --> 00:37:44,110
+<font color="yellow">said she would give to Tae Yang.</font>
+
+720
+00:37:44,869 --> 00:37:47,769
+<font color="yellow">- What? - Mum, Mum, Mum!</font>
+
+721
+00:37:47,769 --> 00:37:48,769
+<font color="yellow">You!</font>
+
+722
+00:37:49,369 --> 00:37:50,439
+<font color="yellow">Hey,</font>
+
+723
+00:37:51,139 --> 00:37:52,869
+<font color="yellow">where is Doctor Oh's oriental medicine?</font>
+
+724
+00:37:52,999 --> 00:37:54,769
+<font color="yellow">I heard you gave it to Tae Yang.</font>
+
+725
+00:37:55,039 --> 00:37:57,439
+<font color="yellow">- That's not important right now. - What?</font>
+
+726
+00:37:57,470 --> 00:37:59,499
+<font color="yellow">Tae Yang will become a model.</font>
+
+727
+00:37:59,499 --> 00:38:01,669
+<font color="yellow">What on earth are you talking about now?</font>
+
+728
+00:38:01,999 --> 00:38:03,439
+<font color="yellow">Tae Yang will become a model?</font>
+
+729
+00:38:03,439 --> 00:38:06,970
+<font color="yellow">He'll make his debut on magazines and newspapers.</font>
+
+730
+00:38:07,970 --> 00:38:09,439
+<font color="yellow">- Are you serious? - Yes.</font>
+
+731
+00:38:09,439 --> 00:38:12,269
+<font color="yellow">He'll sign the contract as soon as he gets off work...</font>
+
+732
+00:38:12,269 --> 00:38:13,400
+<font color="yellow">and will get a camera test done.</font>
+
+733
+00:38:13,400 --> 00:38:16,240
+<font color="yellow">So are you saying that he got picked up by an agency?</font>
+
+734
+00:38:16,240 --> 00:38:18,999
+<font color="yellow">That's right. It's something like that.</font>
+
+735
+00:38:19,439 --> 00:38:22,200
+<font color="yellow">Your future son-in-law will become a Korean wave star soon.</font>
+
+736
+00:38:22,200 --> 00:38:23,200
+<font color="yellow">Korean wave star?</font>
+
+737
+00:38:23,200 --> 00:38:25,470
+<font color="yellow">I'll give him all the support he needs...</font>
+
+738
+00:38:25,470 --> 00:38:26,970
+<font color="yellow">and groom him into a global star.</font>
+
+739
+00:38:28,110 --> 00:38:30,539
+<font color="yellow">Modelling for a mere advertisement won't make him a star.</font>
+
+740
+00:38:30,539 --> 00:38:32,999
+<font color="yellow">Don't you think you're getting too ahead of yourself?</font>
+
+741
+00:38:32,999 --> 00:38:34,470
+<font color="yellow">Whatever. I'm busy right now.</font>
+
+742
+00:38:35,499 --> 00:38:37,039
+<font color="yellow">Why are you busy all of a sudden?</font>
+
+743
+00:38:37,039 --> 00:38:39,970
+<font color="yellow">There are so many things I have to do to take care of Tae Yang.</font>
+
+744
+00:38:50,800 --> 00:38:52,900
+<font color="yellow">I wanted to become a model when I was young.</font>
+
+745
+00:38:55,240 --> 00:38:57,439
+<font color="yellow">If I was a little taller,</font>
+
+746
+00:38:58,800 --> 00:39:01,570
+<font color="yellow">I would be enjoying worldwide fame right now.</font>
+
+747
+00:39:03,769 --> 00:39:05,269
+<font color="yellow">I'm jealous of Tae Yang.</font>
+
+748
+00:39:17,369 --> 00:39:19,139
+<font color="yellow">What an unexpected visit.</font>
+
+749
+00:39:20,470 --> 00:39:23,240
+<font color="yellow">Why didn't you tell me anything?</font>
+
+750
+00:39:24,200 --> 00:39:25,999
+<font color="yellow">I heard that Hyo Won...</font>
+
+751
+00:39:26,769 --> 00:39:28,269
+<font color="yellow">is seeing Tae Yang.</font>
+
+752
+00:39:29,669 --> 00:39:30,740
+<font color="yellow">How did you know?</font>
+
+753
+00:39:30,740 --> 00:39:32,769
+<font color="yellow">Hyo Won told me when I was talking to her yesterday.</font>
+
+754
+00:39:34,139 --> 00:39:36,740
+<font color="yellow">I couldn't get any sleep last night because my heart was racing so fast.</font>
+
+755
+00:39:36,740 --> 00:39:38,070
+<font color="yellow">Don't worry.</font>
+
+756
+00:39:38,470 --> 00:39:41,700
+<font color="yellow">Tae Yang and Hyo Won will not be able to get married.</font>
+
+757
+00:39:42,269 --> 00:39:43,999
+<font color="yellow">Are you sure?</font>
+
+758
+00:39:43,999 --> 00:39:45,700
+<font color="yellow">Have you ever seen me talking nonsense?</font>
+
+759
+00:39:46,240 --> 00:39:48,039
+<font color="yellow">Their relationship will not work out.</font>
+
+760
+00:39:48,740 --> 00:39:50,840
+<font color="yellow">I don't know why things keep getting complicated like this.</font>
+
+761
+00:39:51,999 --> 00:39:53,800
+<font color="yellow">I'm really sorry, Hyo Sang.</font>
+
+762
+00:39:58,769 --> 00:39:59,800
+<font color="yellow">So...</font>
+
+763
+00:40:00,740 --> 00:40:02,740
+<font color="yellow">let's get married as soon as possible.</font>
+
+764
+00:40:03,169 --> 00:40:05,470
+<font color="yellow">If that happens, they won't be able to do anything.</font>
+
+765
+00:40:06,200 --> 00:40:07,639
+<font color="yellow">They'll just have to break up.</font>
+
+766
+00:40:13,900 --> 00:40:15,169
+<font color="yellow">You guys are working so hard.</font>
+
+767
+00:40:16,269 --> 00:40:18,470
+<font color="yellow">- Here. Have some tea. - Gosh, thank you.</font>
+
+768
+00:40:19,200 --> 00:40:20,300
+<font color="yellow">Please have some tea.</font>
+
+769
+00:40:25,499 --> 00:40:27,200
+<font color="yellow">How much longer will it take?</font>
+
+770
+00:40:27,200 --> 00:40:30,369
+<font color="yellow">It's a small room, so it'll be done within an hour.</font>
+
+771
+00:40:30,369 --> 00:40:31,999
+<font color="yellow">Please do a good job.</font>
+
+772
+00:40:31,999 --> 00:40:33,070
+<font color="yellow">Of course.</font>
+
+773
+00:40:34,840 --> 00:40:37,439
+<font color="yellow">She'll stay here only for a short while.</font>
+
+774
+00:40:37,439 --> 00:40:39,740
+<font color="yellow">Why are you redoing the wallpaper as well as the floor?</font>
+
+775
+00:40:39,740 --> 00:40:40,840
+<font color="yellow">It's a waste of money.</font>
+
+776
+00:40:40,840 --> 00:40:43,240
+<font color="yellow">I want to make sure that the room is clean even if it's only for a day.</font>
+
+777
+00:40:43,240 --> 00:40:46,139
+<font color="yellow">Redoing the wallpaper and floor doesn't cost as much as you think.</font>
+
+778
+00:40:46,139 --> 00:40:49,369
+<font color="yellow">Gosh, this is such a hassle.</font>
+
+779
+00:40:50,570 --> 00:40:51,800
+<font color="yellow">Look at all this dust.</font>
+
+780
+00:41:05,639 --> 00:41:07,700
+<font color="yellow">Are you going to stay at the hotel again tonight?</font>
+
+781
+00:41:08,639 --> 00:41:11,169
+<font color="yellow">I only stayed there last night because Mr Lee was worried.</font>
+
+782
+00:41:11,169 --> 00:41:12,939
+<font color="yellow">I should sleep at the sauna today.</font>
+
+783
+00:41:12,939 --> 00:41:16,369
+<font color="yellow">Gosh, you'll probably have to do this for a while. What a disaster.</font>
+
+784
+00:41:16,369 --> 00:41:20,269
+<font color="yellow">I've never seen such a rude, nasty woman in my entire life.</font>
+
+785
+00:41:24,570 --> 00:41:26,039
+<font color="yellow">Hello.</font>
+
+786
+00:41:26,900 --> 00:41:28,269
+<font color="yellow">I'd like medicine for my headache.</font>
+
+787
+00:41:28,269 --> 00:41:29,999
+<font color="yellow">Could you describe your headache for me?</font>
+
+788
+00:41:29,999 --> 00:41:31,869
+<font color="yellow">I didn't get a good night sleep,</font>
+
+789
+00:41:31,869 --> 00:41:34,300
+<font color="yellow">so my head is pounding, and it feels heavy.</font>
+
+790
+00:41:36,110 --> 00:41:37,200
+<font color="yellow">Here you go.</font>
+
+791
+00:41:37,869 --> 00:41:40,300
+<font color="yellow">I'll take this, too. It'll energise me.</font>
+
+792
+00:41:40,300 --> 00:41:41,300
+<font color="yellow">Sure.</font>
+
+793
+00:41:47,039 --> 00:41:49,740
+<font color="yellow">Shouldn't he be at work now? Where's he going all dressed up?</font>
+
+794
+00:41:51,970 --> 00:41:52,999
+<font color="yellow">Honey...</font>
+
+795
+00:42:27,439 --> 00:42:28,840
+<font color="yellow">I'm sorry.</font>
+
+796
+00:42:31,869 --> 00:42:33,070
+<font color="yellow">Goodness.</font>
+
+797
+00:42:33,769 --> 00:42:35,470
+<font color="yellow">Why does he care so much about his looks?</font>
+
+798
+00:42:36,610 --> 00:42:38,269
+<font color="yellow">He has been acting suspicious lately.</font>
+
+799
+00:42:39,439 --> 00:42:40,999
+<font color="yellow">Something is certainly fishy.</font>
+
+800
+00:42:54,200 --> 00:42:56,470
+<font color="yellow">It almost looks like he's going on a blind date or something.</font>
+
+801
+00:42:57,840 --> 00:42:59,039
+<font color="yellow">That man...</font>
+
+802
+00:43:00,470 --> 00:43:01,869
+<font color="yellow">He's really acting suspiciously.</font>
+
+803
+00:43:04,400 --> 00:43:07,700
+<font color="yellow">I'll make sure to catch him in action today.</font>
+
+804
+00:43:17,700 --> 00:43:19,240
+<font color="yellow">Sun Nyeo is tailing you.</font>
+
+805
+00:43:23,039 --> 00:43:25,610
+<font color="yellow">Stop. Do not turn around...</font>
+
+806
+00:43:25,610 --> 00:43:28,039
+<font color="yellow">- and act natural. Walk slowly. - Okay.</font>
+
+807
+00:43:29,970 --> 00:43:31,139
+<font color="yellow">Gosh, that bloke...</font>
+
+808
+00:43:33,900 --> 00:43:35,070
+<font color="yellow">Where did he come from?</font>
+
+809
+00:43:35,900 --> 00:43:38,099
+<font color="yellow">Sam Do, where are you going by the way?</font>
+
+810
+00:43:38,169 --> 00:43:40,039
+<font color="yellow">I'll... I'll tell you later.</font>
+
+811
+00:43:40,039 --> 00:43:43,300
+<font color="yellow">Okay. I think you should take a different route.</font>
+
+812
+00:43:43,300 --> 00:43:44,939
+<font color="yellow">All right. Thanks, Tae Pyung.</font>
+
+813
+00:43:47,400 --> 00:43:49,400
+<font color="yellow">Sam Do, are you cheating on Sun Nyeo?</font>
+
+814
+00:43:49,400 --> 00:43:51,200
+<font color="yellow">No, not at all.</font>
+
+815
+00:43:51,740 --> 00:43:54,099
+<font color="yellow">Let's talk about the details later.</font>
+
+816
+00:43:54,099 --> 00:43:55,139
+<font color="yellow">You should go that way.</font>
+
+817
+00:43:57,099 --> 00:43:58,099
+<font color="yellow">(Oh Young Eun Bakery)</font>
+
+818
+00:44:25,269 --> 00:44:26,300
+<font color="yellow">What?</font>
+
+819
+00:44:26,970 --> 00:44:30,070
+<font color="yellow">He got dressed up to the nines to come to a book store?</font>
+
+820
+00:44:46,400 --> 00:44:47,669
+<font color="yellow">I must admit, he looks dashing.</font>
+
+821
+00:44:52,039 --> 00:44:54,369
+<font color="yellow">I'll just sleep at the sauna today.</font>
+
+822
+00:44:55,400 --> 00:44:57,800
+<font color="yellow">I felt like I was wearing an ill-fitting outfit...</font>
+
+823
+00:44:57,800 --> 00:45:00,340
+<font color="yellow">the whole time I was in the hotel room.</font>
+
+824
+00:45:00,340 --> 00:45:02,269
+<font color="yellow">I had trouble falling asleep, too.</font>
+
+825
+00:45:02,700 --> 00:45:05,169
+<font color="yellow">All right. I knew you'd say that,</font>
+
+826
+00:45:05,169 --> 00:45:07,400
+<font color="yellow">so I found a much better place for you to stay.</font>
+
+827
+00:45:07,400 --> 00:45:10,300
+<font color="yellow">Gosh, it's really okay. I can sleep anywhere.</font>
+
+828
+00:45:10,300 --> 00:45:11,340
+<font color="yellow">Goodness.</font>
+
+829
+00:45:11,639 --> 00:45:13,300
+<font color="yellow">Just come with me.</font>
+
+830
+00:45:13,300 --> 00:45:15,800
+<font color="yellow">You don't have to stay there if you don't like it.</font>
+
+831
+00:45:15,999 --> 00:45:17,769
+<font color="yellow">- Really? - Yes.</font>
+
+832
+00:45:17,939 --> 00:45:20,700
+<font color="yellow">I'm 100 percent sure that you'd like this place I'm about to show you.</font>
+
+833
+00:45:21,099 --> 00:45:22,139
+<font color="yellow">Where is it?</font>
+
+834
+00:45:22,139 --> 00:45:24,499
+<font color="yellow">You'll know when you see it. Let's go.</font>
+
+835
+00:45:34,139 --> 00:45:35,300
+<font color="yellow">Why did you bring me here?</font>
+
+836
+00:45:35,300 --> 00:45:37,740
+<font color="yellow">We have a room that's even better than a hotel room.</font>
+
+837
+00:45:38,269 --> 00:45:39,340
+<font color="yellow">Come in.</font>
+
+838
+00:45:49,200 --> 00:45:50,599
+<font color="yellow">Oh, watch your feet.</font>
+
+839
+00:46:00,240 --> 00:46:01,300
+<font color="yellow">Do you like it?</font>
+
+840
+00:46:02,039 --> 00:46:03,240
+<font color="yellow">How did you do this?</font>
+
+841
+00:46:03,240 --> 00:46:04,939
+<font color="yellow">We used to use this room as a storage.</font>
+
+842
+00:46:04,939 --> 00:46:07,400
+<font color="yellow">We just got the wallpaper and floor redone.</font>
+
+843
+00:46:10,439 --> 00:46:12,470
+<font color="yellow">Nice, it's warm. Good.</font>
+
+844
+00:46:13,570 --> 00:46:15,340
+<font color="yellow">- Dong Jin. - Don't worry.</font>
+
+845
+00:46:15,340 --> 00:46:17,439
+<font color="yellow">My parents are also fine with you staying here.</font>
+
+846
+00:46:17,470 --> 00:46:18,539
+<font color="yellow">Seriously?</font>
+
+847
+00:46:18,539 --> 00:46:21,900
+<font color="yellow">We got this room ready in a rush, so it's not perfect,</font>
+
+848
+00:46:21,900 --> 00:46:23,539
+<font color="yellow">but it'll be good enough to stay for a while.</font>
+
+849
+00:46:23,539 --> 00:46:25,869
+<font color="yellow">Mr Lee, thank you so much.</font>
+
+850
+00:46:25,869 --> 00:46:28,769
+<font color="yellow">Don't mention it. We're just letting you use the spare room.</font>
+
+851
+00:46:28,769 --> 00:46:32,340
+<font color="yellow">I was actually quite worried about what to do.</font>
+
+852
+00:46:33,169 --> 00:46:34,470
+<font color="yellow">Thank you very much.</font>
+
+853
+00:46:34,470 --> 00:46:36,169
+<font color="yellow">You don't need to thank me.</font>
+
+854
+00:46:36,169 --> 00:46:39,740
+<font color="yellow">Dong Jin is the one who cleaned mould off the walls...</font>
+
+855
+00:46:39,740 --> 00:46:43,240
+<font color="yellow">and hired people to redo the wallpaper as well as the floor.</font>
+
+856
+00:46:51,470 --> 00:46:52,639
+<font color="yellow">Ms Choi.</font>
+
+857
+00:46:53,240 --> 00:46:55,599
+<font color="yellow">Thank you for your help.</font>
+
+858
+00:46:56,039 --> 00:46:58,639
+<font color="yellow">Letting you use the extra room we have isn't a big deal.</font>
+
+859
+00:47:00,599 --> 00:47:02,070
+<font color="yellow">- Yun Shil. - Yes.</font>
+
+860
+00:47:02,070 --> 00:47:04,669
+<font color="yellow">You spend a lot of time with Dong Jin,</font>
+
+861
+00:47:04,669 --> 00:47:06,499
+<font color="yellow">so you must know.</font>
+
+862
+00:47:06,900 --> 00:47:09,039
+<font color="yellow">Pardon me? What do you mean?</font>
+
+863
+00:47:09,039 --> 00:47:10,340
+<font color="yellow">Is Dong Jin...</font>
+
+864
+00:47:10,769 --> 00:47:12,740
+<font color="yellow">seeing someone these days?</font>
+
+865
+00:47:13,900 --> 00:47:17,700
+<font color="yellow">I'm not sure. I'm always focused on work, so I don't know if Dong...</font>
+
+866
+00:47:18,169 --> 00:47:22,070
+<font color="yellow">I mean, I don't know anything about Mr Lee's private life.</font>
+
+867
+00:47:23,070 --> 00:47:26,039
+<font color="yellow">Right. You probably don't know.</font>
+
+868
+00:47:26,470 --> 00:47:28,939
+<font color="yellow">I think that he's seeing someone these days,</font>
+
+869
+00:47:29,099 --> 00:47:32,169
+<font color="yellow">but he's keeping it all to himself, so I have no idea what's going on.</font>
+
+870
+00:47:43,340 --> 00:47:44,840
+<font color="yellow">The tofu is slippery.</font>
+
+871
+00:47:44,939 --> 00:47:46,769
+<font color="yellow">I'll help you, Mr Lee.</font>
+
+872
+00:47:46,970 --> 00:47:48,139
+<font color="yellow">Thanks.</font>
+
+873
+00:47:50,539 --> 00:47:53,700
+<font color="yellow">Yun Shil will make a good daughter-in-law.</font>
+
+874
+00:47:56,269 --> 00:47:57,570
+<font color="yellow">Nonsense.</font>
+
+875
+00:48:00,439 --> 00:48:02,340
+<font color="yellow">A lady like Yun Shil is hard to find.</font>
+
+876
+00:48:02,340 --> 00:48:05,169
+<font color="yellow">She's diplomatic and loved by the elderly.</font>
+
+877
+00:48:05,700 --> 00:48:07,539
+<font color="yellow">Shut your mouth and eat your food.</font>
+
+878
+00:48:10,639 --> 00:48:13,669
+<font color="yellow">How can I eat with my mouth shut?</font>
+
+879
+00:48:13,740 --> 00:48:16,240
+<font color="yellow">I need my mouth wide open to put food in it.</font>
+
+880
+00:48:20,240 --> 00:48:22,240
+<font color="yellow">Just eat your food, Jun.</font>
+
+881
+00:48:22,970 --> 00:48:23,970
+<font color="yellow">Okay.</font>
+
+882
+00:48:24,340 --> 00:48:26,400
+<font color="yellow">How's the wedding preparation coming along?</font>
+
+883
+00:48:26,400 --> 00:48:28,269
+<font color="yellow">What's there to prepare?</font>
+
+884
+00:48:28,269 --> 00:48:31,039
+<font color="yellow">We'll just have a nice meal with our family.</font>
+
+885
+00:48:31,240 --> 00:48:32,800
+<font color="yellow">Are you sure that's all you want?</font>
+
+886
+00:48:33,169 --> 00:48:34,869
+<font color="yellow">Do you want me to find you a wedding hall?</font>
+
+887
+00:48:34,970 --> 00:48:36,869
+<font color="yellow">There's no need to make a fuss.</font>
+
+888
+00:48:37,139 --> 00:48:38,669
+<font color="yellow">Let's not make a hassle.</font>
+
+889
+00:48:40,439 --> 00:48:41,470
+<font color="yellow">- Okay. - Okay.</font>
+
+890
+00:48:44,439 --> 00:48:45,470
+<font color="yellow">Eat quickly.</font>
+
+891
+00:48:45,669 --> 00:48:46,669
+<font color="yellow">Okay.</font>
+
+892
+00:48:53,099 --> 00:48:54,139
+<font color="yellow">Do you need help?</font>
+
+893
+00:48:55,999 --> 00:48:58,439
+<font color="yellow">Go back inside before Ms Choi sees you.</font>
+
+894
+00:48:58,570 --> 00:49:01,169
+<font color="yellow">I think you'll be done faster if I help you.</font>
+
+895
+00:49:01,200 --> 00:49:03,139
+<font color="yellow">You're going to give me a heart attack.</font>
+
+896
+00:49:03,539 --> 00:49:06,039
+<font color="yellow">- Get out of here before she comes. - Fine.</font>
+
+897
+00:49:06,139 --> 00:49:09,169
+<font color="yellow">I'll be waiting in your room. Don't make me wait too long.</font>
+
+898
+00:49:10,639 --> 00:49:11,639
+<font color="yellow">I almost forgot.</font>
+
+899
+00:49:15,269 --> 00:49:19,169
+<font color="yellow">- What's wrong with you? - Fine. I'm going.</font>
+
+900
+00:49:29,300 --> 00:49:30,369
+<font color="yellow">Okay.</font>
+
+901
+00:49:52,139 --> 00:49:53,269
+<font color="yellow">That should do it.</font>
+
+902
+00:49:53,869 --> 00:49:54,900
+<font color="yellow">I'm so tired.</font>
+
+903
+00:50:25,099 --> 00:50:28,800
+<font color="yellow">This moment where Dong Jin is resting on my lap...</font>
+
+904
+00:50:29,300 --> 00:50:31,269
+<font color="yellow">feels like a story from a fairy tale.</font>
+
+905
+00:50:32,070 --> 00:50:33,570
+<font color="yellow">I'm worried that...</font>
+
+906
+00:50:34,200 --> 00:50:37,369
+<font color="yellow">this moment of happiness might fly away like the bluebird.</font>
+
+907
+00:50:38,139 --> 00:50:39,539
+<font color="yellow">I am happy,</font>
+
+908
+00:50:39,970 --> 00:50:42,869
+<font color="yellow">but at the same time, I'm not at ease.</font>
+
+909
+00:50:44,400 --> 00:50:45,700
+<font color="yellow">There's no need to feel that way.</font>
+
+910
+00:50:46,400 --> 00:50:48,439
+<font color="yellow">Our fairy tale...</font>
+
+911
+00:50:48,939 --> 00:50:51,269
+<font color="yellow">will most definitely have a happy ending.</font>
+
+912
+00:51:01,900 --> 00:51:03,639
+<font color="yellow">It's coming together nicely.</font>
+
+913
+00:51:05,139 --> 00:51:06,400
+<font color="yellow">How much longer do I have to wait?</font>
+
+914
+00:51:06,400 --> 00:51:08,840
+<font color="yellow">It's almost done. Don't come in.</font>
+
+915
+00:51:09,869 --> 00:51:11,669
+<font color="yellow">It looks good.</font>
+
+916
+00:51:11,669 --> 00:51:14,470
+<font color="yellow">I'd go to the wedding if it wasn't for the deadline for the coat.</font>
+
+917
+00:51:14,470 --> 00:51:16,539
+<font color="yellow">I'll say.</font>
+
+918
+00:51:16,539 --> 00:51:18,200
+<font color="yellow">It's too bad that you can't come.</font>
+
+919
+00:51:18,369 --> 00:51:21,139
+<font color="yellow">Did you wash all the containers?</font>
+
+920
+00:51:21,139 --> 00:51:22,139
+<font color="yellow">I did.</font>
+
+921
+00:51:22,139 --> 00:51:24,340
+<font color="yellow">Thanks for doing this.</font>
+
+922
+00:51:25,900 --> 00:51:28,499
+<font color="yellow">I should have tailored your wedding suit.</font>
+
+923
+00:51:28,499 --> 00:51:30,800
+<font color="yellow">My eyesight's gotten worse.</font>
+
+924
+00:51:31,039 --> 00:51:32,300
+<font color="yellow">I'm sorry about that.</font>
+
+925
+00:51:32,300 --> 00:51:33,369
+<font color="yellow">Don't be.</font>
+
+926
+00:51:33,639 --> 00:51:35,470
+<font color="yellow">I have you to thank for everything.</font>
+
+927
+00:51:36,669 --> 00:51:38,999
+<font color="yellow">Please take good care of Dong Sook and Da Jeong.</font>
+
+928
+00:51:38,999 --> 00:51:40,099
+<font color="yellow">Don't worry, Father.</font>
+
+929
+00:51:40,439 --> 00:51:42,539
+<font color="yellow">I'll support the two ladies...</font>
+
+930
+00:51:42,539 --> 00:51:45,200
+<font color="yellow">with all my heart and soul.</font>
+
+931
+00:51:45,369 --> 00:51:46,400
+<font color="yellow">Thank you.</font>
+
+932
+00:51:55,269 --> 00:51:57,340
+<font color="yellow">We should get going or we'll be late.</font>
+
+933
+00:51:57,340 --> 00:51:58,700
+<font color="yellow">What about Sam Do and Dong Jin?</font>
+
+934
+00:51:58,700 --> 00:52:00,369
+<font color="yellow">They left already.</font>
+
+935
+00:52:00,369 --> 00:52:01,639
+<font color="yellow">They must be busy preparing things.</font>
+
+936
+00:52:01,869 --> 00:52:04,139
+<font color="yellow">Let's go, Mr Lee and Ms Choi.</font>
+
+937
+00:52:04,139 --> 00:52:05,139
+<font color="yellow">Okay.</font>
+
+938
+00:52:05,800 --> 00:52:07,499
+<font color="yellow">What a handsome groom.</font>
+
+939
+00:52:07,539 --> 00:52:08,939
+<font color="yellow">Please look after the house.</font>
+
+940
+00:52:08,939 --> 00:52:11,099
+<font color="yellow">I will. Don't worry.</font>
+
+941
+00:52:11,240 --> 00:52:12,240
+<font color="yellow">After you.</font>
+
+942
+00:52:23,800 --> 00:52:26,269
+<font color="yellow">Wedding halls are nice, but a place like this...</font>
+
+943
+00:52:26,900 --> 00:52:28,070
+<font color="yellow">would be nice, too.</font>
+
+944
+00:52:28,639 --> 00:52:31,669
+<font color="yellow">Yes. It's much more cosy and romantic.</font>
+
+945
+00:52:32,869 --> 00:52:35,400
+<font color="yellow">Should we get married in a place like this later on?</font>
+
+946
+00:52:37,669 --> 00:52:39,070
+<font color="yellow">What is it? Do you not want to?</font>
+
+947
+00:52:39,970 --> 00:52:41,800
+<font color="yellow">I do.</font>
+
+948
+00:52:42,340 --> 00:52:44,570
+<font color="yellow">You just promised me that you'll marry me.</font>
+
+949
+00:52:45,700 --> 00:52:46,999
+<font color="yellow">I guess that means...</font>
+
+950
+00:52:47,400 --> 00:52:48,900
+<font color="yellow">I won't have to propose to you.</font>
+
+951
+00:52:48,900 --> 00:52:50,900
+<font color="yellow">That's not right.</font>
+
+952
+00:52:51,139 --> 00:52:53,869
+<font color="yellow">Do you want to make it official? Fine, then.</font>
+
+953
+00:52:54,200 --> 00:52:55,840
+<font color="yellow">You're a greedy person.</font>
+
+954
+00:52:55,840 --> 00:52:58,570
+<font color="yellow">I didn't mean it like that.</font>
+
+955
+00:52:58,570 --> 00:53:00,099
+<font color="yellow">I get it. I'll do it.</font>
+
+956
+00:53:01,240 --> 00:53:03,240
+<font color="yellow">The wedding ceremony will begin shortly.</font>
+
+957
+00:53:03,269 --> 00:53:04,800
+<font color="yellow">Please be seated.</font>
+
+958
+00:53:05,639 --> 00:53:06,970
+<font color="yellow">We will now begin...</font>
+
+959
+00:53:07,470 --> 00:53:10,599
+<font color="yellow">the wedding ceremony between the groom, Sung Tae Pyung...</font>
+
+960
+00:53:10,800 --> 00:53:15,499
+<font color="yellow">and the bride, Lee Dong Sook.</font>
+
+961
+00:53:15,499 --> 00:53:17,669
+<font color="yellow">There will be a groom entrance.</font>
+
+962
+00:53:18,039 --> 00:53:19,869
+<font color="yellow">Will the groom please come forward?</font>
+
+963
+00:53:41,800 --> 00:53:43,300
+<font color="yellow">Now, there will be...</font>
+
+964
+00:53:43,400 --> 00:53:45,099
+<font color="yellow">a bride entrance.</font>
+
+965
+00:53:46,070 --> 00:53:48,970
+<font color="yellow">Please give her a big round of applause.</font>
+
+966
+00:53:50,070 --> 00:53:51,999
+<font color="yellow">Will the bride please come forward?</font>
+
+967
+00:54:31,269 --> 00:54:32,400
+<font color="yellow">Mister.</font>
+
+968
+00:54:58,300 --> 00:55:00,369
+<font color="yellow">The groom and bride will now bow to each other.</font>
+
+969
+00:55:01,039 --> 00:55:02,039
+<font color="yellow">Bow.</font>
+
+970
+00:55:11,669 --> 00:55:14,900
+<font color="yellow">There will be a wedding pledge between the two.</font>
+
+971
+00:55:15,769 --> 00:55:16,869
+<font color="yellow">I, Sung Tae Pyung,</font>
+
+972
+00:55:18,169 --> 00:55:19,869
+<font color="yellow">take Lee Dong Sook as my wife.</font>
+
+973
+00:55:19,869 --> 00:55:23,300
+<font color="yellow">I pledge to be a loving husband and love her consistently.</font>
+
+974
+00:55:24,900 --> 00:55:26,039
+<font color="yellow">I will protect my wife...</font>
+
+975
+00:55:26,539 --> 00:55:30,340
+<font color="yellow">and our daughter, Da Jeong, from hardship and suffering.</font>
+
+976
+00:55:30,340 --> 00:55:33,669
+<font color="yellow">I pledge to be a reliable husband and father.</font>
+
+977
+00:55:39,369 --> 00:55:40,700
+<font color="yellow">I, Lee Dong Sook,</font>
+
+978
+00:55:40,999 --> 00:55:43,340
+<font color="yellow">take Sung Tae Pyung as my husband.</font>
+
+979
+00:55:43,570 --> 00:55:45,999
+<font color="yellow">I pledge to be...</font>
+
+980
+00:55:46,570 --> 00:55:49,070
+<font color="yellow">a wise wife who trusts and respects her husband.</font>
+
+981
+00:55:51,470 --> 00:55:53,099
+<font color="yellow">- We pledge to our family... - We pledge to our family...</font>
+
+982
+00:55:53,300 --> 00:55:57,499
+<font color="yellow">- and everyone who cares for us. - and everyone who cares for us.</font>
+
+983
+00:55:58,499 --> 00:56:00,439
+<font color="yellow">- Sung Tae Pyung. - Lee Dong Sook.</font>
+
+984
+00:56:01,269 --> 00:56:02,639
+<font color="yellow">We promise to be happy.</font>
+
+985
+00:56:15,139 --> 00:56:16,700
+<font color="yellow">The father of Lee Dong Sook...</font>
+
+986
+00:56:17,200 --> 00:56:19,639
+<font color="yellow">will recite the wedding announcement.</font>
+
+987
+00:56:25,700 --> 00:56:27,369
+<font color="yellow">Sung Tae Pyung and Lee Dong Sook...</font>
+
+988
+00:56:27,700 --> 00:56:30,439
+<font color="yellow">stand in front of us...</font>
+
+989
+00:56:30,599 --> 00:56:32,200
+<font color="yellow">formed a family.</font>
+
+990
+00:56:32,300 --> 00:56:34,070
+<font color="yellow">I'd like to represent...</font>
+
+991
+00:56:34,599 --> 00:56:38,099
+<font color="yellow">everyone in this room...</font>
+
+992
+00:56:38,700 --> 00:56:40,300
+<font color="yellow">and declare them...</font>
+
+993
+00:56:41,139 --> 00:56:42,499
+<font color="yellow">husband and wife.</font>
+
+994
+00:57:04,300 --> 00:57:08,499
+<font color="yellow">It's hard to open my eyes</font>
+
+995
+00:57:08,499 --> 00:57:12,939
+<font color="yellow">It's taller than the mountain</font>
+
+996
+00:57:12,939 --> 00:57:20,869
+<font color="yellow">The sky makes me feel pleasant</font>
+
+997
+00:57:21,340 --> 00:57:25,269
+<font color="yellow">On a holiday morning</font>
+
+998
+00:57:25,470 --> 00:57:29,340
+<font color="yellow">A phone call wakes me up</font>
+
+999
+00:57:29,669 --> 00:57:33,999
+<font color="yellow">Where should we go</font>
+
+1000
+00:57:33,999 --> 00:57:37,840
+<font color="yellow">And what should we do today?</font>
+
+1001
+00:57:37,970 --> 00:57:42,369
+<font color="yellow">A gentle breeze</font>
+
+1002
+00:57:42,369 --> 00:57:46,439
+<font color="yellow">Blows on the window</font>
+
+1003
+00:57:46,499 --> 00:57:49,669
+<font color="yellow">I can feel love</font>
+
+1004
+00:57:49,740 --> 00:57:54,470
+<font color="yellow">I can feel love in the wind</font>
+
+1005
+00:57:54,869 --> 00:57:58,740
+<font color="yellow">In the world where I met you</font>
+
+1006
+00:57:59,169 --> 00:58:03,200
+<font color="yellow">I have no more wishes</font>
+
+1007
+00:58:03,340 --> 00:58:09,999
+<font color="yellow">Being wishful would be a sin</font>
+
+1008
+00:58:17,840 --> 00:58:18,869
+<font color="yellow">You scared me.</font>
+
+1009
+00:58:18,869 --> 00:58:21,639
+<font color="yellow">I've been your fan ever since I was at school.</font>
+
+1010
+00:58:26,539 --> 00:58:27,769
+<font color="yellow">It melts in my mouth.</font>
+
+1011
+00:58:40,740 --> 00:58:42,099
+<font color="yellow">To be honest, I'm touched.</font>
+
+1012
+00:58:42,099 --> 00:58:44,570
+<font color="yellow">You're the only person...</font>
+
+1013
+00:58:44,939 --> 00:58:46,570
+<font color="yellow">to have faith in me and encourage me.</font>
+
+1014
+00:58:47,669 --> 00:58:49,240
+<font color="yellow">I won't ever forget this...</font>
+
+1015
+00:58:50,439 --> 00:58:52,200
+<font color="yellow">until the moment I die.</font>
+
+1016
+00:58:52,200 --> 00:58:54,139
+<font color="yellow">You love me.</font>
+
+1017
+00:58:54,800 --> 00:58:57,400
+<font color="yellow">I do love you.</font>
+
+1018
+00:59:06,999 --> 00:59:10,970
+<font color="yellow">The reason I love you</font>
+
+1019
+00:59:11,300 --> 00:59:15,169
+<font color="yellow">The reason I dream</font>
+
+1020
+00:59:15,470 --> 00:59:22,840
+<font color="yellow">Is you</font>
+
+1021
+00:59:23,740 --> 00:59:27,869
+<font color="yellow">In this world I'm living in</font>
+
+1022
+00:59:27,999 --> 00:59:32,200
+<font color="yellow">During my whole life</font>
+
+1023
+00:59:32,269 --> 00:59:39,300
+<font color="yellow">Nothing will be better than you</font>
+
+1024
+00:59:40,300 --> 00:59:43,300
+<font color="yellow">On December</font>
+
+1025
+00:59:43,300 --> 00:59:47,570
+<font color="yellow">On one</font>
+
+1026
+00:59:47,570 --> 00:59:52,900
+<font color="yellow">Fine day</font>
+
+1027
+00:59:55,700 --> 00:59:57,099
+<font color="yellow">I love you, Dong Sook.</font>
+
+1028
+01:00:09,740 --> 01:00:10,800
+<font color="yellow">It's so cold.</font>
+
+1029
+01:00:12,300 --> 01:00:14,639
+<font color="yellow">What should I have for dinner today?</font>
+
+1030
+01:00:16,369 --> 01:00:19,939
+<font color="yellow">I hope Yun Shil comes home early today.</font>
+
+1031
+01:00:20,340 --> 01:00:23,200
+<font color="yellow">The bride will now throw the bouquet.</font>
+
+1032
+01:00:24,439 --> 01:00:27,240
+<font color="yellow">One, two, three.</font>
+
+1033
+01:00:40,099 --> 01:00:42,970
+<font color="yellow">Who wants to catch mine?</font>
+
+1034
+01:00:47,039 --> 01:00:48,070
+<font color="yellow">Nice.</font>
+
+1035
+01:01:00,439 --> 01:01:01,800
+<font color="yellow">I'll take the picture now.</font>
+
+1036
+01:02:08,900 --> 01:02:10,039
+<font color="yellow">Hyo Won.</font>
+
+1037
+01:02:13,900 --> 01:02:15,639
+<font color="yellow">What are you doing here, Ms Ko?</font>
+
+1038
+01:02:15,639 --> 01:02:17,499
+<font color="yellow">I heard you have a camera test today.</font>
+
+1039
+01:02:18,369 --> 01:02:20,769
+<font color="yellow">- Yes. - You're a model, after all.</font>
+
+1040
+01:02:20,769 --> 01:02:22,999
+<font color="yellow">We can't let you take the bus there.</font>
+
+1041
+01:02:27,639 --> 01:02:30,099
+<font color="yellow">- I'll give you a ride. - Pardon?</font>
+
+1042
+01:02:30,099 --> 01:02:32,439
+<font color="yellow">For now, my mum will be your road manager.</font>
+
+1043
+01:02:32,570 --> 01:02:34,400
+<font color="yellow">I'll be your stylist.</font>
+
+1044
+01:02:34,900 --> 01:02:37,999
+<font color="yellow">I'm just trying out for the job because it pays well.</font>
+
+1045
+01:02:39,999 --> 01:02:42,269
+<font color="yellow">All the Korean Wave stars and top celebrities...</font>
+
+1046
+01:02:42,269 --> 01:02:44,970
+<font color="yellow">started like this at first.</font>
+
+1047
+01:02:45,240 --> 01:02:47,539
+<font color="yellow">I'm nothing like a Korean Wave star.</font>
+
+1048
+01:02:47,539 --> 01:02:50,400
+<font color="yellow">I liked the impression you left when I first saw you.</font>
+
+1049
+01:02:50,400 --> 01:02:53,570
+<font color="yellow">I knew that I have a good eye for noticing people.</font>
+
+1050
+01:02:54,669 --> 01:02:57,070
+<font color="yellow">Didn't you say that his looks won't pay the bills?</font>
+
+1051
+01:02:57,070 --> 01:02:58,700
+<font color="yellow">Be quiet.</font>
+
+1052
+01:02:59,499 --> 01:03:00,539
+<font color="yellow">Wait.</font>
+
+1053
+01:03:01,240 --> 01:03:02,939
+<font color="yellow">We should get going before we're late.</font>
+
+1054
+01:03:02,970 --> 01:03:03,970
+<font color="yellow">Okay.</font>
+
+1055
+01:03:20,499 --> 01:03:22,240
+<font color="yellow">Get in, Honey.</font>
+
+1056
+01:03:23,939 --> 01:03:25,599
+<font color="yellow">I feel too uncomfortable right now.</font>
+
+1057
+01:03:29,470 --> 01:03:31,439
+<font color="yellow">There's no need to feel that way.</font>
+
+1058
+01:03:31,439 --> 01:03:32,439
+<font color="yellow">What about me?</font>
+
+1059
+01:03:33,039 --> 01:03:34,200
+<font color="yellow">You can sit in the front.</font>
+
+1060
+01:03:47,840 --> 01:03:48,869
+<font color="yellow">What is it?</font>
+
+1061
+01:03:51,999 --> 01:03:54,269
+<font color="yellow">You don't have to give me money.</font>
+
+1062
+01:03:54,570 --> 01:03:55,840
+<font color="yellow">It's not money.</font>
+
+1063
+01:03:56,439 --> 01:03:57,470
+<font color="yellow">What's this, Sam Do?</font>
+
+1064
+01:03:57,999 --> 01:03:59,599
+<font color="yellow">It's a love potion.</font>
+
+1065
+01:03:59,599 --> 01:04:01,840
+<font color="yellow">Isn't this what old people take when they go mountain climbing?</font>
+
+1066
+01:04:02,439 --> 01:04:04,300
+<font color="yellow">I'm still young to be taking these.</font>
+
+1067
+01:04:04,300 --> 01:04:05,639
+<font color="yellow">You can keep them.</font>
+
+1068
+01:04:05,639 --> 01:04:07,340
+<font color="yellow">I can tell that you need it.</font>
+
+1069
+01:04:07,340 --> 01:04:09,269
+<font color="yellow">Consider it an advice from a life coach.</font>
+
+1070
+01:04:09,269 --> 01:04:11,700
+<font color="yellow">I said it's fine. Have it your way, then.</font>
+
+1071
+01:04:18,939 --> 01:04:21,070
+<font color="yellow">Where are you going for honeymoon?</font>
+
+1072
+01:04:21,769 --> 01:04:23,970
+<font color="yellow">We're going to go for a drive in Yangpyeong...</font>
+
+1073
+01:04:24,599 --> 01:04:26,900
+<font color="yellow">and stay the night at a hotel.</font>
+
+1074
+01:04:28,169 --> 01:04:29,800
+<font color="yellow">Thanks for lending me your car.</font>
+
+1075
+01:04:29,800 --> 01:04:32,099
+<font color="yellow">Don't mention it. Drive safely.</font>
+
+1076
+01:04:32,099 --> 01:04:33,099
+<font color="yellow">Off you go.</font>
+
+1077
+01:04:33,639 --> 01:04:36,639
+<font color="yellow">You'll regret it later if you don't go on a honeymoon trip.</font>
+
+1078
+01:04:36,639 --> 01:04:39,340
+<font color="yellow">When we make lots of money,</font>
+
+1079
+01:04:39,340 --> 01:04:41,340
+<font color="yellow">we'll go on a trip along with all the family members.</font>
+
+1080
+01:04:41,840 --> 01:04:43,070
+<font color="yellow">Let's do that.</font>
+
+1081
+01:04:43,869 --> 01:04:44,970
+<font color="yellow">Where's your grandmother?</font>
+
+1082
+01:04:44,970 --> 01:04:46,639
+<font color="yellow">She went to the bathroom.</font>
+
+1083
+01:04:49,439 --> 01:04:51,269
+<font color="yellow">Why is the house so far from here?</font>
+
+1084
+01:05:03,840 --> 01:05:06,039
+<font color="yellow">They say you'll run into your worst enemy at the worst time and place.</font>
+
+1085
+01:05:06,800 --> 01:05:08,200
+<font color="yellow">Look who it is.</font>
+
+1086
+01:05:10,070 --> 01:05:11,800
+<font color="yellow">Go on.</font>
+
+1087
+01:05:11,800 --> 01:05:13,240
+<font color="yellow">- Drive safely. - I'm jealous.</font>
+
+1088
+01:05:13,240 --> 01:05:14,599
+<font color="yellow">Hold on.</font>
+
+1089
+01:05:15,869 --> 01:05:16,999
+<font color="yellow">Have a nice trip.</font>
+
+1090
+01:05:18,439 --> 01:05:19,669
+<font color="yellow">Stop right there.</font>
+
+1091
+01:05:29,740 --> 01:05:30,999
+<font color="yellow">What are you doing here?</font>
+
+1092
+01:05:30,999 --> 01:05:32,869
+<font color="yellow">Move aside. I have nothing to say to you.</font>
+
+1093
+01:05:34,869 --> 01:05:38,439
+<font color="yellow">I've been meaning to tell you of something.</font>
+
+1094
+01:06:23,439 --> 01:06:25,999
+<font color="yellow">(The Gentlemen of Wolgyesu Tailor Shop)</font>
+
+1095
+01:06:26,483 --> 01:06:28,769
+<font color="yellow">How can you do this to us on this wonderful day?</font>
+
+1096
+01:06:28,769 --> 01:06:30,240
+<font color="yellow">Don't you think this is too harsh?</font>
+
+1097
+01:06:30,240 --> 01:06:32,999
+<font color="yellow">We were to go through this at least once, so brace yourself.</font>
+
+1098
+01:06:32,999 --> 01:06:35,169
+<font color="yellow">I'm really sorry. I don't know what to say.</font>
+
+1099
+01:06:35,169 --> 01:06:37,570
+<font color="yellow">If we show her how sincere we are, she will eventually take our side.</font>
+
+1100
+01:06:37,570 --> 01:06:40,099
+<font color="yellow">Don't you have any special plans for Christmas Eve?</font>
+
+1101
+01:06:40,099 --> 01:06:42,939
+<font color="yellow">What are you doing? Why are you dressed like that?</font>
+
+1102
+01:06:42,939 --> 01:06:44,700
+<font color="yellow">Who is that? Surely, it's Sam Do.</font>
+
+1103
+01:06:44,700 --> 01:06:46,470
+<font color="yellow">Where do I know that lady from?</font>
+
+1104
+01:06:46,470 --> 01:06:49,539
+<font color="yellow">Don't you have anything to say? Are you not hiding anything from me?</font>
+
+1105
+01:06:49,539 --> 01:06:50,570
+<font color="yellow">I'm sorry?</font>
+
